@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2026-03-26T06:11:28.704Z",
+    "user": "Admin",
+    "action": "DELETE",
+    "targetId": "series_035"
+  },
+  {
+    "timestamp": "2026-03-26T06:18:12.348Z",
+    "user": "Admin",
+    "action": "DELETE",
+    "targetId": "movie_085"
+  }
+]
