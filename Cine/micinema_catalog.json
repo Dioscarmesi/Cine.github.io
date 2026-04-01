@@ -1246,6 +1246,180 @@
       "gridIndex": 67
     },
     {
+      "type": "movie",
+      "title": "Star Wars: Episode IV – A New Hope",
+      "description": "Un joven Anakin Skywalker es descubierto mientras una disputa política amenaza la galaxia.",
+      "duration": "2h 1m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1977,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "War",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_042",
+      "addedAt": "2026-04-01T09:24:42.720Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 68
+    },
+    {
+      "type": "movie",
+      "title": "Star Wars: Episode V – The Empire Strikes Back",
+      "description": "El Imperio contraataca mientras Luke entrena con Yoda.",
+      "duration": "2h 4m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1980,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "War",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_043",
+      "addedAt": "2026-04-01T09:24:47.377Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 69
+    },
+    {
+      "type": "movie",
+      "title": "Star Wars: Episode VI – Return of the Jedi",
+      "description": "La Rebelión enfrenta al Imperio en una batalla final.",
+      "duration": "2h 1m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1983,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "War",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_044",
+      "addedAt": "2026-04-01T09:24:48.831Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 70
+    },
+    {
+      "type": "movie",
+      "title": "Star Wars: Episode III – Revenge of the Sith",
+      "description": "La caída de Anakin Skywalker y el nacimiento de Darth Vader.",
+      "duration": "2h",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "War",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_045",
+      "addedAt": "2026-04-01T09:24:50.170Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 71
+    },
+    {
+      "type": "movie",
+      "title": "Star Wars: Episode II – Attack of the Clones",
+      "description": "Crece la tensión política mientras Anakin se acerca al lado oscuro y protege a Padmé.",
+      "duration": "2h 22m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1999,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "War",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_046",
+      "addedAt": "2026-04-01T09:24:51.143Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 72
+    },
+    {
+      "type": "movie",
+      "title": "Star Wars: Episode I – The Phantom Menace",
+      "description": "Un joven Anakin Skywalker es descubierto mientras una disputa política amenaza la galaxia.",
+      "duration": "2h 6m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1999,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "War",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_047",
+      "addedAt": "2026-04-01T09:24:55.901Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 73
+    },
+    {
       "type": "series",
       "title": "Loky",
       "description": "Loki se aleja de la sombra de su hermano para embarcarse en una aventura que se desarrolla tras los acontecimientos de \"Avengers: Endgame\".",
