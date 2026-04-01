@@ -106,5 +106,95 @@
     "user": "Admin",
     "action": "DELETE",
     "targetId": "movie_042"
+  },
+  {
+    "timestamp": "2026-04-01T09:24:43.358Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_042"
+  },
+  {
+    "timestamp": "2026-04-01T09:24:47.380Z",
+    "user": "Admin",
+    "action": "DUPLICATE",
+    "targetId": "movie_043"
+  },
+  {
+    "timestamp": "2026-04-01T09:24:48.833Z",
+    "user": "Admin",
+    "action": "DUPLICATE",
+    "targetId": "movie_044"
+  },
+  {
+    "timestamp": "2026-04-01T09:24:50.174Z",
+    "user": "Admin",
+    "action": "DUPLICATE",
+    "targetId": "movie_045"
+  },
+  {
+    "timestamp": "2026-04-01T09:24:51.146Z",
+    "user": "Admin",
+    "action": "DUPLICATE",
+    "targetId": "movie_046"
+  },
+  {
+    "timestamp": "2026-04-01T09:24:55.904Z",
+    "user": "Admin",
+    "action": "DUPLICATE",
+    "targetId": "movie_047"
+  },
+  {
+    "timestamp": "2026-04-01T09:25:54.476Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_043"
+  },
+  {
+    "timestamp": "2026-04-01T09:26:39.916Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_044"
+  },
+  {
+    "timestamp": "2026-04-01T09:26:50.604Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_042"
+  },
+  {
+    "timestamp": "2026-04-01T09:27:33.678Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_047"
+  },
+  {
+    "timestamp": "2026-04-01T09:28:10.829Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_046"
+  },
+  {
+    "timestamp": "2026-04-01T09:29:13.595Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_045"
+  },
+  {
+    "timestamp": "2026-04-01T09:29:50.810Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_042"
+  },
+  {
+    "timestamp": "2026-04-01T09:29:55.800Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_046"
+  },
+  {
+    "timestamp": "2026-04-01T09:30:00.703Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_044"
   }
 ]
