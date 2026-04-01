@@ -275,7 +275,7 @@
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
-      "year": 2026,
+      "year": 2012,
       "releaseDate": "2026-03-28",
       "genres": [
         "Action"
@@ -292,6 +292,958 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 7
+    },
+    {
+      "type": "movie",
+      "title": "Guardianes de la Galaxia",
+      "description": "Presenta al equipo: Star-Lord (Peter Quill), Gamora, Drax, Rocket y Groot.\nUn grupo de inadaptados termina uniéndose para evitar que Ronan use una Gema del Infinito para destruir planetas.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2014,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_009",
+      "addedAt": "2026-04-01T04:19:08.980Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 35
+    },
+    {
+      "type": "movie",
+      "title": "Guardianes de la Galaxia V3",
+      "description": "Cierre de la trilogía. Se centra en el pasado de Rocket y en la amenaza del Alto Evolucionador.\nEs la entrega más emocional y oscura.",
+      "duration": "2h 30m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_010",
+      "addedAt": "2026-04-01T04:19:32.124Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 36
+    },
+    {
+      "type": "movie",
+      "title": "Han solo",
+      "description": "Cuenta el origen de Han Solo:\ncómo se convierte en contrabandista, conoce a Chewbacca y gana el Halcón Milenario. También muestra sus primeros trabajos en el mundo criminal y su relación con Lando Calrissian.",
+      "duration": "2h 15m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "12312"
+      },
+      "enabled": true,
+      "id": "movie_011",
+      "addedAt": "2026-04-01T04:22:11.331Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 37
+    },
+    {
+      "type": "movie",
+      "title": "Spider-Man 2",
+      "description": "Peter Parker lucha por equilibrar su vida personal con su responsabilidad como Spider-Man.\nSus poderes comienzan a fallar debido al estrés emocional, mientras enfrenta a un nuevo villano: el Doctor Octopus (Otto Octavius), un científico que se convierte en una amenaza tras un experimento fallido.",
+      "duration": "2h 7m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "dsdfsdfsfd"
+      },
+      "enabled": true,
+      "id": "movie_012",
+      "addedAt": "2026-04-01T04:23:57.131Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 38
+    },
+    {
+      "type": "movie",
+      "title": "Spider-Man 3",
+      "description": "Peter Parker parece haber encontrado equilibrio entre su vida personal y ser Spider-Man, pero todo cambia cuando un simbionte alienígena se une a él, amplificando su lado oscuro.\n",
+      "duration": "2h 19m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasdf"
+      },
+      "enabled": true,
+      "id": "movie_013",
+      "addedAt": "2026-04-01T04:25:59.732Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 39
+    },
+    {
+      "type": "movie",
+      "title": "Spider-Man ",
+      "description": "Cuenta el origen de Peter Parker, un estudiante que obtiene poderes tras ser mordido por una araña modificada genéticamente.\nAl inicio usa sus habilidades para beneficio personal, pero tras la muerte de su tío Ben aprende la lección clave:\n“Un gran poder conlleva una gran responsabilidad.”\n\nSe convierte en Spider-Man y enfrenta al Duende Verde, mientras intenta equilibrar su vida normal con su identidad secreta.",
+      "duration": "2h 1m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_014",
+      "addedAt": "2026-04-01T04:30:00.971Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 40
+    },
+    {
+      "type": "movie",
+      "title": "interestelar",
+      "description": "La historia sigue a Cooper, un ex piloto que se une a una misión espacial para encontrar un nuevo hogar para la humanidad, ya que la Tierra está muriendo por crisis ambientales.\nEl equipo viaja a través de un agujero de gusano cerca de Saturno, explorando planetas en busca de condiciones habitables.\n\nLa película mezcla ciencia real (relatividad, gravedad, tiempo) con una fuerte carga emocional centrada en la relación entre padre e hija.",
+      "duration": "2h 49m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_015",
+      "addedAt": "2026-04-01T04:31:21.112Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 41
+    },
+    {
+      "type": "movie",
+      "title": "John Wick",
+      "description": "La historia sigue a John Wick, un exasesino a sueldo que vuelve al mundo criminal después de que unos delincuentes maten a su perro, el último regalo de su esposa fallecida.\nEsto desata una brutal venganza contra la mafia rusa, mostrando su legendaria reputación en el bajo mundo.",
+      "duration": "1h 41m",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2014,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller",
+        "Music",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "12asda"
+      },
+      "enabled": true,
+      "id": "movie_016",
+      "addedAt": "2026-04-01T04:35:01.977Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 42
+    },
+    {
+      "type": "movie",
+      "title": "John Wick 2",
+      "description": "John Wick: Chapter 2 (2017) es una película de acción y suspense estadounidense dirigida por Chad Stahelski y protagonizada por Keanu Reeves. Es la secuela de John Wick (2014) y amplía el universo del asesino retirado que regresa al submundo criminal. Su estilo visual, coreografías de combate y mundo de reglas secretas consolidaron la franquicia como referente del cine de acción contemporáneo.",
+      "duration": "2h 2m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller",
+        "Music",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "12asda"
+      },
+      "enabled": true,
+      "id": "movie_017",
+      "addedAt": "2026-04-01T04:35:14.453Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 43
+    },
+    {
+      "type": "movie",
+      "title": "John Wick 3",
+      "description": "La historia sigue a John Wick, un exasesino a sueldo que vuelve al mundo criminal después de que unos delincuentes maten a su perro, el último regalo de su esposa fallecida.\nEsto desata una brutal venganza contra la mafia rusa, mostrando su legendaria reputación en el bajo mundo.",
+      "duration": "3h 11m",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller",
+        "Music",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "12asda"
+      },
+      "enabled": true,
+      "id": "movie_018",
+      "addedAt": "2026-04-01T04:35:15.484Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 44
+    },
+    {
+      "type": "movie",
+      "title": "Joker",
+      "description": "La película sigue a Arthur Fleck, un hombre con problemas mentales que vive en Gotham y lucha por encajar en la sociedad.\nA medida que su vida se desmorona por el rechazo, la violencia y la falta de apoyo, comienza una transformación que lo lleva a convertirse en el Joker.\n\nEs una historia de origen mucho más realista y oscura, centrada en la psicología del personaje más que en acción de superhéroes.",
+      "duration": "2h 2m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_019",
+      "addedAt": "2026-04-01T04:39:37.908Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 45
+    },
+    {
+      "type": "movie",
+      "title": "John Wick 4",
+      "description": "La historia sigue a John Wick, un exasesino a sueldo que vuelve al mundo criminal después de que unos delincuentes maten a su perro, el último regalo de su esposa fallecida.\nEsto desata una brutal venganza contra la mafia rusa, mostrando su legendaria reputación en el bajo mundo.",
+      "duration": "2h 49m",
+      "rating": "R",
+      "quality": "BQ",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller",
+        "Music",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "12asda"
+      },
+      "enabled": true,
+      "id": "movie_020",
+      "addedAt": "2026-04-01T04:40:09.416Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 46
+    },
+    {
+      "type": "movie",
+      "title": "Liga de la justicia",
+      "description": "Tras la muerte de Superman, Bruce Wayne (Batman) y Diana Prince (Wonder Woman) forman un equipo para enfrentar una nueva amenaza global: Steppenwolf.\nReclutan a otros héroes como Aquaman, Flash y Cyborg para salvar la Tierra.",
+      "duration": "2h ",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_021",
+      "addedAt": "2026-04-01T04:43:13.728Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 47
+    },
+    {
+      "type": "movie",
+      "title": "Spider-Man: lejos de casa",
+      "description": "Después de los eventos de Avengers: Endgame, Peter Parker intenta tomarse un descanso y viajar por Europa con sus amigos.\nSin embargo, Nick Fury lo recluta para enfrentar a los Elementales junto a un nuevo héroe: Mysterio.\n\nLo que comienza como una misión aparentemente simple termina revelando una amenaza mucho más compleja basada en engaños e ilusiones.",
+      "duration": "2h 9m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "sdfsf"
+      },
+      "enabled": true,
+      "id": "movie_022",
+      "addedAt": "2026-04-01T04:46:32.910Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 48
+    },
+    {
+      "type": "movie",
+      "title": "Spider-Man: Homecoming",
+      "description": "Después de su primera aparición en Captain America: Civil War, Peter Parker intenta demostrar que puede ser un verdadero héroe mientras equilibra su vida como estudiante.\n\nBajo la supervisión de Tony Stark, enfrenta a un nuevo villano: el Buitre, quien utiliza tecnología alienígena para el mercado negro.",
+      "duration": "2h 13m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_023",
+      "addedAt": "2026-04-01T04:49:05.482Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 49
+    },
+    {
+      "type": "movie",
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "description": "El capitán Barbossa le roba el barco al pirata Jack Sparrow y secuestra a Elizabeth, amiga de Will Turner. Barbossa y su tripulación son víctimas de un conjuro que los condena a vivir eternamente y a transformarse cada noche en esqueletos vivientes.",
+      "duration": "2h 23m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2003,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Romance",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_024",
+      "addedAt": "2026-04-01T04:51:12.563Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 50
+    },
+    {
+      "type": "movie",
+      "title": "Pirates of the Caribbean: At World's End",
+      "description": "El capitán Barbossa le roba el barco al pirata Jack Sparrow y secuestra a Elizabeth, amiga de Will Turner. Barbossa y su tripulación son víctimas de un conjuro que los condena a vivir eternamente y a transformarse cada noche en esqueletos vivientes.",
+      "duration": "2h 23m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Romance",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_025",
+      "addedAt": "2026-04-01T04:51:25.833Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 51
+    },
+    {
+      "type": "movie",
+      "title": "Pulp Fiction",
+      "description": "La película entrelaza varias historias del mundo criminal en Los Ángeles:\ndos sicarios, un boxeador, la esposa de un mafioso y otros personajes, cuyas vidas se cruzan de manera no lineal.\n\nEs famosa por su narrativa fragmentada, diálogos icónicos y situaciones inesperadas.",
+      "duration": "2h 34m",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ],
+      "languages": [
+        "English"
+      ],
+      "links": {
+        "default": "sadasd"
+      },
+      "enabled": true,
+      "id": "movie_026",
+      "addedAt": "2026-04-01T04:53:58.339Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 52
+    },
+    {
+      "type": "movie",
+      "title": "Rápido y Furioso",
+      "description": "Brian O'Conner se infiltra como policía encubierto en el mundo de las carreras ilegales y conoce a Dominic Toretto. Lo que empieza como una investigación se convierte en un conflicto entre deber y lealtad.",
+      "duration": "1h 46m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2001,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Crime",
+        "Drama",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_027",
+      "addedAt": "2026-04-01T04:56:13.178Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 53
+    },
+    {
+      "type": "movie",
+      "title": "Rápido y Furioso 2",
+      "description": "Brian, ahora fugitivo, colabora con su amigo Roman Pearce para infiltrarse en una red de narcotráfico y limpiar su historial.",
+      "duration": "1h 47m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2003,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Crime",
+        "Drama",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_028",
+      "addedAt": "2026-04-01T05:15:58.192Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 54
+    },
+    {
+      "type": "movie",
+      "title": "Rápido y Furioso 3 Tokyo Drift",
+      "description": "Sean Boswell se muda a Japón y descubre el mundo del drift. Allí conoce a Han y se involucra con la mafia local.",
+      "duration": "1h 44m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2006,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Crime",
+        "Drama",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_029",
+      "addedAt": "2026-04-01T05:16:28.712Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 55
+    },
+    {
+      "type": "movie",
+      "title": "Rápido y Furioso 4",
+      "description": "Dom y Brian vuelven a cruzarse para vengar la muerte de Letty y enfrentarse a un cartel. Su rivalidad se transforma en alianza.",
+      "duration": "1h 47m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2009,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Crime",
+        "Drama",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_030",
+      "addedAt": "2026-04-01T05:16:29.700Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 56
+    },
+    {
+      "type": "movie",
+      "title": "Rápido y Furioso 5",
+      "description": "El equipo planea un gran robo en Brasil mientras son perseguidos por Luke Hobbs. Marca el cambio hacia el estilo de “gran golpe”.",
+      "duration": "2h 10m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2011,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Crime",
+        "Drama",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_031",
+      "addedAt": "2026-04-01T05:16:30.560Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 57
+    },
+    {
+      "type": "movie",
+      "title": "Rápido y Furioso 6",
+      "description": "Dom y su equipo trabajan con Hobbs para detener a un grupo de mercenarios. Letty reaparece con amnesia.",
+      "duration": "2h 10m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2013,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Crime",
+        "Drama",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_032",
+      "addedAt": "2026-04-01T05:16:31.391Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 58
+    },
+    {
+      "type": "movie",
+      "title": "Rápido y Furioso 7",
+      "description": "Deckard Shaw busca venganza contra el equipo. La historia mezcla acción global y momentos emocionales importantes.",
+      "duration": "2h 17m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2015,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Crime",
+        "Drama",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_033",
+      "addedAt": "2026-04-01T05:16:32.104Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 59
+    },
+    {
+      "type": "movie",
+      "title": "Rápido y Furioso 8",
+      "description": "Dom traiciona al equipo bajo manipulación de una ciberterrorista, obligando a su “familia” a enfrentarlo.",
+      "duration": "2h 16m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Crime",
+        "Drama",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_034",
+      "addedAt": "2026-04-01T05:16:33.855Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 60
+    },
+    {
+      "type": "movie",
+      "title": "Rápido y Furioso 9",
+      "description": "Aparece Jakob Toretto, hermano de Dom. El conflicto se vuelve personal mientras enfrentan una amenaza global.",
+      "duration": "2h 23m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Crime",
+        "Drama",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_035",
+      "addedAt": "2026-04-01T05:24:17.607Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 61
+    },
+    {
+      "type": "movie",
+      "title": "Ready Player One",
+      "description": "En un futuro donde el mundo real está en crisis, la mayoría de las personas escapan a un universo virtual llamado OASIS.\n\nCuando su creador muere, deja un desafío: encontrar un “huevo de pascua” escondido dentro del juego. Quien lo logre obtendrá el control total del sistema.\n\nWade Watts (Parzival) se une a la búsqueda mientras compite contra una corporación que quiere dominar el OASIS.",
+      "duration": "2h 20m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2018,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdada"
+      },
+      "enabled": true,
+      "id": "movie_036",
+      "addedAt": "2026-04-01T05:27:15.590Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 62
+    },
+    {
+      "type": "movie",
+      "title": "Rogue One: una historia de Star Wars",
+      "description": "La historia sigue a un grupo de rebeldes liderados por Jyn Erso, cuya misión es robar los planos de la Estrella de la Muerte, el arma más poderosa del Imperio.\n\nA diferencia de otras películas de Star Wars, tiene un tono más serio y bélico, mostrando el sacrificio detrás de la Rebelión.",
+      "duration": "2h 13m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2016,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "War",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "adsdad"
+      },
+      "enabled": true,
+      "id": "movie_037",
+      "addedAt": "2026-04-01T05:28:59.621Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 63
+    },
+    {
+      "type": "movie",
+      "title": "Blade Runner 2049",
+      "description": "La historia sigue a “K”, un blade runner encargado de cazar replicantes (androides).\nDurante una misión descubre un secreto que podría cambiar el equilibrio entre humanos y replicantes.\n\nSu investigación lo lleva a buscar a Rick Deckard, desaparecido desde hace décadas, conectando directamente con la historia original.",
+      "duration": "2h 44m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Sci-Fi",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_038",
+      "addedAt": "2026-04-01T05:30:23.754Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 64
+    },
+    {
+      "type": "movie",
+      "title": "The Amazing Spider-Man 2",
+      "description": "Peter Parker continúa su vida como Spider-Man mientras intenta cumplir la promesa de mantenerse alejado de Gwen… pero no puede",
+      "duration": "2h 16m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2013,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_039",
+      "addedAt": "2026-04-01T05:32:58.431Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 65
+    },
+    {
+      "type": "movie",
+      "title": "The Amazing Spider-Man",
+      "description": "Cuenta una nueva versión del origen de Peter Parker, enfocándose más en su pasado y en la desaparición de sus padres.\n\nPeter obtiene sus poderes tras ser mordido por una araña modificada genéticamente y comienza a investigar el trabajo de su padre, lo que lo lleva al Dr. Curt Connors, quien termina convirtiéndose en el Lagarto.",
+      "duration": "2h 16m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2013,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_040",
+      "addedAt": "2026-04-01T05:33:01.867Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 66
+    },
+    {
+      "type": "movie",
+      "title": "Spider-Man: No Way Home",
+      "description": "Después de que su identidad es revelada al mundo, Peter Parker pide ayuda a Doctor Strange para revertir la situación.\n\nSin embargo, el hechizo sale mal y abre el multiverso, trayendo villanos de otras realidades al mundo de Peter.\n\nLa película se convierte en un evento masivo donde Spider-Man debe enfrentar las consecuencias de sus decisiones y redefinir quién es.",
+      "duration": "2021",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_041",
+      "addedAt": "2026-04-01T05:35:58.455Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 67
     }
   ],
   "series": [
@@ -317,34 +1269,34 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_009",
+      "id": "series_001",
       "addedAt": "2026-04-01T00:03:43.617Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 8,
       "episodes": [
         {
-          "id": "series_009_language_Spanish_Cap_2",
+          "id": "series_001_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "dsasd"
         },
         {
-          "id": "series_009_language_Spanish_Cap_3",
+          "id": "series_001_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
           "url": "asdasda"
         },
         {
-          "id": "series_009_language_Spanish_Cap_4",
+          "id": "series_001_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
           "url": "asdasd"
         },
         {
-          "id": "series_009_language_Spanish_Cap_5",
+          "id": "series_001_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
           "url": "asdasd"
         },
         {
-          "id": "series_009_language_Spanish_Cap_6",
+          "id": "series_001_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
           "url": "asdasd"
         }
@@ -371,23 +1323,24 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_010",
+      "id": "series_002",
       "addedAt": "2026-04-01T02:28:47.687Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 9,
       "episodes": [
         {
-          "id": "series_010_language_Spanish_Cap_2",
+          "id": "series_002_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "asdad"
         },
         {
-          "id": "series_010_language_Spanish_Cap_3",
+          "id": "series_002_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
           "url": "asdad"
         }
-      ]
+      ],
+      "videoUrl": "asfs"
     },
     {
       "type": "series",
@@ -408,84 +1361,84 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_011",
+      "id": "series_003",
       "addedAt": "2026-04-01T02:58:42.907Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 10,
       "episodes": [
         {
-          "id": "series_011_language_Spanish_Cap_2",
+          "id": "series_003_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "asd"
         },
         {
-          "id": "series_011_language_Spanish_Cap_3",
+          "id": "series_003_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
           "url": "asd"
         },
         {
-          "id": "series_011_language_Spanish_Cap_4",
+          "id": "series_003_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
           "url": "asd"
         },
         {
-          "id": "series_011_language_Spanish_Cap_5",
+          "id": "series_003_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
           "url": "asd"
         },
         {
-          "id": "series_011_language_Spanish_Cap_6",
+          "id": "series_003_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
           "url": "asd"
         },
         {
-          "id": "series_011_language_Spanish_Cap_7",
+          "id": "series_003_language_Spanish_Cap_7",
           "title": "Spanish Cap 7",
           "url": "asd"
         },
         {
-          "id": "series_011_language_Spanish_Cap_8",
+          "id": "series_003_language_Spanish_Cap_8",
           "title": "Spanish Cap 8",
           "url": "asd"
         },
         {
-          "id": "series_011_language_Spanish_Cap_9",
+          "id": "series_003_language_Spanish_Cap_9",
           "title": "Spanish Cap 9",
           "url": "asd"
         },
         {
-          "id": "series_011_language_Spanish_Cap_10",
+          "id": "series_003_language_Spanish_Cap_10",
           "title": "Spanish Cap 10",
           "url": "asd"
         },
         {
-          "id": "series_011_language_Spanish_Cap_11",
+          "id": "series_003_language_Spanish_Cap_11",
           "title": "Spanish Cap 11",
           "url": "asd"
         },
         {
-          "id": "series_011_language_Spanish_Cap_12",
+          "id": "series_003_language_Spanish_Cap_12",
           "title": "Spanish Cap 12",
           "url": "asd"
         },
         {
-          "id": "series_011_language_Spanish_Cap_13",
+          "id": "series_003_language_Spanish_Cap_13",
           "title": "Spanish Cap 13",
           "url": "asd"
         },
         {
-          "id": "series_011_language_Spanish_Cap_14",
+          "id": "series_003_language_Spanish_Cap_14",
           "title": "Spanish Cap 14",
           "url": "asd"
         },
         {
-          "id": "series_011_language_Spanish_Cap_15",
+          "id": "series_003_language_Spanish_Cap_15",
           "title": "Spanish Cap 15",
           "url": "sdf"
         },
         {
-          "id": "series_011_language_Spanish_Cap_16",
+          "id": "series_003_language_Spanish_Cap_16",
           "title": "Spanish Cap 16",
           "url": "sdf"
         }
@@ -510,84 +1463,84 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_012",
+      "id": "series_004",
       "addedAt": "2026-04-01T02:58:55.742Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 11,
       "episodes": [
         {
-          "id": "series_012_language_Spanish_Cap_2",
+          "id": "series_004_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "asd"
         },
         {
-          "id": "series_012_language_Spanish_Cap_3",
+          "id": "series_004_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
           "url": "asd"
         },
         {
-          "id": "series_012_language_Spanish_Cap_4",
+          "id": "series_004_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
           "url": "asd"
         },
         {
-          "id": "series_012_language_Spanish_Cap_5",
+          "id": "series_004_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
           "url": "asd"
         },
         {
-          "id": "series_012_language_Spanish_Cap_6",
+          "id": "series_004_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
           "url": "asd"
         },
         {
-          "id": "series_012_language_Spanish_Cap_7",
+          "id": "series_004_language_Spanish_Cap_7",
           "title": "Spanish Cap 7",
           "url": "asd"
         },
         {
-          "id": "series_012_language_Spanish_Cap_8",
+          "id": "series_004_language_Spanish_Cap_8",
           "title": "Spanish Cap 8",
           "url": "asd"
         },
         {
-          "id": "series_012_language_Spanish_Cap_9",
+          "id": "series_004_language_Spanish_Cap_9",
           "title": "Spanish Cap 9",
           "url": "asd"
         },
         {
-          "id": "series_012_language_Spanish_Cap_10",
+          "id": "series_004_language_Spanish_Cap_10",
           "title": "Spanish Cap 10",
           "url": "asd"
         },
         {
-          "id": "series_012_language_Spanish_Cap_11",
+          "id": "series_004_language_Spanish_Cap_11",
           "title": "Spanish Cap 11",
           "url": "asd"
         },
         {
-          "id": "series_012_language_Spanish_Cap_12",
+          "id": "series_004_language_Spanish_Cap_12",
           "title": "Spanish Cap 12",
           "url": "asd"
         },
         {
-          "id": "series_012_language_Spanish_Cap_13",
+          "id": "series_004_language_Spanish_Cap_13",
           "title": "Spanish Cap 13",
           "url": "asd"
         },
         {
-          "id": "series_012_language_Spanish_Cap_14",
+          "id": "series_004_language_Spanish_Cap_14",
           "title": "Spanish Cap 14",
           "url": "asd"
         },
         {
-          "id": "series_012_language_Spanish_Cap_15",
+          "id": "series_004_language_Spanish_Cap_15",
           "title": "Spanish Cap 15",
           "url": "sdf"
         },
         {
-          "id": "series_012_language_Spanish_Cap_16",
+          "id": "series_004_language_Spanish_Cap_16",
           "title": "Spanish Cap 16",
           "url": "sdf"
         }
@@ -612,84 +1565,84 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_013",
+      "id": "series_005",
       "addedAt": "2026-04-01T02:58:56.862Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 12,
       "episodes": [
         {
-          "id": "series_013_language_Spanish_Cap_2",
+          "id": "series_005_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "asd"
         },
         {
-          "id": "series_013_language_Spanish_Cap_3",
+          "id": "series_005_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
           "url": "asd"
         },
         {
-          "id": "series_013_language_Spanish_Cap_4",
+          "id": "series_005_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
           "url": "asd"
         },
         {
-          "id": "series_013_language_Spanish_Cap_5",
+          "id": "series_005_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
           "url": "asd"
         },
         {
-          "id": "series_013_language_Spanish_Cap_6",
+          "id": "series_005_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
           "url": "asd"
         },
         {
-          "id": "series_013_language_Spanish_Cap_7",
+          "id": "series_005_language_Spanish_Cap_7",
           "title": "Spanish Cap 7",
           "url": "asd"
         },
         {
-          "id": "series_013_language_Spanish_Cap_8",
+          "id": "series_005_language_Spanish_Cap_8",
           "title": "Spanish Cap 8",
           "url": "asd"
         },
         {
-          "id": "series_013_language_Spanish_Cap_9",
+          "id": "series_005_language_Spanish_Cap_9",
           "title": "Spanish Cap 9",
           "url": "asd"
         },
         {
-          "id": "series_013_language_Spanish_Cap_10",
+          "id": "series_005_language_Spanish_Cap_10",
           "title": "Spanish Cap 10",
           "url": "asd"
         },
         {
-          "id": "series_013_language_Spanish_Cap_11",
+          "id": "series_005_language_Spanish_Cap_11",
           "title": "Spanish Cap 11",
           "url": "asd"
         },
         {
-          "id": "series_013_language_Spanish_Cap_12",
+          "id": "series_005_language_Spanish_Cap_12",
           "title": "Spanish Cap 12",
           "url": "asd"
         },
         {
-          "id": "series_013_language_Spanish_Cap_13",
+          "id": "series_005_language_Spanish_Cap_13",
           "title": "Spanish Cap 13",
           "url": "asd"
         },
         {
-          "id": "series_013_language_Spanish_Cap_14",
+          "id": "series_005_language_Spanish_Cap_14",
           "title": "Spanish Cap 14",
           "url": "asd"
         },
         {
-          "id": "series_013_language_Spanish_Cap_15",
+          "id": "series_005_language_Spanish_Cap_15",
           "title": "Spanish Cap 15",
           "url": "sdf"
         },
         {
-          "id": "series_013_language_Spanish_Cap_16",
+          "id": "series_005_language_Spanish_Cap_16",
           "title": "Spanish Cap 16",
           "url": "sdf"
         }
@@ -714,84 +1667,84 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_014",
+      "id": "series_006",
       "addedAt": "2026-04-01T02:59:13.029Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 13,
       "episodes": [
         {
-          "id": "series_014_language_Spanish_Cap_2",
+          "id": "series_006_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "asd"
         },
         {
-          "id": "series_014_language_Spanish_Cap_3",
+          "id": "series_006_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
           "url": "asd"
         },
         {
-          "id": "series_014_language_Spanish_Cap_4",
+          "id": "series_006_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
           "url": "asd"
         },
         {
-          "id": "series_014_language_Spanish_Cap_5",
+          "id": "series_006_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
           "url": "asd"
         },
         {
-          "id": "series_014_language_Spanish_Cap_6",
+          "id": "series_006_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
           "url": "asd"
         },
         {
-          "id": "series_014_language_Spanish_Cap_7",
+          "id": "series_006_language_Spanish_Cap_7",
           "title": "Spanish Cap 7",
           "url": "asd"
         },
         {
-          "id": "series_014_language_Spanish_Cap_8",
+          "id": "series_006_language_Spanish_Cap_8",
           "title": "Spanish Cap 8",
           "url": "asd"
         },
         {
-          "id": "series_014_language_Spanish_Cap_9",
+          "id": "series_006_language_Spanish_Cap_9",
           "title": "Spanish Cap 9",
           "url": "asd"
         },
         {
-          "id": "series_014_language_Spanish_Cap_10",
+          "id": "series_006_language_Spanish_Cap_10",
           "title": "Spanish Cap 10",
           "url": "asd"
         },
         {
-          "id": "series_014_language_Spanish_Cap_11",
+          "id": "series_006_language_Spanish_Cap_11",
           "title": "Spanish Cap 11",
           "url": "asd"
         },
         {
-          "id": "series_014_language_Spanish_Cap_12",
+          "id": "series_006_language_Spanish_Cap_12",
           "title": "Spanish Cap 12",
           "url": "asd"
         },
         {
-          "id": "series_014_language_Spanish_Cap_13",
+          "id": "series_006_language_Spanish_Cap_13",
           "title": "Spanish Cap 13",
           "url": "asd"
         },
         {
-          "id": "series_014_language_Spanish_Cap_14",
+          "id": "series_006_language_Spanish_Cap_14",
           "title": "Spanish Cap 14",
           "url": "asd"
         },
         {
-          "id": "series_014_language_Spanish_Cap_15",
+          "id": "series_006_language_Spanish_Cap_15",
           "title": "Spanish Cap 15",
           "url": "sdf"
         },
         {
-          "id": "series_014_language_Spanish_Cap_16",
+          "id": "series_006_language_Spanish_Cap_16",
           "title": "Spanish Cap 16",
           "url": "sdf"
         }
@@ -816,84 +1769,84 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_015",
+      "id": "series_007",
       "addedAt": "2026-04-01T02:59:15.444Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 14,
       "episodes": [
         {
-          "id": "series_015_language_Spanish_Cap_2",
+          "id": "series_007_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "asd"
         },
         {
-          "id": "series_015_language_Spanish_Cap_3",
+          "id": "series_007_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
           "url": "asd"
         },
         {
-          "id": "series_015_language_Spanish_Cap_4",
+          "id": "series_007_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
           "url": "asd"
         },
         {
-          "id": "series_015_language_Spanish_Cap_5",
+          "id": "series_007_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
           "url": "asd"
         },
         {
-          "id": "series_015_language_Spanish_Cap_6",
+          "id": "series_007_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
           "url": "asd"
         },
         {
-          "id": "series_015_language_Spanish_Cap_7",
+          "id": "series_007_language_Spanish_Cap_7",
           "title": "Spanish Cap 7",
           "url": "asd"
         },
         {
-          "id": "series_015_language_Spanish_Cap_8",
+          "id": "series_007_language_Spanish_Cap_8",
           "title": "Spanish Cap 8",
           "url": "asd"
         },
         {
-          "id": "series_015_language_Spanish_Cap_9",
+          "id": "series_007_language_Spanish_Cap_9",
           "title": "Spanish Cap 9",
           "url": "asd"
         },
         {
-          "id": "series_015_language_Spanish_Cap_10",
+          "id": "series_007_language_Spanish_Cap_10",
           "title": "Spanish Cap 10",
           "url": "asd"
         },
         {
-          "id": "series_015_language_Spanish_Cap_11",
+          "id": "series_007_language_Spanish_Cap_11",
           "title": "Spanish Cap 11",
           "url": "asd"
         },
         {
-          "id": "series_015_language_Spanish_Cap_12",
+          "id": "series_007_language_Spanish_Cap_12",
           "title": "Spanish Cap 12",
           "url": "asd"
         },
         {
-          "id": "series_015_language_Spanish_Cap_13",
+          "id": "series_007_language_Spanish_Cap_13",
           "title": "Spanish Cap 13",
           "url": "asd"
         },
         {
-          "id": "series_015_language_Spanish_Cap_14",
+          "id": "series_007_language_Spanish_Cap_14",
           "title": "Spanish Cap 14",
           "url": "asd"
         },
         {
-          "id": "series_015_language_Spanish_Cap_15",
+          "id": "series_007_language_Spanish_Cap_15",
           "title": "Spanish Cap 15",
           "url": "sdf"
         },
         {
-          "id": "series_015_language_Spanish_Cap_16",
+          "id": "series_007_language_Spanish_Cap_16",
           "title": "Spanish Cap 16",
           "url": "sdf"
         }
@@ -918,84 +1871,84 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_016",
+      "id": "series_008",
       "addedAt": "2026-04-01T02:59:16.481Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 15,
       "episodes": [
         {
-          "id": "series_016_language_Spanish_Cap_2",
+          "id": "series_008_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "asd"
         },
         {
-          "id": "series_016_language_Spanish_Cap_3",
+          "id": "series_008_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
           "url": "asd"
         },
         {
-          "id": "series_016_language_Spanish_Cap_4",
+          "id": "series_008_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
           "url": "asd"
         },
         {
-          "id": "series_016_language_Spanish_Cap_5",
+          "id": "series_008_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
           "url": "asd"
         },
         {
-          "id": "series_016_language_Spanish_Cap_6",
+          "id": "series_008_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
           "url": "asd"
         },
         {
-          "id": "series_016_language_Spanish_Cap_7",
+          "id": "series_008_language_Spanish_Cap_7",
           "title": "Spanish Cap 7",
           "url": "asd"
         },
         {
-          "id": "series_016_language_Spanish_Cap_8",
+          "id": "series_008_language_Spanish_Cap_8",
           "title": "Spanish Cap 8",
           "url": "asd"
         },
         {
-          "id": "series_016_language_Spanish_Cap_9",
+          "id": "series_008_language_Spanish_Cap_9",
           "title": "Spanish Cap 9",
           "url": "asd"
         },
         {
-          "id": "series_016_language_Spanish_Cap_10",
+          "id": "series_008_language_Spanish_Cap_10",
           "title": "Spanish Cap 10",
           "url": "asd"
         },
         {
-          "id": "series_016_language_Spanish_Cap_11",
+          "id": "series_008_language_Spanish_Cap_11",
           "title": "Spanish Cap 11",
           "url": "asd"
         },
         {
-          "id": "series_016_language_Spanish_Cap_12",
+          "id": "series_008_language_Spanish_Cap_12",
           "title": "Spanish Cap 12",
           "url": "asd"
         },
         {
-          "id": "series_016_language_Spanish_Cap_13",
+          "id": "series_008_language_Spanish_Cap_13",
           "title": "Spanish Cap 13",
           "url": "asd"
         },
         {
-          "id": "series_016_language_Spanish_Cap_14",
+          "id": "series_008_language_Spanish_Cap_14",
           "title": "Spanish Cap 14",
           "url": "asd"
         },
         {
-          "id": "series_016_language_Spanish_Cap_15",
+          "id": "series_008_language_Spanish_Cap_15",
           "title": "Spanish Cap 15",
           "url": "sdf"
         },
         {
-          "id": "series_016_language_Spanish_Cap_16",
+          "id": "series_008_language_Spanish_Cap_16",
           "title": "Spanish Cap 16",
           "url": "sdf"
         }
@@ -1020,84 +1973,84 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_017",
+      "id": "series_009",
       "addedAt": "2026-04-01T02:59:17.767Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 16,
       "episodes": [
         {
-          "id": "series_017_language_Spanish_Cap_2",
+          "id": "series_009_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "asd"
         },
         {
-          "id": "series_017_language_Spanish_Cap_3",
+          "id": "series_009_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
           "url": "asd"
         },
         {
-          "id": "series_017_language_Spanish_Cap_4",
+          "id": "series_009_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
           "url": "asd"
         },
         {
-          "id": "series_017_language_Spanish_Cap_5",
+          "id": "series_009_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
           "url": "asd"
         },
         {
-          "id": "series_017_language_Spanish_Cap_6",
+          "id": "series_009_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
           "url": "asd"
         },
         {
-          "id": "series_017_language_Spanish_Cap_7",
+          "id": "series_009_language_Spanish_Cap_7",
           "title": "Spanish Cap 7",
           "url": "asd"
         },
         {
-          "id": "series_017_language_Spanish_Cap_8",
+          "id": "series_009_language_Spanish_Cap_8",
           "title": "Spanish Cap 8",
           "url": "asd"
         },
         {
-          "id": "series_017_language_Spanish_Cap_9",
+          "id": "series_009_language_Spanish_Cap_9",
           "title": "Spanish Cap 9",
           "url": "asd"
         },
         {
-          "id": "series_017_language_Spanish_Cap_10",
+          "id": "series_009_language_Spanish_Cap_10",
           "title": "Spanish Cap 10",
           "url": "asd"
         },
         {
-          "id": "series_017_language_Spanish_Cap_11",
+          "id": "series_009_language_Spanish_Cap_11",
           "title": "Spanish Cap 11",
           "url": "asd"
         },
         {
-          "id": "series_017_language_Spanish_Cap_12",
+          "id": "series_009_language_Spanish_Cap_12",
           "title": "Spanish Cap 12",
           "url": "asd"
         },
         {
-          "id": "series_017_language_Spanish_Cap_13",
+          "id": "series_009_language_Spanish_Cap_13",
           "title": "Spanish Cap 13",
           "url": "asd"
         },
         {
-          "id": "series_017_language_Spanish_Cap_14",
+          "id": "series_009_language_Spanish_Cap_14",
           "title": "Spanish Cap 14",
           "url": "asd"
         },
         {
-          "id": "series_017_language_Spanish_Cap_15",
+          "id": "series_009_language_Spanish_Cap_15",
           "title": "Spanish Cap 15",
           "url": "sdf"
         },
         {
-          "id": "series_017_language_Spanish_Cap_16",
+          "id": "series_009_language_Spanish_Cap_16",
           "title": "Spanish Cap 16",
           "url": "sdf"
         }
@@ -1126,44 +2079,44 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_018",
+      "id": "series_010",
       "addedAt": "2026-04-01T03:09:04.139Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 17,
       "episodes": [
         {
-          "id": "series_018_language_Spanish_Cap_2",
+          "id": "series_010_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "asda"
         },
         {
-          "id": "series_018_language_Spanish_Cap_3",
+          "id": "series_010_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
           "url": "asd"
         },
         {
-          "id": "series_018_language_Spanish_Cap_4",
+          "id": "series_010_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
           "url": "asd"
         },
         {
-          "id": "series_018_language_Spanish_Cap_5",
+          "id": "series_010_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
           "url": "asd"
         },
         {
-          "id": "series_018_language_Spanish_Cap_6",
+          "id": "series_010_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
           "url": "asd"
         },
         {
-          "id": "series_018_language_Spanish_Cap_7",
+          "id": "series_010_language_Spanish_Cap_7",
           "title": "Spanish Cap 7",
           "url": "asd"
         },
         {
-          "id": "series_018_language_Spanish_Cap_8",
+          "id": "series_010_language_Spanish_Cap_8",
           "title": "Spanish Cap 8",
           "url": "asd"
         }
@@ -1194,14 +2147,14 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_019",
+      "id": "series_011",
       "addedAt": "2026-04-01T03:13:34.985Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 18,
       "episodes": [
         {
-          "id": "series_019_language_Spanish_Cap_2",
+          "id": "series_011_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "asd"
         }
@@ -1232,14 +2185,14 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_020",
+      "id": "series_012",
       "addedAt": "2026-04-01T03:13:49.559Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 19,
       "episodes": [
         {
-          "id": "series_020_language_Spanish_Cap_2",
+          "id": "series_012_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "asd"
         }
@@ -1270,14 +2223,14 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_021",
+      "id": "series_013",
       "addedAt": "2026-04-01T03:13:50.760Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 20,
       "episodes": [
         {
-          "id": "series_021_language_Spanish_Cap_2",
+          "id": "series_013_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "asd"
         }
@@ -1308,14 +2261,14 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_022",
+      "id": "series_014",
       "addedAt": "2026-04-01T03:13:51.737Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 21,
       "episodes": [
         {
-          "id": "series_022_language_Spanish_Cap_2",
+          "id": "series_014_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "asd"
         }
@@ -1346,14 +2299,14 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_023",
+      "id": "series_015",
       "addedAt": "2026-04-01T03:13:53.891Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 22,
       "episodes": [
         {
-          "id": "series_023_language_Spanish_Cap_2",
+          "id": "series_015_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "asd"
         }
@@ -1367,7 +2320,7 @@
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
-      "year": 2026,
+      "year": 2019,
       "releaseDate": "2026-04-01",
       "genres": [
         "Action",
@@ -1385,18 +2338,19 @@
         "Japanese"
       ],
       "enabled": true,
-      "id": "series_024",
+      "id": "series_016",
       "addedAt": "2026-04-01T03:23:03.032Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 23,
       "episodes": [
         {
-          "id": "series_024_language_Japanese_Cap_2",
+          "id": "series_016_language_Japanese_Cap_2",
           "title": "Japanese Cap 2",
           "url": "asda"
         }
-      ]
+      ],
+      "videoUrl": "ewr"
     },
     {
       "type": "series",
@@ -1424,14 +2378,14 @@
         "Japanese"
       ],
       "enabled": true,
-      "id": "series_025",
+      "id": "series_017",
       "addedAt": "2026-04-01T03:23:23.457Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 24,
       "episodes": [
         {
-          "id": "series_025_language_Japanese_Cap_2",
+          "id": "series_017_language_Japanese_Cap_2",
           "title": "Japanese Cap 2",
           "url": "asda"
         }
@@ -1463,14 +2417,14 @@
         "Japanese"
       ],
       "enabled": true,
-      "id": "series_026",
+      "id": "series_018",
       "addedAt": "2026-04-01T03:23:26.102Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 25,
       "episodes": [
         {
-          "id": "series_026_language_Japanese_Cap_2",
+          "id": "series_018_language_Japanese_Cap_2",
           "title": "Japanese Cap 2",
           "url": "asda"
         }
@@ -1502,14 +2456,14 @@
         "Japanese"
       ],
       "enabled": true,
-      "id": "series_027",
+      "id": "series_019",
       "addedAt": "2026-04-01T03:23:26.936Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 26,
       "episodes": [
         {
-          "id": "series_027_language_Japanese_Cap_2",
+          "id": "series_019_language_Japanese_Cap_2",
           "title": "Japanese Cap 2",
           "url": "asda"
         }
@@ -1534,19 +2488,19 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_028",
+      "id": "series_020",
       "addedAt": "2026-04-01T03:30:15.960Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 27,
       "episodes": [
         {
-          "id": "series_028_language_Spanish_Cap_2",
+          "id": "series_020_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "asda"
         },
         {
-          "id": "series_028_language_Spanish_Cap_3",
+          "id": "series_020_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
           "url": "asd"
         }
@@ -1572,19 +2526,19 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_029",
+      "id": "series_021",
       "addedAt": "2026-04-01T03:30:31.942Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 28,
       "episodes": [
         {
-          "id": "series_029_language_Spanish_Cap_2",
+          "id": "series_021_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "asda"
         },
         {
-          "id": "series_029_language_Spanish_Cap_3",
+          "id": "series_021_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
           "url": "asd"
         }
@@ -1608,7 +2562,7 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_030",
+      "id": "series_022",
       "addedAt": "2026-04-01T03:32:26.792Z",
       "addedBy": "Admin",
       "atlas": "A",
@@ -1624,7 +2578,7 @@
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
-      "year": 2026,
+      "year": 2020,
       "releaseDate": "2026-04-01",
       "genres": [
         "Action",
@@ -1636,14 +2590,14 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_031",
+      "id": "series_023",
       "addedAt": "2026-04-01T03:34:35.729Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 30,
       "episodes": [
         {
-          "id": "series_031_language_Spanish_Cap_2",
+          "id": "series_023_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "ada"
         }
@@ -1658,7 +2612,7 @@
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
-      "year": 2026,
+      "year": 2023,
       "releaseDate": "2026-04-01",
       "genres": [
         "Action",
@@ -1670,14 +2624,14 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_032",
+      "id": "series_024",
       "addedAt": "2026-04-01T03:34:47.279Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 31,
       "episodes": [
         {
-          "id": "series_032_language_Spanish_Cap_2",
+          "id": "series_024_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "ada"
         }
@@ -1704,14 +2658,14 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_033",
+      "id": "series_025",
       "addedAt": "2026-04-01T03:37:21.231Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 32,
       "episodes": [
         {
-          "id": "series_033_language_Spanish_Cap_2",
+          "id": "series_025_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "asd"
         }
@@ -1738,14 +2692,14 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_034",
+      "id": "series_026",
       "addedAt": "2026-04-01T03:37:50.167Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 33,
       "episodes": [
         {
-          "id": "series_034_language_Spanish_Cap_2",
+          "id": "series_026_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "asd"
         }
@@ -1772,14 +2726,14 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "series_035",
+      "id": "series_027",
       "addedAt": "2026-04-01T03:37:52.173Z",
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 34,
       "episodes": [
         {
-          "id": "series_035_language_Spanish_Cap_2",
+          "id": "series_027_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
           "url": "asd"
         }
