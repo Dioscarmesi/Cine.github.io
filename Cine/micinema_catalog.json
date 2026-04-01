@@ -1275,6 +1275,32 @@
       "gridIndex": 68
     },
     {
+      "type": "movie",
+      "title": "bbbbbbbbbbbbbbbbbbbbbbbb",
+      "description": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "duration": "2f",
+      "rating": "PG-13",
+      "quality": "None",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Adventure"
+      ],
+      "languages": [
+        "English"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_043",
+      "addedAt": "2026-04-01T07:36:34.119Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 69
+    },
+    {
       "type": "series",
       "title": "Loky",
       "description": "Loki se aleja de la sombra de su hermano para embarcarse en una aventura que se desarrolla tras los acontecimientos de \"Avengers: Endgame\".",
