@@ -1246,40 +1246,6 @@
       "gridIndex": 67
     },
     {
-      "type": "movie",
-      "title": "asdazzzzzzzzzzzzzzzzzzzzz",
-      "description": "asdasdzzzzzzzzzzzzzzz",
-      "duration": "2h 6m",
-      "rating": "PG-13",
-      "quality": "None",
-      "section": "catalog",
-      "year": 2026,
-      "releaseDate": "2026-04-01",
-      "genres": [
-        "Documentary",
-        "Comedy",
-        "Adventure",
-        "Family",
-        "History",
-        "Music",
-        "Romance",
-        "Thriller",
-        "Western"
-      ],
-      "languages": [
-        "Spanish"
-      ],
-      "links": {
-        "default": "asdasdfsadf"
-      },
-      "enabled": true,
-      "id": "movie_042",
-      "addedAt": "2026-04-01T08:47:04.462Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 68
-    },
-    {
       "type": "series",
       "title": "Loky",
       "description": "Loki se aleja de la sombra de su hermano para embarcarse en una aventura que se desarrolla tras los acontecimientos de \"Avengers: Endgame\".",
