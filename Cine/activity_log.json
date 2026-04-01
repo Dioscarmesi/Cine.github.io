@@ -100,5 +100,11 @@
     "user": "Admin",
     "action": "ADD",
     "targetId": "movie_042"
+  },
+  {
+    "timestamp": "2026-04-01T09:15:43.345Z",
+    "user": "Admin",
+    "action": "DELETE",
+    "targetId": "movie_042"
   }
 ]
