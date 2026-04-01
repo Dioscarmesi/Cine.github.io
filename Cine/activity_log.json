@@ -1,0 +1,104 @@
+[
+  {
+    "timestamp": "2026-03-27T21:31:14.341Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_001"
+  },
+  {
+    "timestamp": "2026-03-27T21:37:06.920Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_001"
+  },
+  {
+    "timestamp": "2026-03-27T21:39:48.800Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "series_001"
+  },
+  {
+    "timestamp": "2026-03-27T21:45:34.609Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "series_002"
+  },
+  {
+    "timestamp": "2026-03-27T21:50:28.245Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "series_003"
+  },
+  {
+    "timestamp": "2026-03-27T22:23:41.110Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_001"
+  },
+  {
+    "timestamp": "2026-03-27T22:26:56.341Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_002"
+  },
+  {
+    "timestamp": "2026-03-27T22:47:14.981Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_002"
+  },
+  {
+    "timestamp": "2026-03-27T22:47:32.180Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_003"
+  },
+  {
+    "timestamp": "2026-03-27T22:47:45.359Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_001"
+  },
+  {
+    "timestamp": "2026-03-27T22:49:38.747Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_002"
+  },
+  {
+    "timestamp": "2026-04-01T07:36:34.817Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_043"
+  },
+  {
+    "timestamp": "2026-04-01T08:28:30.022Z",
+    "user": "Admin",
+    "action": "DEEP_REPAIR",
+    "targetId": "catalog"
+  },
+  {
+    "timestamp": "2026-04-01T08:28:46.893Z",
+    "user": "Admin",
+    "action": "DELETE",
+    "targetId": "movie_043"
+  },
+  {
+    "timestamp": "2026-04-01T08:28:54.258Z",
+    "user": "Admin",
+    "action": "DELETE",
+    "targetId": "movie_042"
+  },
+  {
+    "timestamp": "2026-04-01T08:29:05.430Z",
+    "user": "Admin",
+    "action": "DEEP_REPAIR",
+    "targetId": "catalog"
+  },
+  {
+    "timestamp": "2026-04-01T08:47:05.217Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_042"
+  }
+]
