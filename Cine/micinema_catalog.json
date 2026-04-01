@@ -1420,6 +1420,37 @@
       "gridIndex": 73
     },
     {
+      "type": "movie",
+      "title": "RedLine",
+      "description": "Cada cinco años se celebra la carrera de autos más grande y peligrosa del universo; JP piensa participar, pero deberá enfrentar a la mafia, al Gobierno y al amor.",
+      "duration": "1h 42m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2009,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Romance",
+        "Thriller",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asddsfdsdf"
+      },
+      "enabled": true,
+      "id": "movie_048",
+      "addedAt": "2026-04-01T22:40:34.708Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 74
+    },
+    {
       "type": "series",
       "title": "Loky",
       "description": "Loki se aleja de la sombra de su hermano para embarcarse en una aventura que se desarrolla tras los acontecimientos de \"Avengers: Endgame\".",
