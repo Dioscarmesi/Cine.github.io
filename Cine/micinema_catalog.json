@@ -1451,6 +1451,34 @@
       "gridIndex": 74
     },
     {
+      "type": "movie",
+      "title": "Scream 7 (2026)",
+      "description": "Kevin Williamson, el escritor original de la franquicia, regresa para dirigir esta séptima entrega. Sidney Prescott (Neve Campbell) vuelve a enfrentarse a una nueva oleada de asesinatos bajo la máscara de Ghostface, en un capítulo que promete cerrar heridas del pasado y redefinir las reglas de supervivencia.",
+      "duration": "1h 49m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-04-01",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "1qawdq"
+      },
+      "enabled": true,
+      "id": "movie_049",
+      "addedAt": "2026-04-02T00:04:53.164Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 75
+    },
+    {
       "type": "series",
       "title": "Loky",
       "description": "Loki se aleja de la sombra de su hermano para embarcarse en una aventura que se desarrolla tras los acontecimientos de \"Avengers: Endgame\".",
