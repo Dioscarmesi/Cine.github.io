@@ -1479,6 +1479,148 @@
       "gridIndex": 75
     },
     {
+      "type": "movie",
+      "title": "Zootopia 2",
+      "description": "Judy Hopps y Nick Wilde regresan en esta esperada secuela. En esta ocasión, los valientes oficiales de la ZPD deben seguir el rastro de un misterioso reptil que llega a la metrópolis de Zootopia, poniendo patas arriba el orden de la ciudad y obligándolos a explorar nuevas zonas nunca antes vistas.",
+      "duration": "1h 48m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-02",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "11"
+      },
+      "enabled": true,
+      "id": "movie_050",
+      "addedAt": "2026-04-02T00:46:14.628Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 76
+    },
+    {
+      "type": "movie",
+      "title": "Avatar: Fuego y ceniza",
+      "description": "Tras los eventos de \"El sentido del agua\", Jake Sully y Neytiri conocen a una nueva y agresiva cultura Na'vi: el \"Pueblo de la Ceniza\". Esta tribu de fuego, liderada por Varang, mostrará un lado más oscuro y destructivo de los habitantes de Pandora, obligando a la familia Sully a enfrentar conflictos internos y externos en un mundo que sigue expandiéndose.",
+      "duration": "3h 10m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-02",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "qqq"
+      },
+      "enabled": true,
+      "id": "movie_051",
+      "addedAt": "2026-04-02T00:48:52.636Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 77
+    },
+    {
+      "type": "movie",
+      "title": "GOAT: La cabra que cambió el juego",
+      "description": "Will, un pequeño cabrito con grandes sueños, tiene la oportunidad única de unirse a los profesionales y jugar al roarball, un deporte de contacto intenso y mixto, dominado por los animales más rápidos y feroces del mundo. A sus nuevos compañeros no les entusiasma tener un pequeño cabrito en su equipo, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que los pequeños también pueden jugar al béisbol.",
+      "duration": "1h 40m",
+      "rating": "PG",
+      "quality": "None",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-04-02",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asas"
+      },
+      "enabled": true,
+      "id": "movie_052",
+      "addedAt": "2026-04-02T00:51:24.678Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 78
+    },
+    {
+      "type": "movie",
+      "title": "Equipo Demolición",
+      "description": "Un improbable dúo de hermanastros, uno un impulsivo detective y el otro un disciplinado, se ven atraídos por el asesinato de su padre en Hawai, lo que les lleva a un peligroso viaje para desenmascarar una conspiración de largo alcance.\n\n",
+      "duration": "2h 4m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-04-02",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "aa"
+      },
+      "enabled": true,
+      "id": "movie_053",
+      "addedAt": "2026-04-02T01:13:01.444Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 79
+    },
+    {
+      "type": "movie",
+      "title": "El Día del Fin del Mundo Migración",
+      "description": "La familia Garrity debe abandonar la seguridad del búnker de Groenlandia y embarcarse en un peligroso viaje a través del diezmado páramo helado de Europa para encontrar un nuevo hogar.",
+      "duration": "1h 38m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-04-02",
+      "genres": [
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "q"
+      },
+      "enabled": true,
+      "id": "movie_054",
+      "addedAt": "2026-04-02T01:16:48.171Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 80
+    },
+    {
       "type": "series",
       "title": "Loky",
       "description": "Loki se aleja de la sombra de su hermano para embarcarse en una aventura que se desarrolla tras los acontecimientos de \"Avengers: Endgame\".",
