@@ -1621,6 +1621,113 @@
       "gridIndex": 80
     },
     {
+      "type": "movie",
+      "title": "Sin piedad",
+      "description": "En un futuro cercano, un detective es juzgado por el asesinato de su esposa. Tiene noventa minutos para demostrar su inocencia ante el Juez de Inteligencia Artificial que una vez defendió, antes de que este determine su destino.",
+      "duration": "1h 39m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-04-03",
+      "genres": [
+        "Action"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "qq"
+      },
+      "enabled": true,
+      "id": "movie_055",
+      "addedAt": "2026-04-03T21:56:07.430Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 81
+    },
+    {
+      "type": "movie",
+      "title": "Exterminio El templo de huesos ",
+      "description": "El Dr. Kelson se encuentra en una nueva relación impactante, con consecuencias que podrían cambiar el mundo tal como lo conocen, y el encuentro de Spike con Jimmy Crystal se convierte en una pesadilla de la que no puede escapar.\n\n",
+      "duration": "1h 49m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-04-03",
+      "genres": [
+        "Action",
+        "Horror"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "qaq"
+      },
+      "enabled": true,
+      "id": "movie_056",
+      "addedAt": "2026-04-03T22:03:40.888Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 82
+    },
+    {
+      "type": "movie",
+      "title": "Inthum",
+      "description": "Al investigar una red de narcotráfico en Rusia, un agente surcoreano se topa con un agente norcoreano y ambos quedan expuestos a peligros y secretos.",
+      "duration": "2h 0m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-04-03",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "qwdq"
+      },
+      "enabled": true,
+      "id": "movie_057",
+      "addedAt": "2026-04-03T22:12:22.925Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 83
+    },
+    {
+      "type": "movie",
+      "title": "La Empleada",
+      "description": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero inquietante mansión de los Winchester. Pronto se da cuenta de que algo no está bien en la casa y con sus habitantes, especialmente con Nina, la dueña, que actúa de manera errática.",
+      "duration": "2h 11m",
+      "rating": "R",
+      "quality": "None",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-03",
+      "genres": [
+        "Crime",
+        "Horror"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "sed"
+      },
+      "enabled": true,
+      "id": "movie_058",
+      "addedAt": "2026-04-03T22:37:25.575Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 84
+    },
+    {
       "type": "series",
       "title": "Loky",
       "description": "Loki se aleja de la sombra de su hermano para embarcarse en una aventura que se desarrolla tras los acontecimientos de \"Avengers: Endgame\".",
