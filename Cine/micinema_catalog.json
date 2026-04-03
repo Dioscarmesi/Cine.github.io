@@ -1728,6 +1728,32 @@
       "gridIndex": 84
     },
     {
+      "type": "movie",
+      "title": "prueva111",
+      "description": "dqwdqwd",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-04-03",
+      "genres": [
+        "Action"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "qwdq"
+      },
+      "enabled": true,
+      "id": "movie_059",
+      "addedAt": "2026-04-03T23:55:53.364Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 85
+    },
+    {
       "type": "series",
       "title": "Loky",
       "description": "Loki se aleja de la sombra de su hermano para embarcarse en una aventura que se desarrolla tras los acontecimientos de \"Avengers: Endgame\".",
