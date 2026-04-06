@@ -122,7 +122,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "https://micinemaxr.b-cdn.net/Movie/Baby%20Driver.mkv",
+        "default": "https://micinemaxr.b-cdn.net/Movie/BabyDriver.mkv",
         "language_English": "sd"
       },
       "enabled": true,
@@ -150,7 +150,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "https://micinemaxr.b-cdn.net/Movie/batman%20comienza.mkv"
+        "default": "https://micinemaxr.b-cdn.net/Movie/BatmanComienza.mkv"
       },
       "enabled": true,
       "id": "movie_003",
@@ -258,7 +258,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "https://micinemaxr.b-cdn.net/Movie/Army_of_Thieves.mp4"
+        "default": "https://micinemaxr.b-cdn.net/Movie/ArmyOfThieves.mp4"
       },
       "enabled": true,
       "id": "movie_007",
@@ -284,7 +284,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "https://micinemaxr.b-cdn.net/Movie/Batman_el_caballero_de_la_noche_asciende.mkv"
+        "default": "https://micinemaxr.b-cdn.net/Movie/BatmanElCaballeroDeLaNocheAsciende.mkv"
       },
       "enabled": true,
       "id": "movie_008",
@@ -312,7 +312,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/GuardianesDeLaGalaxia.mp4"
       },
       "enabled": true,
       "id": "movie_009",
@@ -340,7 +340,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/GuardiansOfTheGalaxyVol3.mp4"
       },
       "enabled": true,
       "id": "movie_010",
@@ -396,7 +396,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "dsdfsdfsfd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/HombreAra%C3%B1a2.mkv"
       },
       "enabled": true,
       "id": "movie_012",
@@ -424,7 +424,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdasdf"
+        "default": "https://micinemaxr.b-cdn.net/Movie/HombreAra%C3%B1a3.mkv"
       },
       "enabled": true,
       "id": "movie_013",
@@ -452,7 +452,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/HombreAra%C3%B1a.mkv"
       },
       "enabled": true,
       "id": "movie_014",
@@ -481,7 +481,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/Interestelar.mp4"
       },
       "enabled": true,
       "id": "movie_015",
@@ -509,7 +509,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "12asda"
+        "default": "https://micinemaxr.b-cdn.net/Movie/JohnWick.mp4"
       },
       "enabled": true,
       "id": "movie_016",
@@ -537,7 +537,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "12asda"
+        "default": "https://micinemaxr.b-cdn.net/Movie/JohnWick2.mp4"
       },
       "enabled": true,
       "id": "movie_017",
@@ -593,7 +593,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/joker.mp4"
       },
       "enabled": true,
       "id": "movie_019",
@@ -621,7 +621,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "12asda"
+        "default": "https://micinemaxr.b-cdn.net/Movie/JohnWick4.mp4"
       },
       "enabled": true,
       "id": "movie_020",
@@ -705,7 +705,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/MarvelSpidermanRegresoACasa.mp4"
       },
       "enabled": true,
       "id": "movie_023",
@@ -788,7 +788,7 @@
         "English"
       ],
       "links": {
-        "default": "sadasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/PulpFiction.mp4"
       },
       "enabled": true,
       "id": "movie_026",
@@ -816,7 +816,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/R%C3%A1pidoYFurioso.avi"
       },
       "enabled": true,
       "id": "movie_027",
@@ -844,7 +844,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/RapidoFurioso02.avi"
       },
       "enabled": true,
       "id": "movie_028",
@@ -872,7 +872,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/RapidoFurioso03RetoEnTokio.avi"
       },
       "enabled": true,
       "id": "movie_029",
@@ -900,7 +900,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/RapidoFurioso04.avi"
       },
       "enabled": true,
       "id": "movie_030",
@@ -928,7 +928,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/RapidoFurioso05.avi"
       },
       "enabled": true,
       "id": "movie_031",
@@ -956,7 +956,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/RapidoFurioso06.avi"
       },
       "enabled": true,
       "id": "movie_032",
@@ -1040,7 +1040,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/RapidoYFurioso9.mp4"
       },
       "enabled": true,
       "id": "movie_035",
@@ -1068,7 +1068,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdada"
+        "default": "https://micinemaxr.b-cdn.net/Movie/ReadyPlayerone.mp4"
       },
       "enabled": true,
       "id": "movie_036",
@@ -1151,7 +1151,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/SpiderMan2.mp4"
       },
       "enabled": true,
       "id": "movie_039",
@@ -1207,7 +1207,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "https://youtu.be/3177oniq-yM?si=Cq4VvskH4LSPPyPr"
+        "default": "https://micinemaxr.b-cdn.net/Movie/SpiderManNoWayHome.mkv"
       },
       "enabled": true,
       "id": "movie_041",
@@ -1235,7 +1235,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/Starwars4.mp4"
       },
       "enabled": true,
       "id": "movie_042",
@@ -1263,7 +1263,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/Starwars5.mp4"
       },
       "enabled": true,
       "id": "movie_043",
@@ -1291,7 +1291,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/Starwars6.mp4"
       },
       "enabled": true,
       "id": "movie_044",
@@ -1375,7 +1375,7 @@
         "Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/Starwars.mp4"
       },
       "enabled": true,
       "id": "movie_047",
