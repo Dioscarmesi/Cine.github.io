@@ -382,5 +382,11 @@
     "user": "Admin",
     "action": "EDIT",
     "targetId": "series_009"
+  },
+  {
+    "timestamp": "2026-04-06T08:20:07.729Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "series_028_e01"
   }
 ]
