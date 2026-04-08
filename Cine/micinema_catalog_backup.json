@@ -1896,32 +1896,27 @@
         {
           "id": "series_001_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/2.mkv",
-          "slotId": "ep_0001"
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/2.mkv"
         },
         {
           "id": "series_001_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
-          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/3.mkv",
-          "slotId": "ep_0002"
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/3.mkv"
         },
         {
           "id": "series_001_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
-          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/4.mkv",
-          "slotId": "ep_0003"
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/4.mkv"
         },
         {
           "id": "series_001_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
-          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/5.mkv",
-          "slotId": "ep_0004"
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/5.mkv"
         },
         {
           "id": "series_001_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
-          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/6.mkv",
-          "slotId": "ep_0005"
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/6.mkv"
         }
       ],
       "videoUrl": "https://micinemaxr.b-cdn.net/Series/loki/t1/1.mkv"
@@ -1956,14 +1951,12 @@
         {
           "id": "series_002_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "https://micinemaxr.b-cdn.net/Series/loki/t2/LOKI%20-%20EPISODIO%202.mp4",
-          "slotId": "ep_0006"
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t2/LOKI%20-%20EPISODIO%202.mp4"
         },
         {
           "id": "series_002_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
-          "url": "https://micinemaxr.b-cdn.net/Series/loki/t2/LOKI%20-%20EPISODIO%203.mp4",
-          "slotId": "ep_0007"
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t2/LOKI%20-%20EPISODIO%203.mp4"
         }
       ],
       "videoUrl": "https://micinemaxr.b-cdn.net/Series/loki/t2/LOKI%20-%20EPISODIO%201.mp4"
@@ -1996,92 +1989,77 @@
         {
           "id": "series_003_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x02.mp4",
-          "slotId": "ep_0008"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x02.mp4"
         },
         {
           "id": "series_003_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x03.mp4",
-          "slotId": "ep_0009"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x03.mp4"
         },
         {
           "id": "series_003_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x04.mp4",
-          "slotId": "ep_0010"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x04.mp4"
         },
         {
           "id": "series_003_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x05.mp4",
-          "slotId": "ep_0011"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x05.mp4"
         },
         {
           "id": "series_003_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x06.mp4",
-          "slotId": "ep_0012"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x06.mp4"
         },
         {
           "id": "series_003_language_Spanish_Cap_7",
           "title": "Spanish Cap 7",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x07.mp4",
-          "slotId": "ep_0013"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x07.mp4"
         },
         {
           "id": "series_003_language_Spanish_Cap_8",
           "title": "Spanish Cap 8",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x08.mp4",
-          "slotId": "ep_0014"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x08.mp4"
         },
         {
           "id": "series_003_language_Spanish_Cap_9",
           "title": "Spanish Cap 9",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x09.mp4",
-          "slotId": "ep_0015"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x09.mp4"
         },
         {
           "id": "series_003_language_Spanish_Cap_10",
           "title": "Spanish Cap 10",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x10.mp4",
-          "slotId": "ep_0016"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x10.mp4"
         },
         {
           "id": "series_003_language_Spanish_Cap_11",
           "title": "Spanish Cap 11",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x11.mp4",
-          "slotId": "ep_0017"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x11.mp4"
         },
         {
           "id": "series_003_language_Spanish_Cap_12",
           "title": "Spanish Cap 12",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x12.mp4",
-          "slotId": "ep_0018"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x12.mp4"
         },
         {
           "id": "series_003_language_Spanish_Cap_13",
           "title": "Spanish Cap 13",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x13.mp4",
-          "slotId": "ep_0019"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x13.mp4"
         },
         {
           "id": "series_003_language_Spanish_Cap_14",
           "title": "Spanish Cap 14",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x14.mp4",
-          "slotId": "ep_0020"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x14.mp4"
         },
         {
           "id": "series_003_language_Spanish_Cap_15",
           "title": "Spanish Cap 15",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x15.mp4",
-          "slotId": "ep_0021"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x15.mp4"
         },
         {
           "id": "series_003_language_Spanish_Cap_16",
           "title": "Spanish Cap 16",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x16.mp4",
-          "slotId": "ep_0022"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x16.mp4"
         }
       ],
       "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x01.mp4"
@@ -2114,146 +2092,122 @@
         {
           "id": "series_004_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "asdhttps://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x02.mp4",
-          "slotId": "ep_0023"
+          "url": "asdhttps://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x02.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x03.mp4",
-          "slotId": "ep_0024"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x03.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x04.mp4",
-          "slotId": "ep_0025"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x04.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x05.mp4",
-          "slotId": "ep_0026"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x05.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x06.mp4",
-          "slotId": "ep_0027"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x06.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_7",
           "title": "Spanish Cap 7",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x07.mp4",
-          "slotId": "ep_0028"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x07.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_8",
           "title": "Spanish Cap 8",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x08.mp4",
-          "slotId": "ep_0029"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x08.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_9",
           "title": "Spanish Cap 9",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x09.mp4",
-          "slotId": "ep_0030"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x09.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_10",
           "title": "Spanish Cap 10",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x10.mp4",
-          "slotId": "ep_0031"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x10.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_11",
           "title": "Spanish Cap 11",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x11.mp4",
-          "slotId": "ep_0032"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x11.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_12",
           "title": "Spanish Cap 12",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x12.mp4",
-          "slotId": "ep_0033"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x12.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_13",
           "title": "Spanish Cap 13",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x13.mp4",
-          "slotId": "ep_0034"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x13.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_14",
           "title": "Spanish Cap 14",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x14.mp4",
-          "slotId": "ep_0035"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x14.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_15",
           "title": "Spanish Cap 15",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x15.mp4",
-          "slotId": "ep_0036"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x15.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_16",
           "title": "Spanish Cap 16",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x16.mp4",
-          "slotId": "ep_0037"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x16.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_17",
           "title": "Spanish Cap 17",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x17.mp4",
-          "slotId": "ep_0038"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x17.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_18",
           "title": "Spanish Cap 18",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x18.mp4",
-          "slotId": "ep_0039"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x18.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_19",
           "title": "Spanish Cap 19",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x19.mp4",
-          "slotId": "ep_0040"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x19.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_20",
           "title": "Spanish Cap 20",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x20.mp4",
-          "slotId": "ep_0041"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x20.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_21",
           "title": "Spanish Cap 21",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x21.mp4",
-          "slotId": "ep_0042"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x21.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_22",
           "title": "Spanish Cap 22",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x22.mp4",
-          "slotId": "ep_0043"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x22.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_23",
           "title": "Spanish Cap 23",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x23.mp4",
-          "slotId": "ep_0044"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x23.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_24",
           "title": "Spanish Cap 24",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x24.mp4",
-          "slotId": "ep_0045"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x24.mp4"
         },
         {
           "id": "series_004_language_Spanish_Cap_25",
           "title": "Spanish Cap 25",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x25.mp4",
-          "slotId": "ep_0046"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x25.mp4"
         }
       ],
       "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x01.mp4"
@@ -2286,128 +2240,107 @@
         {
           "id": "series_005_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x02.mp4",
-          "slotId": "ep_0047"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x02.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x03.mp4",
-          "slotId": "ep_0048"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x03.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x04.mp4",
-          "slotId": "ep_0049"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x04.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x05.mp4",
-          "slotId": "ep_0050"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x05.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x06.mp4",
-          "slotId": "ep_0051"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x06.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_7",
           "title": "Spanish Cap 7",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x07.mp4",
-          "slotId": "ep_0052"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x07.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_8",
           "title": "Spanish Cap 8",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x08.mp4",
-          "slotId": "ep_0053"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x08.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_9",
           "title": "Spanish Cap 9",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x09.mp4",
-          "slotId": "ep_0054"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x09.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_10",
           "title": "Spanish Cap 10",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x10.mp4",
-          "slotId": "ep_0055"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x10.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_11",
           "title": "Spanish Cap 11",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x11.mp4",
-          "slotId": "ep_0056"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x11.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_12",
           "title": "Spanish Cap 12",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x12.mp4",
-          "slotId": "ep_0057"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x12.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_13",
           "title": "Spanish Cap 13",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x13.mp4",
-          "slotId": "ep_0058"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x13.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_14",
           "title": "Spanish Cap 14",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x14.mp4",
-          "slotId": "ep_0059"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x14.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_15",
           "title": "Spanish Cap 15",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x15.mp4",
-          "slotId": "ep_0060"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x15.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_16",
           "title": "Spanish Cap 16",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x16.mp4",
-          "slotId": "ep_0061"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x16.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_17",
           "title": "Spanish Cap 17",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x17.mp4",
-          "slotId": "ep_0062"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x17.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_18",
           "title": "Spanish Cap 18",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x18.mp4",
-          "slotId": "ep_0063"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x18.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_19",
           "title": "Spanish Cap 19",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x19.mp4",
-          "slotId": "ep_0064"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x19.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_20",
           "title": "Spanish Cap 20",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x20.mp4",
-          "slotId": "ep_0065"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x20.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_21",
           "title": "Spanish Cap 21",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x21.mp4",
-          "slotId": "ep_0066"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x21.mp4"
         },
         {
           "id": "series_005_language_Spanish_Cap_22",
           "title": "Spanish Cap 22",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x22.mp4",
-          "slotId": "ep_0067"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x22.mp4"
         }
       ],
       "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x01.mp4"
@@ -2440,128 +2373,107 @@
         {
           "id": "series_006_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x02.mp4",
-          "slotId": "ep_0068"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x02.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x03.mp4",
-          "slotId": "ep_0069"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x03.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x04.mp4",
-          "slotId": "ep_0070"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x04.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x05.mp4",
-          "slotId": "ep_0071"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x05.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x06.mp4",
-          "slotId": "ep_0072"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x06.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_7",
           "title": "Spanish Cap 7",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x07.mp4",
-          "slotId": "ep_0073"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x07.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_8",
           "title": "Spanish Cap 8",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x08.mp4",
-          "slotId": "ep_0074"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x08.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_9",
           "title": "Spanish Cap 9",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x09.mp4",
-          "slotId": "ep_0075"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x09.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_10",
           "title": "Spanish Cap 10",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x10.mp4",
-          "slotId": "ep_0076"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x10.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_11",
           "title": "Spanish Cap 11",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x11.mp4",
-          "slotId": "ep_0077"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x11.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_12",
           "title": "Spanish Cap 12",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x12.mp4",
-          "slotId": "ep_0078"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x12.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_13",
           "title": "Spanish Cap 13",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x13.mp4",
-          "slotId": "ep_0079"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x13.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_14",
           "title": "Spanish Cap 14",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x14.mp4",
-          "slotId": "ep_0080"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x14.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_15",
           "title": "Spanish Cap 15",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x15.mp4",
-          "slotId": "ep_0081"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x15.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_16",
           "title": "Spanish Cap 16",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x16.mp4",
-          "slotId": "ep_0082"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x16.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_17",
           "title": "Spanish Cap 17",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x17.mp4",
-          "slotId": "ep_0083"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x17.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_18",
           "title": "Spanish Cap 18",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x18.mp4",
-          "slotId": "ep_0084"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x18.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_19",
           "title": "Spanish Cap 19",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x19.mp4",
-          "slotId": "ep_0085"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x19.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_20",
           "title": "Spanish Cap 20",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x20.mp4",
-          "slotId": "ep_0086"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x20.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_21",
           "title": "Spanish Cap 21",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x21.mp4",
-          "slotId": "ep_0087"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x21.mp4"
         },
         {
           "id": "series_006_language_Spanish_Cap_22",
           "title": "Spanish Cap 22",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x22.mp4",
-          "slotId": "ep_0088"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x22.mp4"
         }
       ],
       "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x01.mp4"
@@ -2594,128 +2506,107 @@
         {
           "id": "series_007_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x02.mp4",
-          "slotId": "ep_0089"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x02.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x03.mp4",
-          "slotId": "ep_0090"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x03.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x04.mp4",
-          "slotId": "ep_0091"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x04.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x05.mp4",
-          "slotId": "ep_0092"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x05.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x06.mp4",
-          "slotId": "ep_0093"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x06.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_7",
           "title": "Spanish Cap 7",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x07.mp4",
-          "slotId": "ep_0094"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x07.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_8",
           "title": "Spanish Cap 8",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x08.mp4",
-          "slotId": "ep_0095"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x08.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_9",
           "title": "Spanish Cap 9",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x09.mp4",
-          "slotId": "ep_0096"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x09.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_10",
           "title": "Spanish Cap 10",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x10.mp4",
-          "slotId": "ep_0097"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x10.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_11",
           "title": "Spanish Cap 11",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x11.mp4",
-          "slotId": "ep_0098"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x11.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_12",
           "title": "Spanish Cap 12",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x12.mp4",
-          "slotId": "ep_0099"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x12.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_13",
           "title": "Spanish Cap 13",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x13.mp4",
-          "slotId": "ep_0100"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x13.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_14",
           "title": "Spanish Cap 14",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x14.mp4",
-          "slotId": "ep_0101"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x14.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_15",
           "title": "Spanish Cap 15",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x15.mp4",
-          "slotId": "ep_0102"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x15.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_16",
           "title": "Spanish Cap 16",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x16.mp4",
-          "slotId": "ep_0103"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x16.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_17",
           "title": "Spanish Cap 17",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x17.mp4",
-          "slotId": "ep_0104"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x17.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_18",
           "title": "Spanish Cap 18",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x18.mp4",
-          "slotId": "ep_0105"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x18.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_19",
           "title": "Spanish Cap 19",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x19.mp4",
-          "slotId": "ep_0106"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x19.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_20",
           "title": "Spanish Cap 20",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x20.mp4",
-          "slotId": "ep_0107"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x20.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_21",
           "title": "Spanish Cap 21",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x21.mp4",
-          "slotId": "ep_0108"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x21.mp4"
         },
         {
           "id": "series_007_language_Spanish_Cap_22",
           "title": "Spanish Cap 22",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x22.mp4",
-          "slotId": "ep_0109"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x22.mp4"
         }
       ],
       "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x01.mp4"
@@ -2748,128 +2639,107 @@
         {
           "id": "series_008_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x02.mp4",
-          "slotId": "ep_0110"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x02.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x03.mp4",
-          "slotId": "ep_0111"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x03.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x04.mp4",
-          "slotId": "ep_0112"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x04.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x05.mp4",
-          "slotId": "ep_0113"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x05.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x06.mp4",
-          "slotId": "ep_0114"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x06.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_7",
           "title": "Spanish Cap 7",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x07.mp4",
-          "slotId": "ep_0115"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x07.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_8",
           "title": "Spanish Cap 8",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x08.mp4",
-          "slotId": "ep_0116"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x08.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_9",
           "title": "Spanish Cap 9",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x09.mp4",
-          "slotId": "ep_0117"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x09.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_10",
           "title": "Spanish Cap 10",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x10.mp4",
-          "slotId": "ep_0118"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x10.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_11",
           "title": "Spanish Cap 11",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x11.mp4",
-          "slotId": "ep_0119"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x11.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_12",
           "title": "Spanish Cap 12",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x12.mp4",
-          "slotId": "ep_0120"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x12.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_13",
           "title": "Spanish Cap 13",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x13.mp4",
-          "slotId": "ep_0121"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x13.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_14",
           "title": "Spanish Cap 14",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x14.mp4",
-          "slotId": "ep_0122"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x14.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_15",
           "title": "Spanish Cap 15",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x15.mp4",
-          "slotId": "ep_0123"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x15.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_16",
           "title": "Spanish Cap 16",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x16.mp4",
-          "slotId": "ep_0124"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x16.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_17",
           "title": "Spanish Cap 17",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x17.mp4",
-          "slotId": "ep_0125"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x17.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_18",
           "title": "Spanish Cap 18",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x18.mp4",
-          "slotId": "ep_0126"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x18.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_19",
           "title": "Spanish Cap 19",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x19.mp4",
-          "slotId": "ep_0127"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x19.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_20",
           "title": "Spanish Cap 20",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x20.mp4",
-          "slotId": "ep_0128"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x20.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_21",
           "title": "Spanish Cap 21",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x21.mp4",
-          "slotId": "ep_0129"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x21.mp4"
         },
         {
           "id": "series_008_language_Spanish_Cap_22",
           "title": "Spanish Cap 22",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x22.mp4",
-          "slotId": "ep_0130"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x22.mp4"
         }
       ],
       "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x01.mp4"
@@ -2902,134 +2772,112 @@
         {
           "id": "series_009_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x02.mp4",
-          "slotId": "ep_0131"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x02.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x03.mp4",
-          "slotId": "ep_0132"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x03.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x04.mp4",
-          "slotId": "ep_0133"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x04.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x05.mp4",
-          "slotId": "ep_0134"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x05.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x06.mp4",
-          "slotId": "ep_0135"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x06.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_7",
           "title": "Spanish Cap 7",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x07.mp4",
-          "slotId": "ep_0136"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x07.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_8",
           "title": "Spanish Cap 8",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x08.mp4",
-          "slotId": "ep_0137"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x08.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_9",
           "title": "Spanish Cap 9",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x09.mp4",
-          "slotId": "ep_0138"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x09.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_10",
           "title": "Spanish Cap 10",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x10.mp4",
-          "slotId": "ep_0139"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x10.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_11",
           "title": "Spanish Cap 11",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x11.mp4",
-          "slotId": "ep_0140"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x11.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_12",
           "title": "Spanish Cap 12",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x12.mp4",
-          "slotId": "ep_0141"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x12.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_13",
           "title": "Spanish Cap 13",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x13.mp4",
-          "slotId": "ep_0142"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x13.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_14",
           "title": "Spanish Cap 14",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x14.mp4",
-          "slotId": "ep_0143"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x14.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_15",
           "title": "Spanish Cap 15",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x15.mp4",
-          "slotId": "ep_0144"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x15.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_16",
           "title": "Spanish Cap 16",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x16.mp4",
-          "slotId": "ep_0145"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x16.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_17",
           "title": "Spanish Cap 17",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x17.mp4",
-          "slotId": "ep_0146"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x17.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_18",
           "title": "Spanish Cap 18",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x18.mp4",
-          "slotId": "ep_0147"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x18.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_19",
           "title": "Spanish Cap 19",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x19.mp4",
-          "slotId": "ep_0148"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x19.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_20",
           "title": "Spanish Cap 20",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x20.mp4",
-          "slotId": "ep_0149"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x20.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_21",
           "title": "Spanish Cap 21",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x21.mp4",
-          "slotId": "ep_0150"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x21.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_22",
           "title": "Spanish Cap 22",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x22.mp4",
-          "slotId": "ep_0151"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x22.mp4"
         },
         {
           "id": "series_009_language_Spanish_Cap_23",
           "title": "Spanish Cap 23",
-          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x23.mp4",
-          "slotId": "ep_0152"
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x23.mp4"
         }
       ],
       "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x01.mp4"
@@ -3066,44 +2914,37 @@
         {
           "id": "series_010_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "asda",
-          "slotId": "ep_0153"
+          "url": "asda"
         },
         {
           "id": "series_010_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
-          "url": "asd",
-          "slotId": "ep_0154"
+          "url": "asd"
         },
         {
           "id": "series_010_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
-          "url": "asd",
-          "slotId": "ep_0155"
+          "url": "asd"
         },
         {
           "id": "series_010_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
-          "url": "asd",
-          "slotId": "ep_0156"
+          "url": "asd"
         },
         {
           "id": "series_010_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
-          "url": "asd",
-          "slotId": "ep_0157"
+          "url": "asd"
         },
         {
           "id": "series_010_language_Spanish_Cap_7",
           "title": "Spanish Cap 7",
-          "url": "asd",
-          "slotId": "ep_0158"
+          "url": "asd"
         },
         {
           "id": "series_010_language_Spanish_Cap_8",
           "title": "Spanish Cap 8",
-          "url": "asd",
-          "slotId": "ep_0159"
+          "url": "asd"
         }
       ]
     },
@@ -3141,8 +2982,7 @@
         {
           "id": "series_011_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "asd",
-          "slotId": "ep_0160"
+          "url": "asd"
         }
       ]
     },
@@ -3180,8 +3020,7 @@
         {
           "id": "series_012_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "asd",
-          "slotId": "ep_0161"
+          "url": "asd"
         }
       ]
     },
@@ -3219,8 +3058,7 @@
         {
           "id": "series_013_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "asd",
-          "slotId": "ep_0162"
+          "url": "asd"
         }
       ]
     },
@@ -3258,8 +3096,7 @@
         {
           "id": "series_014_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "asd",
-          "slotId": "ep_0163"
+          "url": "asd"
         }
       ]
     },
@@ -3297,8 +3134,7 @@
         {
           "id": "series_015_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "asd",
-          "slotId": "ep_0164"
+          "url": "asd"
         }
       ]
     },
@@ -3337,8 +3173,7 @@
         {
           "id": "series_016_language_Japanese_Cap_2",
           "title": "Japanese Cap 2",
-          "url": "asda",
-          "slotId": "ep_0165"
+          "url": "asda"
         }
       ],
       "videoUrl": "ewr"
@@ -3378,8 +3213,7 @@
         {
           "id": "series_017_language_Japanese_Cap_2",
           "title": "Japanese Cap 2",
-          "url": "asda",
-          "slotId": "ep_0166"
+          "url": "asda"
         }
       ]
     },
@@ -3418,8 +3252,7 @@
         {
           "id": "series_018_language_Japanese_Cap_2",
           "title": "Japanese Cap 2",
-          "url": "asda",
-          "slotId": "ep_0167"
+          "url": "asda"
         }
       ]
     },
@@ -3458,8 +3291,7 @@
         {
           "id": "series_019_language_Japanese_Cap_2",
           "title": "Japanese Cap 2",
-          "url": "asda",
-          "slotId": "ep_0168"
+          "url": "asda"
         }
       ]
     },
@@ -3491,14 +3323,12 @@
         {
           "id": "series_020_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "asda",
-          "slotId": "ep_0169"
+          "url": "asda"
         },
         {
           "id": "series_020_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
-          "url": "asd",
-          "slotId": "ep_0170"
+          "url": "asd"
         }
       ],
       "videoUrl": "asd"
@@ -3531,14 +3361,12 @@
         {
           "id": "series_021_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "asda",
-          "slotId": "ep_0171"
+          "url": "asda"
         },
         {
           "id": "series_021_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
-          "url": "asd",
-          "slotId": "ep_0172"
+          "url": "asd"
         }
       ],
       "videoUrl": "asd"
@@ -3597,8 +3425,7 @@
         {
           "id": "series_023_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "ada",
-          "slotId": "ep_0173"
+          "url": "ada"
         }
       ],
       "videoUrl": "asd"
@@ -3632,8 +3459,7 @@
         {
           "id": "series_024_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "ada",
-          "slotId": "ep_0174"
+          "url": "ada"
         }
       ],
       "videoUrl": "asd"
@@ -3667,8 +3493,7 @@
         {
           "id": "series_025_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "asd",
-          "slotId": "ep_0175"
+          "url": "asd"
         }
       ],
       "videoUrl": "asda"
@@ -3702,8 +3527,7 @@
         {
           "id": "series_026_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "asd",
-          "slotId": "ep_0176"
+          "url": "asd"
         }
       ],
       "videoUrl": "asda"
@@ -3737,8 +3561,7 @@
         {
           "id": "series_027_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "asd",
-          "slotId": "ep_0177"
+          "url": "asd"
         }
       ],
       "videoUrl": "asda"
@@ -3774,68 +3597,57 @@
         {
           "id": "series_028_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E02.mkv",
-          "slotId": "ep_0178"
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E02.mkv"
         },
         {
           "id": "series_028_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
-          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E03.mkv",
-          "slotId": "ep_0179"
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E03.mkv"
         },
         {
           "id": "series_028_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
-          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E04.mkv",
-          "slotId": "ep_0180"
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E04.mkv"
         },
         {
           "id": "series_028_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
-          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E05.mkv",
-          "slotId": "ep_0181"
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E05.mkv"
         },
         {
           "id": "series_028_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
-          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E06.mkv",
-          "slotId": "ep_0182"
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E06.mkv"
         },
         {
           "id": "series_028_language_Spanish_Cap_7",
           "title": "Spanish Cap 7",
-          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E07.mkv",
-          "slotId": "ep_0183"
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E07.mkv"
         },
         {
           "id": "series_028_language_Spanish_Cap_8",
           "title": "Spanish Cap 8",
-          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E08.mkv",
-          "slotId": "ep_0184"
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E08.mkv"
         },
         {
           "id": "series_028_language_Spanish_Cap_9",
           "title": "Spanish Cap 9",
-          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E09.mkv",
-          "slotId": "ep_0185"
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E09.mkv"
         },
         {
           "id": "series_028_language_Spanish_Cap_10",
           "title": "Spanish Cap 10",
-          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E10.mkv",
-          "slotId": "ep_0186"
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E10.mkv"
         },
         {
           "id": "series_028_language_Spanish_Cap_11",
           "title": "Spanish Cap 11",
-          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E11.mkv",
-          "slotId": "ep_0187"
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E11.mkv"
         },
         {
           "id": "series_028_language_Spanish_Cap_12",
           "title": "Spanish Cap 12",
-          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E12.mkv",
-          "slotId": "ep_0188"
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E12.mkv"
         }
       ],
       "videoUrl": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E01.mkv"
@@ -3868,80 +3680,67 @@
         {
           "id": "series_029_language_Spanish_Cap_2",
           "title": "Spanish Cap 2",
-          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E02.mp4",
-          "slotId": "ep_0189"
+          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E02.mp4"
         },
         {
           "id": "series_029_language_Spanish_Cap_3",
           "title": "Spanish Cap 3",
-          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E03.mp4",
-          "slotId": "ep_0190"
+          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E03.mp4"
         },
         {
           "id": "series_029_language_Spanish_Cap_4",
           "title": "Spanish Cap 4",
-          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E04.mp4",
-          "slotId": "ep_0191"
+          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E04.mp4"
         },
         {
           "id": "series_029_language_Spanish_Cap_5",
           "title": "Spanish Cap 5",
-          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E05.mp4",
-          "slotId": "ep_0192"
+          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E05.mp4"
         },
         {
           "id": "series_029_language_Spanish_Cap_6",
           "title": "Spanish Cap 6",
-          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E06.mp4",
-          "slotId": "ep_0193"
+          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E06.mp4"
         },
         {
           "id": "series_029_language_Spanish_Cap_7",
           "title": "Spanish Cap 7",
-          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E07.mp4",
-          "slotId": "ep_0194"
+          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E07.mp4"
         },
         {
           "id": "series_029_language_Spanish_Cap_8",
           "title": "Spanish Cap 8",
-          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E08.mp4",
-          "slotId": "ep_0195"
+          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E08.mp4"
         },
         {
           "id": "series_029_language_Spanish_Cap_9",
           "title": "Spanish Cap 9",
-          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E09.mp4",
-          "slotId": "ep_0196"
+          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E09.mp4"
         },
         {
           "id": "series_029_language_Spanish_Cap_10",
           "title": "Spanish Cap 10",
-          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E10.mp4",
-          "slotId": "ep_0197"
+          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E10.mp4"
         },
         {
           "id": "series_029_language_Spanish_Cap_11",
           "title": "Spanish Cap 11",
-          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E11.mp4",
-          "slotId": "ep_0198"
+          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E11.mp4"
         },
         {
           "id": "series_029_language_Spanish_Cap_12",
           "title": "Spanish Cap 12",
-          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E12.mp4",
-          "slotId": "ep_0199"
+          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E12.mp4"
         },
         {
           "id": "series_029_language_Spanish_Cap_13",
           "title": "Spanish Cap 13",
-          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E13.mp4",
-          "slotId": "ep_0200"
+          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E13.mp4"
         },
         {
           "id": "series_029_language_Spanish_Cap_14",
           "title": "Spanish Cap 14",
-          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E14.mp4",
-          "slotId": "ep_0201"
+          "url": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E14.mp4"
         }
       ],
       "videoUrl": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E01.mp4"
