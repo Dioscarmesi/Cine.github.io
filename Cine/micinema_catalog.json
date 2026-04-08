@@ -1805,6 +1805,35 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 89
+    },
+    {
+      "type": "movie",
+      "title": "El increible castillo vagabundo",
+      "description": "La historia sigue a Sophie, una joven sombrerera que es transformada en una anciana por una bruja. Para romper el hechizo, busca la ayuda del misterioso mago Howl, quien vive en un castillo ambulante lleno de magia. En su aventura, Sophie se ve envuelta en un conflicto bélico y descubre secretos sobre el pasado de Howl y sobre sí misma.",
+      "duration": "1h 59m",
+      "rating": "PG",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2026-04-08",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Adventure",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/ElIncre%C3%ADbleCastilloVagabundo2004.mp4"
+      },
+      "enabled": true,
+      "id": "movie_063",
+      "addedAt": "2026-04-08T20:30:58.159Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 90
     }
   ],
   "series": [
