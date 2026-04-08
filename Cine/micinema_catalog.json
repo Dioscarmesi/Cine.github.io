@@ -1834,6 +1834,34 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 90
+    },
+    {
+      "type": "movie",
+      "title": "El viaje de Chihiro",
+      "description": "La historia sigue a Chihiro, una niña que, al mudarse con sus padres, entra accidentalmente en un mundo mágico gobernado por espíritus. Cuando sus padres son transformados en cerdos por la bruja Yubaba, Chihiro debe trabajar en una casa de baños para espíritus y encontrar la forma de liberarlos. En el proceso, madura, enfrenta sus miedos y recibe la ayuda de personajes como Haku.",
+      "duration": "2h 5min",
+      "rating": "PG",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2001,
+      "releaseDate": "2026-04-08",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/ElViajeDeChihiro2001.mp4"
+      },
+      "enabled": true,
+      "id": "movie_064",
+      "addedAt": "2026-04-08T20:38:41.848Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 91
     }
   ],
   "series": [
