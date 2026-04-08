@@ -1777,6 +1777,34 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 88
+    },
+    {
+      "type": "movie",
+      "title": "El perfecto asesino",
+      "description": "La historia sigue a Léon, un asesino a sueldo solitario que vive en Nueva York. Su vida cambia cuando conoce a Mathilda, una niña cuya familia es asesinada por un corrupto agente de la DEA. Léon decide acogerla y enseñarle su oficio, mientras ambos desarrollan una relación poco convencional y buscan vengarse del responsable, Norman Stansfield.",
+      "duration": "1h 49min",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1994,
+      "releaseDate": "2026-04-08",
+      "genres": [
+        "Action",
+        "Drama",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/elPerfectoAsesino1994.mp4"
+      },
+      "enabled": true,
+      "id": "movie_062",
+      "addedAt": "2026-04-08T20:11:24.097Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 89
     }
   ],
   "series": [
