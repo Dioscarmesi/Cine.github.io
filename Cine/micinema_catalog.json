@@ -1691,6 +1691,64 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 84
+    },
+    {
+      "type": "movie",
+      "title": "El Señor de los Anillos: La Comunidad del Anillo",
+      "description": "En la Tierra Media, el joven hobbit Frodo Bolsón recibe una misión crucial: destruir el Anillo Único, un objeto de poder maligno creado por el señor oscuro Sauron. Para lograrlo, forma parte de una comunidad integrada por humanos, elfos, enanos y hobbits que deben atravesar peligrosos territorios mientras luchan contra las fuerzas del mal que buscan recuperar el anillo.",
+      "duration": "3h 48 min",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2001,
+      "releaseDate": "2026-04-08",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_059",
+      "addedAt": "2026-04-08T00:05:30.677Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 86,
+      "episodes": [],
+      "videoUrl": "ads",
+      "links": {
+        "default": "ads"
+      }
+    },
+    {
+      "type": "movie",
+      "title": "El Señor de los Anillos: Las Dos Torres",
+      "description": "La historia continúa tras la separación de la Comunidad. Frodo Bolsón y su fiel amigo Samwise Gamyi avanzan hacia Mordor guiados por la misteriosa criatura Gollum. Mientras tanto, Aragorn, Legolas y Gimli luchan para proteger el reino de Rohan del ejército de Saruman, culminando en la épica batalla del Abismo de Helm.",
+      "duration": "3h 55min",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2002,
+      "releaseDate": "2026-04-08",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/elSe%C3%B1orDeLosAnillosLasDosTorres2002.mp4"
+      },
+      "enabled": true,
+      "id": "movie_060",
+      "addedAt": "2026-04-08T19:04:50.944Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 87
     }
   ],
   "series": [

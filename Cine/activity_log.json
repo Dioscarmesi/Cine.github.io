@@ -598,5 +598,47 @@
     "user": "Admin",
     "action": "EDIT",
     "targetId": "movie_019"
+  },
+  {
+    "timestamp": "2026-04-08T18:37:42.814Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_060"
+  },
+  {
+    "timestamp": "2026-04-08T18:40:07.207Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_059"
+  },
+  {
+    "timestamp": "2026-04-08T18:41:37.495Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_059"
+  },
+  {
+    "timestamp": "2026-04-08T18:42:46.095Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_060"
+  },
+  {
+    "timestamp": "2026-04-08T18:46:47.189Z",
+    "user": "Admin",
+    "action": "DUPLICATE",
+    "targetId": "movie_061"
+  },
+  {
+    "timestamp": "2026-04-08T18:48:46.694Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_059"
+  },
+  {
+    "timestamp": "2026-04-08T19:04:51.627Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_060"
   }
 ]
