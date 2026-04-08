@@ -1749,6 +1749,34 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 87
+    },
+    {
+      "type": "movie",
+      "title": "El Señor de los Anillos: El Retorno del Rey",
+      "description": "En la conclusión épica de la trilogía, Frodo Bolsón y Samwise Gamyi se acercan al Monte del Destino para destruir el Anillo Único, mientras enfrentan la creciente influencia de Gollum. Al mismo tiempo, Aragorn lidera a los hombres en la batalla final contra las fuerzas de Sauron, en una guerra decisiva por el destino de la Tierra Media.",
+      "duration": "4h 23 min",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2003,
+      "releaseDate": "2026-04-08",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/elSe%C3%B1orDeLosAnillosElRetornoDelRey2003.mp4"
+      },
+      "enabled": true,
+      "id": "movie_061",
+      "addedAt": "2026-04-08T20:02:54.337Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 88
     }
   ],
   "series": [
