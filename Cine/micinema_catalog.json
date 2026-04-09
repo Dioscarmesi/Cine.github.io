@@ -6,7 +6,7 @@
     "columns": 16,
     "rows": 8,
     "cellCount": 128,
-    "atlasCount": 1,
+    "atlasCount": 7,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
     "catalogCount": 0
@@ -91,7 +91,7 @@
         "Cyberpunk"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/Alita.mp4",
@@ -119,7 +119,7 @@
         "Crime"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/BabyDriver.mkv",
@@ -147,7 +147,7 @@
         "Crime"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/BatmanComienza.mkv"
@@ -173,7 +173,7 @@
         "Action"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/deadpool.mp4"
@@ -199,7 +199,7 @@
         "Action"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/Deadpool2.mp4"
@@ -227,7 +227,7 @@
         "Romance"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/drive.mkv"
@@ -255,7 +255,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/ArmyOfThieves.mp4"
@@ -281,7 +281,7 @@
         "Action"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/BatmanElCaballeroDeLaNocheAsciende.mkv"
@@ -309,7 +309,7 @@
         "Comedy"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/GuardianesDeLaGalaxia.mp4"
@@ -319,7 +319,7 @@
       "addedAt": "2026-04-01T04:19:08.980Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 8
+      "gridIndex": 35
     },
     {
       "type": "movie",
@@ -337,7 +337,7 @@
         "Comedy"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/GuardiansOfTheGalaxyVol3.mp4"
@@ -347,7 +347,7 @@
       "addedAt": "2026-04-01T04:19:32.124Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 9
+      "gridIndex": 36
     },
     {
       "type": "movie",
@@ -365,17 +365,17 @@
         "Sci-Fi"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
-        "default": "https://micinemaxr.b-cdn.net/Movie/SoloAStarWarsStory2018.mp4"
+        "default": "12312"
       },
       "enabled": true,
       "id": "movie_011",
       "addedAt": "2026-04-01T04:22:11.331Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 10
+      "gridIndex": 37
     },
     {
       "type": "movie",
@@ -393,7 +393,7 @@
         "Comedy"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/HombreAra%C3%B1a2.mkv"
@@ -403,7 +403,7 @@
       "addedAt": "2026-04-01T04:23:57.131Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 11
+      "gridIndex": 38
     },
     {
       "type": "movie",
@@ -421,7 +421,7 @@
         "Comedy"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/HombreAra%C3%B1a3.mkv"
@@ -431,7 +431,7 @@
       "addedAt": "2026-04-01T04:25:59.732Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 12
+      "gridIndex": 49
     },
     {
       "type": "movie",
@@ -449,7 +449,7 @@
         "Comedy"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/HombreAra%C3%B1a.mkv"
@@ -459,7 +459,7 @@
       "addedAt": "2026-04-01T04:30:00.971Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 13
+      "gridIndex": 40
     },
     {
       "type": "movie",
@@ -478,7 +478,7 @@
         "Drama"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/Interestelar.mp4"
@@ -488,7 +488,7 @@
       "addedAt": "2026-04-01T04:31:21.112Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 14
+      "gridIndex": 41
     },
     {
       "type": "movie",
@@ -506,7 +506,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/JohnWick.mp4"
@@ -516,7 +516,7 @@
       "addedAt": "2026-04-01T04:35:01.977Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 15
+      "gridIndex": 42
     },
     {
       "type": "movie",
@@ -534,7 +534,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/JohnWick2.mp4"
@@ -544,7 +544,7 @@
       "addedAt": "2026-04-01T04:35:14.453Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 16
+      "gridIndex": 43
     },
     {
       "type": "movie",
@@ -562,7 +562,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "12asda"
@@ -572,7 +572,7 @@
       "addedAt": "2026-04-01T04:35:15.484Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 17
+      "gridIndex": 44
     },
     {
       "type": "movie",
@@ -590,7 +590,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/joker.mp4"
@@ -600,7 +600,7 @@
       "addedAt": "2026-04-01T04:39:37.908Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 18
+      "gridIndex": 45
     },
     {
       "type": "movie",
@@ -618,7 +618,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/JohnWick4.mp4"
@@ -628,7 +628,7 @@
       "addedAt": "2026-04-01T04:40:09.416Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 19
+      "gridIndex": 46
     },
     {
       "type": "movie",
@@ -646,7 +646,7 @@
         "Sci-Fi"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "asdasd"
@@ -656,7 +656,7 @@
       "addedAt": "2026-04-01T04:43:13.728Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 20
+      "gridIndex": 47
     },
     {
       "type": "movie",
@@ -674,7 +674,7 @@
         "Sci-Fi"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "sdfsf"
@@ -684,7 +684,7 @@
       "addedAt": "2026-04-01T04:46:32.910Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 21
+      "gridIndex": 48
     },
     {
       "type": "movie",
@@ -702,7 +702,7 @@
         "Sci-Fi"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/MarvelSpidermanRegresoACasa.mp4"
@@ -712,7 +712,7 @@
       "addedAt": "2026-04-01T04:49:05.482Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 22
+      "gridIndex": 49
     },
     {
       "type": "movie",
@@ -730,17 +730,17 @@
         "Fantasy"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
-        "default": "https://micinemaxr.b-cdn.net/Movie/Piratasdelcaribe.mp4"
+        "default": "asdasd"
       },
       "enabled": true,
       "id": "movie_024",
       "addedAt": "2026-04-01T04:51:12.563Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 23
+      "gridIndex": 50
     },
     {
       "type": "movie",
@@ -758,17 +758,17 @@
         "Fantasy"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
-        "default": "https://micinemaxr.b-cdn.net/Movie/PiratesOfTheCaribbeanAtWorldSEnd.mp4"
+        "default": "asdasd"
       },
       "enabled": true,
       "id": "movie_025",
       "addedAt": "2026-04-01T04:51:25.833Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 24
+      "gridIndex": 51
     },
     {
       "type": "movie",
@@ -785,7 +785,7 @@
         "Drama"
       ],
       "languages": [
-        "English"
+        "language_English"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/PulpFiction.mp4"
@@ -795,7 +795,7 @@
       "addedAt": "2026-04-01T04:53:58.339Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 25
+      "gridIndex": 52
     },
     {
       "type": "movie",
@@ -813,7 +813,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/R%C3%A1pidoYFurioso.avi"
@@ -823,7 +823,7 @@
       "addedAt": "2026-04-01T04:56:13.178Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 26
+      "gridIndex": 53
     },
     {
       "type": "movie",
@@ -841,7 +841,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/RapidoFurioso02.avi"
@@ -851,7 +851,7 @@
       "addedAt": "2026-04-01T05:15:58.192Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 27
+      "gridIndex": 54
     },
     {
       "type": "movie",
@@ -869,7 +869,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/RapidoFurioso03RetoEnTokio.avi"
@@ -879,7 +879,7 @@
       "addedAt": "2026-04-01T05:16:28.712Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 28
+      "gridIndex": 55
     },
     {
       "type": "movie",
@@ -897,7 +897,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/RapidoFurioso04.avi"
@@ -907,7 +907,7 @@
       "addedAt": "2026-04-01T05:16:29.700Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 29
+      "gridIndex": 56
     },
     {
       "type": "movie",
@@ -925,7 +925,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/RapidoFurioso05.avi"
@@ -935,7 +935,7 @@
       "addedAt": "2026-04-01T05:16:30.560Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 30
+      "gridIndex": 57
     },
     {
       "type": "movie",
@@ -953,7 +953,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/RapidoFurioso06.avi"
@@ -963,7 +963,7 @@
       "addedAt": "2026-04-01T05:16:31.391Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 31
+      "gridIndex": 58
     },
     {
       "type": "movie",
@@ -981,17 +981,17 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
-        "default": "https://micinemaxr.b-cdn.net/Movie/RápidoYFurioso.mkv"
+        "default": "asdasd"
       },
       "enabled": true,
       "id": "movie_033",
       "addedAt": "2026-04-01T05:16:32.104Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 32
+      "gridIndex": 59
     },
     {
       "type": "movie",
@@ -1009,7 +1009,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "asdasd"
@@ -1019,7 +1019,7 @@
       "addedAt": "2026-04-01T05:16:33.855Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 33
+      "gridIndex": 60
     },
     {
       "type": "movie",
@@ -1037,7 +1037,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/RapidoYFurioso9.mp4"
@@ -1047,7 +1047,7 @@
       "addedAt": "2026-04-01T05:24:17.607Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 34
+      "gridIndex": 61
     },
     {
       "type": "movie",
@@ -1065,7 +1065,7 @@
         "Sci-Fi"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/ReadyPlayerone.mp4"
@@ -1075,7 +1075,7 @@
       "addedAt": "2026-04-01T05:27:15.590Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 35
+      "gridIndex": 62
     },
     {
       "type": "movie",
@@ -1093,7 +1093,7 @@
         "Sci-Fi"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "adsdad"
@@ -1103,7 +1103,7 @@
       "addedAt": "2026-04-01T05:28:59.621Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 36
+      "gridIndex": 63
     },
     {
       "type": "movie",
@@ -1120,17 +1120,17 @@
         "Sci-Fi"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
-        "default": "https://micinemaxr.b-cdn.net/Movie/Runner2049.mp4"
+        "default": "asdasd"
       },
       "enabled": true,
       "id": "movie_038",
       "addedAt": "2026-04-01T05:30:23.754Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 37
+      "gridIndex": 64
     },
     {
       "type": "movie",
@@ -1148,17 +1148,17 @@
         "Sci-Fi"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
-        "default": "https://micinemaxr.b-cdn.net/Movie/SorprendenteHombreAraña2.mkv"
+        "default": "https://micinemaxr.b-cdn.net/Movie/SpiderMan2.mp4"
       },
       "enabled": true,
       "id": "movie_039",
       "addedAt": "2026-04-01T05:32:58.431Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 38
+      "gridIndex": 65
     },
     {
       "type": "movie",
@@ -1176,17 +1176,17 @@
         "Sci-Fi"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
-        "default": "https://micinemaxr.b-cdn.net/Movie/SorprendenteHombreAraña.mkv"
+        "default": "asdasd"
       },
       "enabled": true,
       "id": "movie_040",
       "addedAt": "2026-04-01T05:33:01.867Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 39
+      "gridIndex": 66
     },
     {
       "type": "movie",
@@ -1204,7 +1204,7 @@
         "Sci-Fi"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/SpiderManNoWayHome.mkv"
@@ -1214,7 +1214,7 @@
       "addedAt": "2026-04-01T05:35:58.455Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 40
+      "gridIndex": 67
     },
     {
       "type": "movie",
@@ -1232,7 +1232,7 @@
         "Sci-Fi"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/Starwars4.mp4"
@@ -1242,7 +1242,7 @@
       "addedAt": "2026-04-01T09:24:42.720Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 41
+      "gridIndex": 68
     },
     {
       "type": "movie",
@@ -1260,7 +1260,7 @@
         "Sci-Fi"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/Starwars5.mp4"
@@ -1270,7 +1270,7 @@
       "addedAt": "2026-04-01T09:24:47.377Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 42
+      "gridIndex": 69
     },
     {
       "type": "movie",
@@ -1288,7 +1288,7 @@
         "Sci-Fi"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/Starwars6.mp4"
@@ -1298,7 +1298,7 @@
       "addedAt": "2026-04-01T09:24:48.831Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 43
+      "gridIndex": 70
     },
     {
       "type": "movie",
@@ -1316,7 +1316,7 @@
         "Sci-Fi"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "asdasd"
@@ -1326,7 +1326,7 @@
       "addedAt": "2026-04-01T09:24:50.170Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 44
+      "gridIndex": 71
     },
     {
       "type": "movie",
@@ -1344,7 +1344,7 @@
         "Sci-Fi"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "asdasd"
@@ -1354,7 +1354,7 @@
       "addedAt": "2026-04-01T09:24:51.143Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 45
+      "gridIndex": 72
     },
     {
       "type": "movie",
@@ -1372,7 +1372,7 @@
         "Sci-Fi"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/Starwars.mp4"
@@ -1382,7 +1382,7 @@
       "addedAt": "2026-04-01T09:24:55.901Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 46
+      "gridIndex": 73
     },
     {
       "type": "movie",
@@ -1400,7 +1400,7 @@
         "Animation"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "asddsfdsdf"
@@ -1410,7 +1410,7 @@
       "addedAt": "2026-04-01T22:40:34.708Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 47
+      "gridIndex": 74
     },
     {
       "type": "movie",
@@ -1428,7 +1428,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "1qawdq"
@@ -1438,7 +1438,7 @@
       "addedAt": "2026-04-02T00:04:53.164Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 48
+      "gridIndex": 75
     },
     {
       "type": "movie",
@@ -1456,7 +1456,7 @@
         "Comedy"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "11"
@@ -1466,7 +1466,7 @@
       "addedAt": "2026-04-02T00:46:14.628Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 49
+      "gridIndex": 76
     },
     {
       "type": "movie",
@@ -1485,7 +1485,7 @@
         "Fantasy"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "qqq"
@@ -1495,7 +1495,7 @@
       "addedAt": "2026-04-02T00:48:52.636Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 50
+      "gridIndex": 77
     },
     {
       "type": "movie",
@@ -1513,7 +1513,7 @@
         "Family"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "asas"
@@ -1523,7 +1523,7 @@
       "addedAt": "2026-04-02T00:51:24.678Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 51
+      "gridIndex": 78
     },
     {
       "type": "movie",
@@ -1541,7 +1541,7 @@
         "Crime"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "aa"
@@ -1551,7 +1551,7 @@
       "addedAt": "2026-04-02T01:13:01.444Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 52
+      "gridIndex": 79
     },
     {
       "type": "movie",
@@ -1569,7 +1569,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "q"
@@ -1579,7 +1579,7 @@
       "addedAt": "2026-04-02T01:16:48.171Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 53
+      "gridIndex": 80
     },
     {
       "type": "movie",
@@ -1597,7 +1597,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "qq"
@@ -1607,7 +1607,7 @@
       "addedAt": "2026-04-03T21:56:07.430Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 54
+      "gridIndex": 81
     },
     {
       "type": "movie",
@@ -1625,7 +1625,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "qaq"
@@ -1635,7 +1635,7 @@
       "addedAt": "2026-04-03T22:03:40.888Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 55
+      "gridIndex": 82
     },
     {
       "type": "movie",
@@ -1652,7 +1652,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "qwdq"
@@ -1662,7 +1662,7 @@
       "addedAt": "2026-04-03T22:12:22.925Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 56
+      "gridIndex": 83
     },
     {
       "type": "movie",
@@ -1680,7 +1680,7 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "sed"
@@ -1690,7 +1690,7 @@
       "addedAt": "2026-04-03T22:37:25.575Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 57
+      "gridIndex": 84
     },
     {
       "type": "movie",
@@ -1708,16 +1708,17 @@
         "Fantasy"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "movie_059",
       "addedAt": "2026-04-08T00:05:30.677Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 58,
+      "gridIndex": 86,
+      "videoUrl": "ads",
       "links": {
-        "default": "https://micinemaxr.b-cdn.net/Movie/elSeñorDeLosAnillosLaComunidadDelAnillo2001.mp4"
+        "default": "ads"
       }
     },
     {
@@ -1736,7 +1737,7 @@
         "Fantasy"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/elSe%C3%B1orDeLosAnillosLasDosTorres2002.mp4"
@@ -1746,7 +1747,7 @@
       "addedAt": "2026-04-08T19:04:50.944Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 59
+      "gridIndex": 87
     },
     {
       "type": "movie",
@@ -1764,7 +1765,7 @@
         "Fantasy"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/elSe%C3%B1orDeLosAnillosElRetornoDelRey2003.mp4"
@@ -1774,7 +1775,7 @@
       "addedAt": "2026-04-08T20:02:54.337Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 60
+      "gridIndex": 88
     },
     {
       "type": "movie",
@@ -1792,7 +1793,7 @@
         "Crime"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/elPerfectoAsesino1994.mp4"
@@ -1802,7 +1803,7 @@
       "addedAt": "2026-04-08T20:11:24.097Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 61
+      "gridIndex": 89
     },
     {
       "type": "movie",
@@ -1821,7 +1822,7 @@
         "Romance"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/ElIncre%C3%ADbleCastilloVagabundo2004.mp4"
@@ -1831,7 +1832,7 @@
       "addedAt": "2026-04-08T20:30:58.159Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 62
+      "gridIndex": 90
     },
     {
       "type": "movie",
@@ -1849,7 +1850,7 @@
         "Adventure"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/ElViajeDeChihiro2001.mp4"
@@ -1859,7 +1860,7 @@
       "addedAt": "2026-04-08T20:38:41.848Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 63
+      "gridIndex": 91
     },
     {
       "type": "movie",
@@ -1877,7 +1878,7 @@
         "Sci-Fi"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/Akira1988.mp4"
@@ -1887,7 +1888,7 @@
       "addedAt": "2026-04-09T02:26:59.787Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 64
+      "gridIndex": 93
     }
   ],
   "series": [
@@ -1910,21 +1911,61 @@
         "Mystery"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_001",
       "addedAt": "2026-04-01T00:03:43.617Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 65,
+      "gridIndex": 8,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_001",
+          "slotId": "ep_202",
           "links": {
             "default": "https://micinemaxr.b-cdn.net/Series/loki/t1/1.mkv"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_203",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_204",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_205",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_206",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_207",
+          "links": {
+            "language_Spanish": ""
           }
         }
       ]
@@ -1947,21 +1988,37 @@
         "Thriller"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_002",
       "addedAt": "2026-04-01T02:28:47.687Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 66,
+      "gridIndex": 9,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_002",
+          "slotId": "ep_208",
           "links": {
             "default": "https://micinemaxr.b-cdn.net/Series/loki/t2/LOKI%20-%20EPISODIO%201.mp4"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_209",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_210",
+          "links": {
+            "language_Spanish": ""
           }
         }
       ]
@@ -1982,77 +2039,141 @@
         "Drama"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_003",
       "addedAt": "2026-04-01T02:58:42.907Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 67,
+      "gridIndex": 10,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_003",
+          "slotId": "ep_211",
           "links": {
-            "default": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E01.mp4"
+            "default": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x01.mp4"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_212",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_213",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_214",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_215",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_216",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_217",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_218",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_219",
+          "links": {
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e10",
           "title": "Capítulo 10",
-          "slotId": "ep_004",
+          "slotId": "ep_220",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E10.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e11",
           "title": "Capítulo 11",
-          "slotId": "ep_005",
+          "slotId": "ep_221",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E11.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e12",
           "title": "Capítulo 12",
-          "slotId": "ep_006",
+          "slotId": "ep_222",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E12.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e13",
           "title": "Capítulo 13",
-          "slotId": "ep_007",
+          "slotId": "ep_223",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E13.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e14",
           "title": "Capítulo 14",
-          "slotId": "ep_008",
+          "slotId": "ep_224",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E14.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e15",
           "title": "Capítulo 15",
-          "slotId": "ep_009",
+          "slotId": "ep_225",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E15.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e16",
           "title": "Capítulo 16",
-          "slotId": "ep_010",
+          "slotId": "ep_226",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E16.mp4"
+            "language_Spanish": ""
           }
         }
       ]
@@ -2073,149 +2194,213 @@
         "Drama"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_004",
       "addedAt": "2026-04-01T02:58:55.742Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 68,
+      "gridIndex": 11,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_011",
+          "slotId": "ep_227",
           "links": {
-            "default": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E01.mp4"
+            "default": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x01.mp4"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_228",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_229",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_230",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_231",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_232",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_233",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_234",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_235",
+          "links": {
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e10",
           "title": "Capítulo 10",
-          "slotId": "ep_012",
+          "slotId": "ep_236",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E10.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e11",
           "title": "Capítulo 11",
-          "slotId": "ep_013",
+          "slotId": "ep_237",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E11.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e12",
           "title": "Capítulo 12",
-          "slotId": "ep_014",
+          "slotId": "ep_238",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E12.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e13",
           "title": "Capítulo 13",
-          "slotId": "ep_015",
+          "slotId": "ep_239",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E13.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e14",
           "title": "Capítulo 14",
-          "slotId": "ep_016",
+          "slotId": "ep_240",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E14.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e15",
           "title": "Capítulo 15",
-          "slotId": "ep_017",
+          "slotId": "ep_241",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E15.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e16",
           "title": "Capítulo 16",
-          "slotId": "ep_018",
+          "slotId": "ep_242",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E16.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e17",
           "title": "Capítulo 17",
-          "slotId": "ep_019",
+          "slotId": "ep_243",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E17.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e18",
           "title": "Capítulo 18",
-          "slotId": "ep_020",
+          "slotId": "ep_244",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E18.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e19",
           "title": "Capítulo 19",
-          "slotId": "ep_021",
+          "slotId": "ep_245",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E19.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e20",
           "title": "Capítulo 20",
-          "slotId": "ep_022",
+          "slotId": "ep_246",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E20.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e21",
           "title": "Capítulo 21",
-          "slotId": "ep_023",
+          "slotId": "ep_247",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E21.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e22",
           "title": "Capítulo 22",
-          "slotId": "ep_024",
+          "slotId": "ep_248",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E22.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e23",
           "title": "Capítulo 23",
-          "slotId": "ep_025",
+          "slotId": "ep_249",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E23.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e24",
           "title": "Capítulo 24",
-          "slotId": "ep_026",
+          "slotId": "ep_250",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E24.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e25",
           "title": "Capítulo 25",
-          "slotId": "ep_027",
+          "slotId": "ep_251",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E25.mp4"
+            "language_Spanish": ""
           }
         }
       ]
@@ -2236,125 +2421,189 @@
         "Drama"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_005",
       "addedAt": "2026-04-01T02:58:56.862Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 69,
+      "gridIndex": 12,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_028",
+          "slotId": "ep_252",
           "links": {
-            "default": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E01.mp4"
+            "default": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x01.mp4"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_253",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_254",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_255",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_256",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_257",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_258",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_259",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_260",
+          "links": {
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e10",
           "title": "Capítulo 10",
-          "slotId": "ep_029",
+          "slotId": "ep_261",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E10.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e11",
           "title": "Capítulo 11",
-          "slotId": "ep_030",
+          "slotId": "ep_262",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E11.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e12",
           "title": "Capítulo 12",
-          "slotId": "ep_031",
+          "slotId": "ep_263",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E12.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e13",
           "title": "Capítulo 13",
-          "slotId": "ep_032",
+          "slotId": "ep_264",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E13.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e14",
           "title": "Capítulo 14",
-          "slotId": "ep_033",
+          "slotId": "ep_265",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E14.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e15",
           "title": "Capítulo 15",
-          "slotId": "ep_034",
+          "slotId": "ep_266",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E15.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e16",
           "title": "Capítulo 16",
-          "slotId": "ep_035",
+          "slotId": "ep_267",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E16.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e17",
           "title": "Capítulo 17",
-          "slotId": "ep_036",
+          "slotId": "ep_268",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E17.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e18",
           "title": "Capítulo 18",
-          "slotId": "ep_037",
+          "slotId": "ep_269",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E18.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e19",
           "title": "Capítulo 19",
-          "slotId": "ep_038",
+          "slotId": "ep_270",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E19.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e20",
           "title": "Capítulo 20",
-          "slotId": "ep_039",
+          "slotId": "ep_271",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E20.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e21",
           "title": "Capítulo 21",
-          "slotId": "ep_040",
+          "slotId": "ep_272",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E21.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e22",
           "title": "Capítulo 22",
-          "slotId": "ep_041",
+          "slotId": "ep_273",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E22.mp4"
+            "language_Spanish": ""
           }
         }
       ]
@@ -2375,125 +2624,189 @@
         "Drama"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_006",
       "addedAt": "2026-04-01T02:59:13.029Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 70,
+      "gridIndex": 13,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_042",
+          "slotId": "ep_274",
           "links": {
-            "default": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E01.mp4"
+            "default": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x01.mp4"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_275",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_276",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_277",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_278",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_279",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_280",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_281",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_282",
+          "links": {
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e10",
           "title": "Capítulo 10",
-          "slotId": "ep_043",
+          "slotId": "ep_283",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E10.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e11",
           "title": "Capítulo 11",
-          "slotId": "ep_044",
+          "slotId": "ep_284",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E11.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e12",
           "title": "Capítulo 12",
-          "slotId": "ep_045",
+          "slotId": "ep_285",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E12.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e13",
           "title": "Capítulo 13",
-          "slotId": "ep_046",
+          "slotId": "ep_286",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E13.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e14",
           "title": "Capítulo 14",
-          "slotId": "ep_047",
+          "slotId": "ep_287",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E14.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e15",
           "title": "Capítulo 15",
-          "slotId": "ep_048",
+          "slotId": "ep_288",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E15.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e16",
           "title": "Capítulo 16",
-          "slotId": "ep_049",
+          "slotId": "ep_289",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E16.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e17",
           "title": "Capítulo 17",
-          "slotId": "ep_050",
+          "slotId": "ep_290",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E17.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e18",
           "title": "Capítulo 18",
-          "slotId": "ep_051",
+          "slotId": "ep_291",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E18.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e19",
           "title": "Capítulo 19",
-          "slotId": "ep_052",
+          "slotId": "ep_292",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E19.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e20",
           "title": "Capítulo 20",
-          "slotId": "ep_053",
+          "slotId": "ep_293",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E20.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e21",
           "title": "Capítulo 21",
-          "slotId": "ep_054",
+          "slotId": "ep_294",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E21.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e22",
           "title": "Capítulo 22",
-          "slotId": "ep_055",
+          "slotId": "ep_295",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E22.mp4"
+            "language_Spanish": ""
           }
         }
       ]
@@ -2514,125 +2827,189 @@
         "Drama"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_007",
       "addedAt": "2026-04-01T02:59:15.444Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 71,
+      "gridIndex": 14,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_056",
+          "slotId": "ep_296",
           "links": {
-            "default": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E01.mp4"
+            "default": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x01.mp4"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_297",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_298",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_299",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_300",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_301",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_302",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_303",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_304",
+          "links": {
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e10",
           "title": "Capítulo 10",
-          "slotId": "ep_057",
+          "slotId": "ep_305",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E10.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e11",
           "title": "Capítulo 11",
-          "slotId": "ep_058",
+          "slotId": "ep_306",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E11.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e12",
           "title": "Capítulo 12",
-          "slotId": "ep_059",
+          "slotId": "ep_307",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E12.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e13",
           "title": "Capítulo 13",
-          "slotId": "ep_060",
+          "slotId": "ep_308",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E13.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e14",
           "title": "Capítulo 14",
-          "slotId": "ep_061",
+          "slotId": "ep_309",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E14.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e15",
           "title": "Capítulo 15",
-          "slotId": "ep_062",
+          "slotId": "ep_310",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E15.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e16",
           "title": "Capítulo 16",
-          "slotId": "ep_063",
+          "slotId": "ep_311",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E16.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e17",
           "title": "Capítulo 17",
-          "slotId": "ep_064",
+          "slotId": "ep_312",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E17.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e18",
           "title": "Capítulo 18",
-          "slotId": "ep_065",
+          "slotId": "ep_313",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E18.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e19",
           "title": "Capítulo 19",
-          "slotId": "ep_066",
+          "slotId": "ep_314",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E19.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e20",
           "title": "Capítulo 20",
-          "slotId": "ep_067",
+          "slotId": "ep_315",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E20.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e21",
           "title": "Capítulo 21",
-          "slotId": "ep_068",
+          "slotId": "ep_316",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E21.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e22",
           "title": "Capítulo 22",
-          "slotId": "ep_069",
+          "slotId": "ep_317",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E22.mp4"
+            "language_Spanish": ""
           }
         }
       ]
@@ -2653,125 +3030,189 @@
         "Drama"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_008",
       "addedAt": "2026-04-01T02:59:16.481Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 72,
+      "gridIndex": 15,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_070",
+          "slotId": "ep_318",
           "links": {
-            "default": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E01.mp4"
+            "default": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x01.mp4"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_319",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_320",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_321",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_322",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_323",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_324",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_325",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_326",
+          "links": {
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e10",
           "title": "Capítulo 10",
-          "slotId": "ep_071",
+          "slotId": "ep_327",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E10.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e11",
           "title": "Capítulo 11",
-          "slotId": "ep_072",
+          "slotId": "ep_328",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E11.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e12",
           "title": "Capítulo 12",
-          "slotId": "ep_073",
+          "slotId": "ep_329",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E12.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e13",
           "title": "Capítulo 13",
-          "slotId": "ep_074",
+          "slotId": "ep_330",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E13.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e14",
           "title": "Capítulo 14",
-          "slotId": "ep_075",
+          "slotId": "ep_331",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E14.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e15",
           "title": "Capítulo 15",
-          "slotId": "ep_076",
+          "slotId": "ep_332",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E15.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e16",
           "title": "Capítulo 16",
-          "slotId": "ep_077",
+          "slotId": "ep_333",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E16.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e17",
           "title": "Capítulo 17",
-          "slotId": "ep_078",
+          "slotId": "ep_334",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E17.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e18",
           "title": "Capítulo 18",
-          "slotId": "ep_079",
+          "slotId": "ep_335",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E18.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e19",
           "title": "Capítulo 19",
-          "slotId": "ep_080",
+          "slotId": "ep_336",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E19.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e20",
           "title": "Capítulo 20",
-          "slotId": "ep_081",
+          "slotId": "ep_337",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E20.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e21",
           "title": "Capítulo 21",
-          "slotId": "ep_082",
+          "slotId": "ep_338",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E21.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e22",
           "title": "Capítulo 22",
-          "slotId": "ep_083",
+          "slotId": "ep_339",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E22.mp4"
+            "language_Spanish": ""
           }
         }
       ]
@@ -2792,133 +3233,197 @@
         "Drama"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_009",
       "addedAt": "2026-04-01T02:59:17.767Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 73,
+      "gridIndex": 16,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_084",
+          "slotId": "ep_340",
           "links": {
-            "default": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E01.mp4"
+            "default": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x01.mp4"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_341",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_342",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_343",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_344",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_345",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_346",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_347",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_348",
+          "links": {
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e10",
           "title": "Capítulo 10",
-          "slotId": "ep_085",
+          "slotId": "ep_349",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E10.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e11",
           "title": "Capítulo 11",
-          "slotId": "ep_086",
+          "slotId": "ep_350",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E11.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e12",
           "title": "Capítulo 12",
-          "slotId": "ep_087",
+          "slotId": "ep_351",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E12.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e13",
           "title": "Capítulo 13",
-          "slotId": "ep_088",
+          "slotId": "ep_352",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E13.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e14",
           "title": "Capítulo 14",
-          "slotId": "ep_089",
+          "slotId": "ep_353",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E14.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e15",
           "title": "Capítulo 15",
-          "slotId": "ep_090",
+          "slotId": "ep_354",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E15.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e16",
           "title": "Capítulo 16",
-          "slotId": "ep_091",
+          "slotId": "ep_355",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E16.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e17",
           "title": "Capítulo 17",
-          "slotId": "ep_092",
+          "slotId": "ep_356",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E17.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e18",
           "title": "Capítulo 18",
-          "slotId": "ep_093",
+          "slotId": "ep_357",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E18.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e19",
           "title": "Capítulo 19",
-          "slotId": "ep_094",
+          "slotId": "ep_358",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E19.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e20",
           "title": "Capítulo 20",
-          "slotId": "ep_095",
+          "slotId": "ep_359",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E20.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e21",
           "title": "Capítulo 21",
-          "slotId": "ep_096",
+          "slotId": "ep_360",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E21.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e22",
           "title": "Capítulo 22",
-          "slotId": "ep_097",
+          "slotId": "ep_361",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E22.mp4"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e23",
           "title": "Capítulo 23",
-          "slotId": "ep_098",
+          "slotId": "ep_362",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E23.mp4"
+            "language_Spanish": ""
           }
         }
       ]
@@ -2943,21 +3448,77 @@
         "Adventure"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_010",
       "addedAt": "2026-04-01T03:09:04.139Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 74,
+      "gridIndex": 17,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_099",
+          "slotId": "ep_363",
           "links": {
             "default": ""
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_364",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_365",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_366",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_367",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_368",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_369",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_370",
+          "links": {
+            "language_Spanish": ""
           }
         }
       ]
@@ -2984,21 +3545,29 @@
         "Drama"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_011",
       "addedAt": "2026-04-01T03:13:34.985Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 75,
+      "gridIndex": 18,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_100",
+          "slotId": "ep_371",
           "links": {
             "default": ""
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_372",
+          "links": {
+            "language_Spanish": ""
           }
         }
       ]
@@ -3025,21 +3594,29 @@
         "Drama"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_012",
       "addedAt": "2026-04-01T03:13:49.559Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 76,
+      "gridIndex": 19,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_101",
+          "slotId": "ep_373",
           "links": {
             "default": ""
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_374",
+          "links": {
+            "language_Spanish": ""
           }
         }
       ]
@@ -3066,21 +3643,29 @@
         "Drama"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_013",
       "addedAt": "2026-04-01T03:13:50.760Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 77,
+      "gridIndex": 20,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_102",
+          "slotId": "ep_375",
           "links": {
             "default": ""
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_376",
+          "links": {
+            "language_Spanish": ""
           }
         }
       ]
@@ -3107,21 +3692,29 @@
         "Drama"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_014",
       "addedAt": "2026-04-01T03:13:51.737Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 78,
+      "gridIndex": 21,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_103",
+          "slotId": "ep_377",
           "links": {
             "default": ""
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_378",
+          "links": {
+            "language_Spanish": ""
           }
         }
       ]
@@ -3148,21 +3741,29 @@
         "Drama"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_015",
       "addedAt": "2026-04-01T03:13:53.891Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 79,
+      "gridIndex": 22,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_104",
+          "slotId": "ep_379",
           "links": {
             "default": ""
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_380",
+          "links": {
+            "language_Spanish": ""
           }
         }
       ]
@@ -3190,21 +3791,29 @@
         "Adventure"
       ],
       "languages": [
-        "Japanese"
+        "language_Japanese"
       ],
       "enabled": true,
       "id": "series_016",
       "addedAt": "2026-04-01T03:23:03.032Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 80,
+      "gridIndex": 23,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_105",
+          "slotId": "ep_381",
           "links": {
             "default": "ewr"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_382",
+          "links": {
+            "language_Japanese": ""
           }
         }
       ]
@@ -3232,21 +3841,29 @@
         "Adventure"
       ],
       "languages": [
-        "Japanese"
+        "language_Japanese"
       ],
       "enabled": true,
       "id": "series_017",
       "addedAt": "2026-04-01T03:23:23.457Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 81,
+      "gridIndex": 24,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_106",
+          "slotId": "ep_383",
           "links": {
             "default": ""
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_384",
+          "links": {
+            "language_Japanese": ""
           }
         }
       ]
@@ -3274,21 +3891,29 @@
         "Adventure"
       ],
       "languages": [
-        "Japanese"
+        "language_Japanese"
       ],
       "enabled": true,
       "id": "series_018",
       "addedAt": "2026-04-01T03:23:26.102Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 82,
+      "gridIndex": 25,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_107",
+          "slotId": "ep_385",
           "links": {
             "default": ""
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_386",
+          "links": {
+            "language_Japanese": ""
           }
         }
       ]
@@ -3316,21 +3941,29 @@
         "Adventure"
       ],
       "languages": [
-        "Japanese"
+        "language_Japanese"
       ],
       "enabled": true,
       "id": "series_019",
       "addedAt": "2026-04-01T03:23:26.936Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 83,
+      "gridIndex": 26,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_108",
+          "slotId": "ep_387",
           "links": {
             "default": ""
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_388",
+          "links": {
+            "language_Japanese": ""
           }
         }
       ]
@@ -3351,21 +3984,37 @@
         "Adventure"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_020",
       "addedAt": "2026-04-01T03:30:15.960Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 84,
+      "gridIndex": 27,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_109",
+          "slotId": "ep_389",
           "links": {
             "default": "asd"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_390",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_391",
+          "links": {
+            "language_Spanish": ""
           }
         }
       ]
@@ -3386,21 +4035,37 @@
         "Adventure"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_021",
       "addedAt": "2026-04-01T03:30:31.942Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 85,
+      "gridIndex": 28,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_110",
+          "slotId": "ep_392",
           "links": {
             "default": "asd"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_393",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_394",
+          "links": {
+            "language_Spanish": ""
           }
         }
       ]
@@ -3419,19 +4084,19 @@
         "Comedy"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_022",
       "addedAt": "2026-04-01T03:32:26.792Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 86,
+      "gridIndex": 29,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_111",
+          "slotId": "ep_395",
           "links": {
             "default": "aaa"
           }
@@ -3455,21 +4120,29 @@
         "Horror"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_023",
       "addedAt": "2026-04-01T03:34:35.729Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 87,
+      "gridIndex": 30,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_112",
+          "slotId": "ep_396",
           "links": {
             "default": "asd"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_397",
+          "links": {
+            "language_Spanish": ""
           }
         }
       ]
@@ -3491,21 +4164,29 @@
         "Horror"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_024",
       "addedAt": "2026-04-01T03:34:47.279Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 88,
+      "gridIndex": 31,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_113",
+          "slotId": "ep_398",
           "links": {
             "default": "asd"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_399",
+          "links": {
+            "language_Spanish": ""
           }
         }
       ]
@@ -3527,109 +4208,29 @@
         "Animation"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_025",
       "addedAt": "2026-04-01T03:37:21.231Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 89,
+      "gridIndex": 32,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_114",
+          "slotId": "ep_400",
           "links": {
-            "default": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t1/JimmyNeutron_S01E01.mkv"
+            "default": "asda"
           }
         },
         {
-          "id": "s01e10",
-          "title": "Capítulo 10",
-          "slotId": "ep_115",
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_401",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t1/JimmyNeutron_S01E10.mkv"
-          }
-        },
-        {
-          "id": "s01e11",
-          "title": "Capítulo 11",
-          "slotId": "ep_116",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t1/JimmyNeutron_S01E11.mkv"
-          }
-        },
-        {
-          "id": "s01e12",
-          "title": "Capítulo 12",
-          "slotId": "ep_117",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t1/JimmyNeutron_S01E12.mkv"
-          }
-        },
-        {
-          "id": "s01e13",
-          "title": "Capítulo 13",
-          "slotId": "ep_118",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t1/JimmyNeutron_S01E13.mkv"
-          }
-        },
-        {
-          "id": "s01e14",
-          "title": "Capítulo 14",
-          "slotId": "ep_119",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t1/JimmyNeutron_S01E14.mkv"
-          }
-        },
-        {
-          "id": "s01e15",
-          "title": "Capítulo 15",
-          "slotId": "ep_120",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t1/JimmyNeutron_S01E15.mkv"
-          }
-        },
-        {
-          "id": "s01e16",
-          "title": "Capítulo 16",
-          "slotId": "ep_121",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t1/JimmyNeutron_S01E16.mkv"
-          }
-        },
-        {
-          "id": "s01e17",
-          "title": "Capítulo 17",
-          "slotId": "ep_122",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t1/JimmyNeutron_S01E17.mkv"
-          }
-        },
-        {
-          "id": "s01e18",
-          "title": "Capítulo 18",
-          "slotId": "ep_123",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t1/JimmyNeutron_S01E18.mkv"
-          }
-        },
-        {
-          "id": "s01e19",
-          "title": "Capítulo 19",
-          "slotId": "ep_124",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t1/JimmyNeutron_S01E19.mkv"
-          }
-        },
-        {
-          "id": "s01e20",
-          "title": "Capítulo 20",
-          "slotId": "ep_125",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t1/JimmyNeutron_S01E20.mkv"
+            "language_Spanish": ""
           }
         }
       ]
@@ -3651,109 +4252,29 @@
         "Animation"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_026",
       "addedAt": "2026-04-01T03:37:50.167Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 90,
+      "gridIndex": 33,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_126",
+          "slotId": "ep_402",
           "links": {
-            "default": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t2/JimmyNeutron_S02E01.mkv"
+            "default": "asda"
           }
         },
         {
-          "id": "s01e10",
-          "title": "Capítulo 10",
-          "slotId": "ep_127",
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_403",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t2/JimmyNeutron_S02E10.mkv"
-          }
-        },
-        {
-          "id": "s01e11",
-          "title": "Capítulo 11",
-          "slotId": "ep_128",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t2/JimmyNeutron_S02E11.mkv"
-          }
-        },
-        {
-          "id": "s01e12",
-          "title": "Capítulo 12",
-          "slotId": "ep_129",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t2/JimmyNeutron_S02E12.mkv"
-          }
-        },
-        {
-          "id": "s01e13",
-          "title": "Capítulo 13",
-          "slotId": "ep_130",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t2/JimmyNeutron_S02E13.mkv"
-          }
-        },
-        {
-          "id": "s01e14",
-          "title": "Capítulo 14",
-          "slotId": "ep_131",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t2/JimmyNeutron_S02E14.mkv"
-          }
-        },
-        {
-          "id": "s01e15",
-          "title": "Capítulo 15",
-          "slotId": "ep_132",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t2/JimmyNeutron_S02E15.mkv"
-          }
-        },
-        {
-          "id": "s01e16",
-          "title": "Capítulo 16",
-          "slotId": "ep_133",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t2/JimmyNeutron_S02E16.mkv"
-          }
-        },
-        {
-          "id": "s01e17",
-          "title": "Capítulo 17",
-          "slotId": "ep_134",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t2/JimmyNeutron_S02E17.mkv"
-          }
-        },
-        {
-          "id": "s01e18",
-          "title": "Capítulo 18",
-          "slotId": "ep_135",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t2/JimmyNeutron_S02E18.mkv"
-          }
-        },
-        {
-          "id": "s01e19",
-          "title": "Capítulo 19",
-          "slotId": "ep_136",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t2/JimmyNeutron_S02E19.mkv"
-          }
-        },
-        {
-          "id": "s01e20",
-          "title": "Capítulo 20",
-          "slotId": "ep_137",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t2/JimmyNeutron_S02E20.mkv"
+            "language_Spanish": ""
           }
         }
       ]
@@ -3775,101 +4296,29 @@
         "Animation"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_027",
       "addedAt": "2026-04-01T03:37:52.173Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 91,
+      "gridIndex": 34,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_138",
+          "slotId": "ep_404",
           "links": {
-            "default": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t3/JimmyNeutron_S03E01.mkv"
+            "default": "asda"
           }
         },
         {
-          "id": "s01e10",
-          "title": "Capítulo 10",
-          "slotId": "ep_139",
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_405",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t3/JimmyNeutron_S03E10.mkv"
-          }
-        },
-        {
-          "id": "s01e11",
-          "title": "Capítulo 11",
-          "slotId": "ep_140",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t3/JimmyNeutron_S03E11.mkv"
-          }
-        },
-        {
-          "id": "s01e12",
-          "title": "Capítulo 12",
-          "slotId": "ep_141",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t3/JimmyNeutron_S03E12.mkv"
-          }
-        },
-        {
-          "id": "s01e13",
-          "title": "Capítulo 13",
-          "slotId": "ep_142",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t3/JimmyNeutron_S03E13.mkv"
-          }
-        },
-        {
-          "id": "s01e14",
-          "title": "Capítulo 14",
-          "slotId": "ep_143",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t3/JimmyNeutron_S03E14.mkv"
-          }
-        },
-        {
-          "id": "s01e15",
-          "title": "Capítulo 15",
-          "slotId": "ep_144",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t3/JimmyNeutron_S03E15.mkv"
-          }
-        },
-        {
-          "id": "s01e16",
-          "title": "Capítulo 16",
-          "slotId": "ep_145",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t3/JimmyNeutron_S03E16.mkv"
-          }
-        },
-        {
-          "id": "s01e17",
-          "title": "Capítulo 17",
-          "slotId": "ep_146",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t3/JimmyNeutron_S03E17.mkv"
-          }
-        },
-        {
-          "id": "s01e18",
-          "title": "Capítulo 18",
-          "slotId": "ep_147",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t3/JimmyNeutron_S03E18.mkv"
-          }
-        },
-        {
-          "id": "s01e19",
-          "title": "Capítulo 19",
-          "slotId": "ep_148",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/JimmyNeutron/t3/JimmyNeutron_S03E19.mkv"
+            "language_Spanish": ""
           }
         }
       ]
@@ -3893,45 +4342,109 @@
         "Romance"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_028",
       "addedAt": "2026-04-06T08:20:06.980Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 92,
+      "gridIndex": 85,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_149",
+          "slotId": "ep_406",
           "links": {
             "default": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E01.mkv"
           }
         },
         {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_407",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_408",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_409",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_410",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_411",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_412",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_413",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_414",
+          "links": {
+            "language_Spanish": ""
+          }
+        },
+        {
           "id": "s01e10",
           "title": "Capítulo 10",
-          "slotId": "ep_150",
+          "slotId": "ep_415",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E10.mkv"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e11",
           "title": "Capítulo 11",
-          "slotId": "ep_151",
+          "slotId": "ep_416",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E11.mkv"
+            "language_Spanish": ""
           }
         },
         {
           "id": "s01e12",
           "title": "Capítulo 12",
-          "slotId": "ep_152",
+          "slotId": "ep_417",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E12.mkv"
+            "language_Spanish": ""
           }
         }
       ]
@@ -3952,19 +4465,19 @@
         "Romance"
       ],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "id": "series_029",
       "addedAt": "2026-04-08T20:51:20.823Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 93,
+      "gridIndex": 92,
       "episodes": [
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_153",
+          "slotId": "ep_418",
           "links": {
             "default": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E01.mp4"
           }
@@ -3972,15 +4485,7 @@
         {
           "id": "s01e02",
           "title": "Capítulo 2",
-          "slotId": "ep_154",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E02.mp4"
-          }
-        },
-        {
-          "id": "s01e02",
-          "title": "Capítulo 2",
-          "slotId": "ep_155",
+          "slotId": "ep_419",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E02.mp4"
           }
@@ -3988,15 +4493,7 @@
         {
           "id": "s01e03",
           "title": "Capítulo 3",
-          "slotId": "ep_156",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E03.mp4"
-          }
-        },
-        {
-          "id": "s01e03",
-          "title": "Capítulo 3",
-          "slotId": "ep_157",
+          "slotId": "ep_420",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E03.mp4"
           }
@@ -4004,15 +4501,7 @@
         {
           "id": "s01e04",
           "title": "Capítulo 4",
-          "slotId": "ep_158",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E04.mp4"
-          }
-        },
-        {
-          "id": "s01e04",
-          "title": "Capítulo 4",
-          "slotId": "ep_159",
+          "slotId": "ep_421",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E04.mp4"
           }
@@ -4020,15 +4509,7 @@
         {
           "id": "s01e05",
           "title": "Capítulo 5",
-          "slotId": "ep_160",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E05.mp4"
-          }
-        },
-        {
-          "id": "s01e05",
-          "title": "Capítulo 5",
-          "slotId": "ep_161",
+          "slotId": "ep_422",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E05.mp4"
           }
@@ -4036,15 +4517,7 @@
         {
           "id": "s01e06",
           "title": "Capítulo 6",
-          "slotId": "ep_162",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E06.mp4"
-          }
-        },
-        {
-          "id": "s01e06",
-          "title": "Capítulo 6",
-          "slotId": "ep_163",
+          "slotId": "ep_423",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E06.mp4"
           }
@@ -4052,15 +4525,7 @@
         {
           "id": "s01e07",
           "title": "Capítulo 7",
-          "slotId": "ep_164",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E07.mp4"
-          }
-        },
-        {
-          "id": "s01e07",
-          "title": "Capítulo 7",
-          "slotId": "ep_165",
+          "slotId": "ep_424",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E07.mp4"
           }
@@ -4068,15 +4533,7 @@
         {
           "id": "s01e08",
           "title": "Capítulo 8",
-          "slotId": "ep_166",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E08.mp4"
-          }
-        },
-        {
-          "id": "s01e08",
-          "title": "Capítulo 8",
-          "slotId": "ep_167",
+          "slotId": "ep_425",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E08.mp4"
           }
@@ -4084,15 +4541,7 @@
         {
           "id": "s01e09",
           "title": "Capítulo 9",
-          "slotId": "ep_168",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E09.mp4"
-          }
-        },
-        {
-          "id": "s01e09",
-          "title": "Capítulo 9",
-          "slotId": "ep_169",
+          "slotId": "ep_426",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E09.mp4"
           }
@@ -4100,7 +4549,7 @@
         {
           "id": "s01e10",
           "title": "Capítulo 10",
-          "slotId": "ep_170",
+          "slotId": "ep_427",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E10.mp4"
           }
@@ -4108,7 +4557,7 @@
         {
           "id": "s01e11",
           "title": "Capítulo 11",
-          "slotId": "ep_171",
+          "slotId": "ep_428",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E11.mp4"
           }
@@ -4116,7 +4565,7 @@
         {
           "id": "s01e12",
           "title": "Capítulo 12",
-          "slotId": "ep_172",
+          "slotId": "ep_429",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E12.mp4"
           }
@@ -4124,7 +4573,7 @@
         {
           "id": "s01e13",
           "title": "Capítulo 13",
-          "slotId": "ep_173",
+          "slotId": "ep_430",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E13.mp4"
           }
@@ -4132,1878 +4581,12 @@
         {
           "id": "s01e14",
           "title": "Capítulo 14",
-          "slotId": "ep_174",
+          "slotId": "ep_431",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/violet/violetS01E14.mp4"
           }
         }
       ]
-    },
-    {
-      "id": "series_malcolmserie",
-      "type": "series",
-      "title": "Malcolm in the Middle",
-      "description": "Malcolm el de en medio.",
-      "rating": "TV-PG",
-      "year": 2000,
-      "releaseDate": "2000-01-09",
-      "genres": [
-        "Comedy",
-        "Family"
-      ],
-      "languages": [
-        "Spanish"
-      ],
-      "episodes": [
-        {
-          "id": "ep_001",
-          "title": "MALCOLMSERIE_S01E01",
-          "slotId": "ep_175",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E01.mp4"
-          }
-        },
-        {
-          "id": "ep_002",
-          "title": "MALCOLMSERIE_S01E02",
-          "slotId": "ep_176",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E02.mp4"
-          }
-        },
-        {
-          "id": "ep_003",
-          "title": "MALCOLMSERIE_S01E03",
-          "slotId": "ep_177",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E03.mp4"
-          }
-        },
-        {
-          "id": "ep_004",
-          "title": "MALCOLMSERIE_S01E04",
-          "slotId": "ep_178",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E04.mp4"
-          }
-        },
-        {
-          "id": "ep_005",
-          "title": "MALCOLMSERIE_S01E05",
-          "slotId": "ep_179",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E05.mp4"
-          }
-        },
-        {
-          "id": "ep_006",
-          "title": "MALCOLMSERIE_S01E06",
-          "slotId": "ep_180",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E06.mp4"
-          }
-        },
-        {
-          "id": "ep_007",
-          "title": "MALCOLMSERIE_S01E07",
-          "slotId": "ep_181",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E07.mp4"
-          }
-        },
-        {
-          "id": "ep_008",
-          "title": "MALCOLMSERIE_S01E08",
-          "slotId": "ep_182",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E08.mp4"
-          }
-        },
-        {
-          "id": "ep_009",
-          "title": "MALCOLMSERIE_S01E09",
-          "slotId": "ep_183",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E09.mp4"
-          }
-        },
-        {
-          "id": "ep_010",
-          "title": "MALCOLMSERIE_S01E10",
-          "slotId": "ep_184",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E10.mp4"
-          }
-        },
-        {
-          "id": "ep_011",
-          "title": "MALCOLMSERIE_S01E11",
-          "slotId": "ep_185",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E11.mp4"
-          }
-        },
-        {
-          "id": "ep_012",
-          "title": "MALCOLMSERIE_S01E12",
-          "slotId": "ep_186",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E12.mp4"
-          }
-        },
-        {
-          "id": "ep_013",
-          "title": "MALCOLMSERIE_S01E13",
-          "slotId": "ep_187",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E13.mp4"
-          }
-        },
-        {
-          "id": "ep_014",
-          "title": "MALCOLMSERIE_S01E14",
-          "slotId": "ep_188",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E14.mp4"
-          }
-        },
-        {
-          "id": "ep_015",
-          "title": "MALCOLMSERIE_S01E15",
-          "slotId": "ep_189",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E15.mp4"
-          }
-        },
-        {
-          "id": "ep_016",
-          "title": "MALCOLMSERIE_S01E16",
-          "slotId": "ep_190",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t1/MALCOLMSERIE_S01E16.mp4"
-          }
-        },
-        {
-          "id": "ep_017",
-          "title": "MALCOLMSERIE_S02E01",
-          "slotId": "ep_191",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E01.mp4"
-          }
-        },
-        {
-          "id": "ep_018",
-          "title": "MALCOLMSERIE_S02E02",
-          "slotId": "ep_192",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E02.mp4"
-          }
-        },
-        {
-          "id": "ep_019",
-          "title": "MALCOLMSERIE_S02E03",
-          "slotId": "ep_193",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E03.mp4"
-          }
-        },
-        {
-          "id": "ep_020",
-          "title": "MALCOLMSERIE_S02E04",
-          "slotId": "ep_194",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E04.mp4"
-          }
-        },
-        {
-          "id": "ep_021",
-          "title": "MALCOLMSERIE_S02E05",
-          "slotId": "ep_195",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E05.mp4"
-          }
-        },
-        {
-          "id": "ep_022",
-          "title": "MALCOLMSERIE_S02E06",
-          "slotId": "ep_196",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E06.mp4"
-          }
-        },
-        {
-          "id": "ep_023",
-          "title": "MALCOLMSERIE_S02E07",
-          "slotId": "ep_197",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E07.mp4"
-          }
-        },
-        {
-          "id": "ep_024",
-          "title": "MALCOLMSERIE_S02E08",
-          "slotId": "ep_198",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E08.mp4"
-          }
-        },
-        {
-          "id": "ep_025",
-          "title": "MALCOLMSERIE_S02E09",
-          "slotId": "ep_199",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E09.mp4"
-          }
-        },
-        {
-          "id": "ep_026",
-          "title": "MALCOLMSERIE_S02E10",
-          "slotId": "ep_200",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E10.mp4"
-          }
-        },
-        {
-          "id": "ep_027",
-          "title": "MALCOLMSERIE_S02E11",
-          "slotId": "ep_201",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E11.mp4"
-          }
-        },
-        {
-          "id": "ep_028",
-          "title": "MALCOLMSERIE_S02E12",
-          "slotId": "ep_202",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E12.mp4"
-          }
-        },
-        {
-          "id": "ep_029",
-          "title": "MALCOLMSERIE_S02E13",
-          "slotId": "ep_203",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E13.mp4"
-          }
-        },
-        {
-          "id": "ep_030",
-          "title": "MALCOLMSERIE_S02E14",
-          "slotId": "ep_204",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E14.mp4"
-          }
-        },
-        {
-          "id": "ep_031",
-          "title": "MALCOLMSERIE_S02E15",
-          "slotId": "ep_205",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E15.mp4"
-          }
-        },
-        {
-          "id": "ep_032",
-          "title": "MALCOLMSERIE_S02E16",
-          "slotId": "ep_206",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E16.mp4"
-          }
-        },
-        {
-          "id": "ep_033",
-          "title": "MALCOLMSERIE_S02E17",
-          "slotId": "ep_207",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E17.mp4"
-          }
-        },
-        {
-          "id": "ep_034",
-          "title": "MALCOLMSERIE_S02E18",
-          "slotId": "ep_208",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E18.mp4"
-          }
-        },
-        {
-          "id": "ep_035",
-          "title": "MALCOLMSERIE_S02E19",
-          "slotId": "ep_209",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E19.mp4"
-          }
-        },
-        {
-          "id": "ep_036",
-          "title": "MALCOLMSERIE_S02E20",
-          "slotId": "ep_210",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E20.mp4"
-          }
-        },
-        {
-          "id": "ep_037",
-          "title": "MALCOLMSERIE_S02E21",
-          "slotId": "ep_211",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E21.mkv"
-          }
-        },
-        {
-          "id": "ep_038",
-          "title": "MALCOLMSERIE_S02E22",
-          "slotId": "ep_212",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E22.mkv"
-          }
-        },
-        {
-          "id": "ep_039",
-          "title": "MALCOLMSERIE_S02E23",
-          "slotId": "ep_213",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E23.mkv"
-          }
-        },
-        {
-          "id": "ep_040",
-          "title": "MALCOLMSERIE_S02E24",
-          "slotId": "ep_214",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E24.mkv"
-          }
-        },
-        {
-          "id": "ep_041",
-          "title": "MALCOLMSERIE_S02E25",
-          "slotId": "ep_215",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t2/MALCOLMSERIE_S02E25.mkv"
-          }
-        },
-        {
-          "id": "ep_042",
-          "title": "MALCOLMSERIE_S03E01",
-          "slotId": "ep_216",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E01.mp4"
-          }
-        },
-        {
-          "id": "ep_043",
-          "title": "MALCOLMSERIE_S03E02",
-          "slotId": "ep_217",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E02.mp4"
-          }
-        },
-        {
-          "id": "ep_044",
-          "title": "MALCOLMSERIE_S03E03",
-          "slotId": "ep_218",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E03.mp4"
-          }
-        },
-        {
-          "id": "ep_045",
-          "title": "MALCOLMSERIE_S03E04",
-          "slotId": "ep_219",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E04.mp4"
-          }
-        },
-        {
-          "id": "ep_046",
-          "title": "MALCOLMSERIE_S03E05",
-          "slotId": "ep_220",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E05.mp4"
-          }
-        },
-        {
-          "id": "ep_047",
-          "title": "MALCOLMSERIE_S03E06",
-          "slotId": "ep_221",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E06.mp4"
-          }
-        },
-        {
-          "id": "ep_048",
-          "title": "MALCOLMSERIE_S03E07",
-          "slotId": "ep_222",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E07.mp4"
-          }
-        },
-        {
-          "id": "ep_049",
-          "title": "MALCOLMSERIE_S03E08",
-          "slotId": "ep_223",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E08.mp4"
-          }
-        },
-        {
-          "id": "ep_050",
-          "title": "MALCOLMSERIE_S03E09",
-          "slotId": "ep_224",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E09.mp4"
-          }
-        },
-        {
-          "id": "ep_051",
-          "title": "MALCOLMSERIE_S03E10",
-          "slotId": "ep_225",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E10.mp4"
-          }
-        },
-        {
-          "id": "ep_052",
-          "title": "MALCOLMSERIE_S03E11",
-          "slotId": "ep_226",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E11.mp4"
-          }
-        },
-        {
-          "id": "ep_053",
-          "title": "MALCOLMSERIE_S03E12",
-          "slotId": "ep_227",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E12.mp4"
-          }
-        },
-        {
-          "id": "ep_054",
-          "title": "MALCOLMSERIE_S03E13",
-          "slotId": "ep_228",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E13.mp4"
-          }
-        },
-        {
-          "id": "ep_055",
-          "title": "MALCOLMSERIE_S03E14",
-          "slotId": "ep_229",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E14.mp4"
-          }
-        },
-        {
-          "id": "ep_056",
-          "title": "MALCOLMSERIE_S03E15",
-          "slotId": "ep_230",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E15.mp4"
-          }
-        },
-        {
-          "id": "ep_057",
-          "title": "MALCOLMSERIE_S03E16",
-          "slotId": "ep_231",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E16.mp4"
-          }
-        },
-        {
-          "id": "ep_058",
-          "title": "MALCOLMSERIE_S03E17",
-          "slotId": "ep_232",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E17.mp4"
-          }
-        },
-        {
-          "id": "ep_059",
-          "title": "MALCOLMSERIE_S03E18",
-          "slotId": "ep_233",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E18.mp4"
-          }
-        },
-        {
-          "id": "ep_060",
-          "title": "MALCOLMSERIE_S03E19",
-          "slotId": "ep_234",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E19.mp4"
-          }
-        },
-        {
-          "id": "ep_061",
-          "title": "MALCOLMSERIE_S03E20",
-          "slotId": "ep_235",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E20.mp4"
-          }
-        },
-        {
-          "id": "ep_062",
-          "title": "MALCOLMSERIE_S03E21",
-          "slotId": "ep_236",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E21.mp4"
-          }
-        },
-        {
-          "id": "ep_063",
-          "title": "MALCOLMSERIE_S03E22",
-          "slotId": "ep_237",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t3/MALCOLMSERIE_S03E22.mp4"
-          }
-        },
-        {
-          "id": "ep_064",
-          "title": "MALCOLMSERIE_S04E01",
-          "slotId": "ep_238",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E01.mp4"
-          }
-        },
-        {
-          "id": "ep_065",
-          "title": "MALCOLMSERIE_S04E02",
-          "slotId": "ep_239",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E02.mp4"
-          }
-        },
-        {
-          "id": "ep_066",
-          "title": "MALCOLMSERIE_S04E03",
-          "slotId": "ep_240",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E03.mp4"
-          }
-        },
-        {
-          "id": "ep_067",
-          "title": "MALCOLMSERIE_S04E04",
-          "slotId": "ep_241",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E04.mp4"
-          }
-        },
-        {
-          "id": "ep_068",
-          "title": "MALCOLMSERIE_S04E05",
-          "slotId": "ep_242",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E05.mp4"
-          }
-        },
-        {
-          "id": "ep_069",
-          "title": "MALCOLMSERIE_S04E06",
-          "slotId": "ep_243",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E06.mp4"
-          }
-        },
-        {
-          "id": "ep_070",
-          "title": "MALCOLMSERIE_S04E07",
-          "slotId": "ep_244",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E07.mp4"
-          }
-        },
-        {
-          "id": "ep_071",
-          "title": "MALCOLMSERIE_S04E08",
-          "slotId": "ep_245",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E08.mp4"
-          }
-        },
-        {
-          "id": "ep_072",
-          "title": "MALCOLMSERIE_S04E09",
-          "slotId": "ep_246",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E09.mp4"
-          }
-        },
-        {
-          "id": "ep_073",
-          "title": "MALCOLMSERIE_S04E10",
-          "slotId": "ep_247",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E10.mp4"
-          }
-        },
-        {
-          "id": "ep_074",
-          "title": "MALCOLMSERIE_S04E11",
-          "slotId": "ep_248",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E11.mp4"
-          }
-        },
-        {
-          "id": "ep_075",
-          "title": "MALCOLMSERIE_S04E12",
-          "slotId": "ep_249",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E12.mp4"
-          }
-        },
-        {
-          "id": "ep_076",
-          "title": "MALCOLMSERIE_S04E13",
-          "slotId": "ep_250",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E13.mp4"
-          }
-        },
-        {
-          "id": "ep_077",
-          "title": "MALCOLMSERIE_S04E14",
-          "slotId": "ep_251",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E14.mp4"
-          }
-        },
-        {
-          "id": "ep_078",
-          "title": "MALCOLMSERIE_S04E15",
-          "slotId": "ep_252",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E15.mp4"
-          }
-        },
-        {
-          "id": "ep_079",
-          "title": "MALCOLMSERIE_S04E16",
-          "slotId": "ep_253",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E16.mp4"
-          }
-        },
-        {
-          "id": "ep_080",
-          "title": "MALCOLMSERIE_S04E17",
-          "slotId": "ep_254",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E17.mp4"
-          }
-        },
-        {
-          "id": "ep_081",
-          "title": "MALCOLMSERIE_S04E18",
-          "slotId": "ep_255",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E18.mp4"
-          }
-        },
-        {
-          "id": "ep_082",
-          "title": "MALCOLMSERIE_S04E19",
-          "slotId": "ep_256",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E19.mp4"
-          }
-        },
-        {
-          "id": "ep_083",
-          "title": "MALCOLMSERIE_S04E20",
-          "slotId": "ep_257",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E20.mp4"
-          }
-        },
-        {
-          "id": "ep_084",
-          "title": "MALCOLMSERIE_S04E21",
-          "slotId": "ep_258",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E21.mp4"
-          }
-        },
-        {
-          "id": "ep_085",
-          "title": "MALCOLMSERIE_S04E22",
-          "slotId": "ep_259",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t4/MALCOLMSERIE_S04E22.mp4"
-          }
-        },
-        {
-          "id": "ep_086",
-          "title": "MALCOLMSERIE_S05E01",
-          "slotId": "ep_260",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E01.mp4"
-          }
-        },
-        {
-          "id": "ep_087",
-          "title": "MALCOLMSERIE_S05E02",
-          "slotId": "ep_261",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E02.mp4"
-          }
-        },
-        {
-          "id": "ep_088",
-          "title": "MALCOLMSERIE_S05E03",
-          "slotId": "ep_262",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E03.mp4"
-          }
-        },
-        {
-          "id": "ep_089",
-          "title": "MALCOLMSERIE_S05E04",
-          "slotId": "ep_263",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E04.mp4"
-          }
-        },
-        {
-          "id": "ep_090",
-          "title": "MALCOLMSERIE_S05E05",
-          "slotId": "ep_264",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E05.mp4"
-          }
-        },
-        {
-          "id": "ep_091",
-          "title": "MALCOLMSERIE_S05E06",
-          "slotId": "ep_265",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E06.mp4"
-          }
-        },
-        {
-          "id": "ep_092",
-          "title": "MALCOLMSERIE_S05E07",
-          "slotId": "ep_266",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E07.mp4"
-          }
-        },
-        {
-          "id": "ep_093",
-          "title": "MALCOLMSERIE_S05E08",
-          "slotId": "ep_267",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E08.mp4"
-          }
-        },
-        {
-          "id": "ep_094",
-          "title": "MALCOLMSERIE_S05E09",
-          "slotId": "ep_268",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E09.mp4"
-          }
-        },
-        {
-          "id": "ep_095",
-          "title": "MALCOLMSERIE_S05E10",
-          "slotId": "ep_269",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E10.mp4"
-          }
-        },
-        {
-          "id": "ep_096",
-          "title": "MALCOLMSERIE_S05E11",
-          "slotId": "ep_270",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E11.mp4"
-          }
-        },
-        {
-          "id": "ep_097",
-          "title": "MALCOLMSERIE_S05E12",
-          "slotId": "ep_271",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E12.mp4"
-          }
-        },
-        {
-          "id": "ep_098",
-          "title": "MALCOLMSERIE_S05E13",
-          "slotId": "ep_272",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E13.mp4"
-          }
-        },
-        {
-          "id": "ep_099",
-          "title": "MALCOLMSERIE_S05E14",
-          "slotId": "ep_273",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E14.mp4"
-          }
-        },
-        {
-          "id": "ep_100",
-          "title": "MALCOLMSERIE_S05E15",
-          "slotId": "ep_274",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E15.mp4"
-          }
-        },
-        {
-          "id": "ep_101",
-          "title": "MALCOLMSERIE_S05E16",
-          "slotId": "ep_275",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E16.mp4"
-          }
-        },
-        {
-          "id": "ep_102",
-          "title": "MALCOLMSERIE_S05E17",
-          "slotId": "ep_276",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E17.mp4"
-          }
-        },
-        {
-          "id": "ep_103",
-          "title": "MALCOLMSERIE_S05E18",
-          "slotId": "ep_277",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E18.mp4"
-          }
-        },
-        {
-          "id": "ep_104",
-          "title": "MALCOLMSERIE_S05E19",
-          "slotId": "ep_278",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E19.mp4"
-          }
-        },
-        {
-          "id": "ep_105",
-          "title": "MALCOLMSERIE_S05E20",
-          "slotId": "ep_279",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E20.mp4"
-          }
-        },
-        {
-          "id": "ep_106",
-          "title": "MALCOLMSERIE_S05E21",
-          "slotId": "ep_280",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E21.mp4"
-          }
-        },
-        {
-          "id": "ep_107",
-          "title": "MALCOLMSERIE_S05E22",
-          "slotId": "ep_281",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t5/MALCOLMSERIE_S05E22.mp4"
-          }
-        },
-        {
-          "id": "ep_108",
-          "title": "MALCOLMSERIE_S06E01",
-          "slotId": "ep_282",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E01.mp4"
-          }
-        },
-        {
-          "id": "ep_109",
-          "title": "MALCOLMSERIE_S06E02",
-          "slotId": "ep_283",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E02.mp4"
-          }
-        },
-        {
-          "id": "ep_110",
-          "title": "MALCOLMSERIE_S06E03",
-          "slotId": "ep_284",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E03.mp4"
-          }
-        },
-        {
-          "id": "ep_111",
-          "title": "MALCOLMSERIE_S06E04",
-          "slotId": "ep_285",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E04.mp4"
-          }
-        },
-        {
-          "id": "ep_112",
-          "title": "MALCOLMSERIE_S06E05",
-          "slotId": "ep_286",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E05.mp4"
-          }
-        },
-        {
-          "id": "ep_113",
-          "title": "MALCOLMSERIE_S06E06",
-          "slotId": "ep_287",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E06.mp4"
-          }
-        },
-        {
-          "id": "ep_114",
-          "title": "MALCOLMSERIE_S06E07",
-          "slotId": "ep_288",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E07.mp4"
-          }
-        },
-        {
-          "id": "ep_115",
-          "title": "MALCOLMSERIE_S06E08",
-          "slotId": "ep_289",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E08.mp4"
-          }
-        },
-        {
-          "id": "ep_116",
-          "title": "MALCOLMSERIE_S06E09",
-          "slotId": "ep_290",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E09.mp4"
-          }
-        },
-        {
-          "id": "ep_117",
-          "title": "MALCOLMSERIE_S06E10",
-          "slotId": "ep_291",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E10.mp4"
-          }
-        },
-        {
-          "id": "ep_118",
-          "title": "MALCOLMSERIE_S06E11",
-          "slotId": "ep_292",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E11.mp4"
-          }
-        },
-        {
-          "id": "ep_119",
-          "title": "MALCOLMSERIE_S06E12",
-          "slotId": "ep_293",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E12.mp4"
-          }
-        },
-        {
-          "id": "ep_120",
-          "title": "MALCOLMSERIE_S06E13",
-          "slotId": "ep_294",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E13.mp4"
-          }
-        },
-        {
-          "id": "ep_121",
-          "title": "MALCOLMSERIE_S06E14",
-          "slotId": "ep_295",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E14.mp4"
-          }
-        },
-        {
-          "id": "ep_122",
-          "title": "MALCOLMSERIE_S06E15",
-          "slotId": "ep_296",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E15.mp4"
-          }
-        },
-        {
-          "id": "ep_123",
-          "title": "MALCOLMSERIE_S06E16",
-          "slotId": "ep_297",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E16.mp4"
-          }
-        },
-        {
-          "id": "ep_124",
-          "title": "MALCOLMSERIE_S06E17",
-          "slotId": "ep_298",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E17.mp4"
-          }
-        },
-        {
-          "id": "ep_125",
-          "title": "MALCOLMSERIE_S06E18",
-          "slotId": "ep_299",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E18.mp4"
-          }
-        },
-        {
-          "id": "ep_126",
-          "title": "MALCOLMSERIE_S06E19",
-          "slotId": "ep_300",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E19.mp4"
-          }
-        },
-        {
-          "id": "ep_127",
-          "title": "MALCOLMSERIE_S06E20",
-          "slotId": "ep_301",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E20.mp4"
-          }
-        },
-        {
-          "id": "ep_128",
-          "title": "MALCOLMSERIE_S06E21",
-          "slotId": "ep_302",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E21.mp4"
-          }
-        },
-        {
-          "id": "ep_129",
-          "title": "MALCOLMSERIE_S06E22",
-          "slotId": "ep_303",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t6/MALCOLMSERIE_S06E22.mp4"
-          }
-        },
-        {
-          "id": "ep_130",
-          "title": "MALCOLMSERIE_S07E01",
-          "slotId": "ep_304",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E01.mp4"
-          }
-        },
-        {
-          "id": "ep_131",
-          "title": "MALCOLMSERIE_S07E02",
-          "slotId": "ep_305",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E02.mp4"
-          }
-        },
-        {
-          "id": "ep_132",
-          "title": "MALCOLMSERIE_S07E03",
-          "slotId": "ep_306",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E03.mp4"
-          }
-        },
-        {
-          "id": "ep_133",
-          "title": "MALCOLMSERIE_S07E04",
-          "slotId": "ep_307",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E04.mp4"
-          }
-        },
-        {
-          "id": "ep_134",
-          "title": "MALCOLMSERIE_S07E05",
-          "slotId": "ep_308",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E05.mp4"
-          }
-        },
-        {
-          "id": "ep_135",
-          "title": "MALCOLMSERIE_S07E06",
-          "slotId": "ep_309",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E06.mp4"
-          }
-        },
-        {
-          "id": "ep_136",
-          "title": "MALCOLMSERIE_S07E07",
-          "slotId": "ep_310",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E07.mp4"
-          }
-        },
-        {
-          "id": "ep_137",
-          "title": "MALCOLMSERIE_S07E08",
-          "slotId": "ep_311",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E08.mp4"
-          }
-        },
-        {
-          "id": "ep_138",
-          "title": "MALCOLMSERIE_S07E09",
-          "slotId": "ep_312",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E09.mp4"
-          }
-        },
-        {
-          "id": "ep_139",
-          "title": "MALCOLMSERIE_S07E10",
-          "slotId": "ep_313",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E10.mp4"
-          }
-        },
-        {
-          "id": "ep_140",
-          "title": "MALCOLMSERIE_S07E11",
-          "slotId": "ep_314",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E11.mp4"
-          }
-        },
-        {
-          "id": "ep_141",
-          "title": "MALCOLMSERIE_S07E12",
-          "slotId": "ep_315",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E12.mp4"
-          }
-        },
-        {
-          "id": "ep_142",
-          "title": "MALCOLMSERIE_S07E13",
-          "slotId": "ep_316",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E13.mp4"
-          }
-        },
-        {
-          "id": "ep_143",
-          "title": "MALCOLMSERIE_S07E14",
-          "slotId": "ep_317",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E14.mp4"
-          }
-        },
-        {
-          "id": "ep_144",
-          "title": "MALCOLMSERIE_S07E15",
-          "slotId": "ep_318",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E15.mp4"
-          }
-        },
-        {
-          "id": "ep_145",
-          "title": "MALCOLMSERIE_S07E16",
-          "slotId": "ep_319",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E16.mp4"
-          }
-        },
-        {
-          "id": "ep_146",
-          "title": "MALCOLMSERIE_S07E17",
-          "slotId": "ep_320",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E17.mp4"
-          }
-        },
-        {
-          "id": "ep_147",
-          "title": "MALCOLMSERIE_S07E18",
-          "slotId": "ep_321",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E18.mp4"
-          }
-        },
-        {
-          "id": "ep_148",
-          "title": "MALCOLMSERIE_S07E19",
-          "slotId": "ep_322",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E19.mp4"
-          }
-        },
-        {
-          "id": "ep_149",
-          "title": "MALCOLMSERIE_S07E20",
-          "slotId": "ep_323",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E20.mp4"
-          }
-        },
-        {
-          "id": "ep_150",
-          "title": "MALCOLMSERIE_S07E21",
-          "slotId": "ep_324",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E21.mp4"
-          }
-        },
-        {
-          "id": "ep_151",
-          "title": "MALCOLMSERIE_S07E22",
-          "slotId": "ep_325",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/MALCOLMSERIE/t7/MALCOLMSERIE_S07E22.mp4"
-          }
-        }
-      ],
-      "enabled": true,
-      "atlas": "A",
-      "gridIndex": 94,
-      "section": "catalog",
-      "quality": "HD",
-      "addedAt": "2026-04-09T00:00:00.000Z",
-      "addedBy": "Admin"
-    },
-    {
-      "id": "series_teentitans",
-      "type": "series",
-      "title": "Los Jóvenes Titanes",
-      "description": "Las aventuras de Robin, Cyborg, Starfire, Raven y Beast Boy.",
-      "rating": "TV-Y7",
-      "year": 2003,
-      "releaseDate": "2003-07-19",
-      "genres": [
-        "Action",
-        "Animation",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "Spanish"
-      ],
-      "episodes": [
-        {
-          "id": "ep_001",
-          "title": "TeenTitans_S01E01",
-          "slotId": "ep_326",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E01.mkv"
-          }
-        },
-        {
-          "id": "ep_002",
-          "title": "TeenTitans_S01E02",
-          "slotId": "ep_327",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E02.mkv"
-          }
-        },
-        {
-          "id": "ep_003",
-          "title": "TeenTitans_S01E03",
-          "slotId": "ep_328",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E03.mkv"
-          }
-        },
-        {
-          "id": "ep_004",
-          "title": "TeenTitans_S01E04",
-          "slotId": "ep_329",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E04.mkv"
-          }
-        },
-        {
-          "id": "ep_005",
-          "title": "TeenTitans_S01E05",
-          "slotId": "ep_330",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E05.mkv"
-          }
-        },
-        {
-          "id": "ep_006",
-          "title": "TeenTitans_S01E06",
-          "slotId": "ep_331",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E06.mkv"
-          }
-        },
-        {
-          "id": "ep_007",
-          "title": "TeenTitans_S01E07",
-          "slotId": "ep_332",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E07.mkv"
-          }
-        },
-        {
-          "id": "ep_008",
-          "title": "TeenTitans_S01E08",
-          "slotId": "ep_333",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E08.mkv"
-          }
-        },
-        {
-          "id": "ep_009",
-          "title": "TeenTitans_S01E09",
-          "slotId": "ep_334",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E09.mkv"
-          }
-        },
-        {
-          "id": "ep_010",
-          "title": "TeenTitans_S01E10",
-          "slotId": "ep_335",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E10.mkv"
-          }
-        },
-        {
-          "id": "ep_011",
-          "title": "TeenTitans_S01E11",
-          "slotId": "ep_336",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E11.mkv"
-          }
-        },
-        {
-          "id": "ep_012",
-          "title": "TeenTitans_S01E12",
-          "slotId": "ep_337",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E12.mkv"
-          }
-        },
-        {
-          "id": "ep_013",
-          "title": "TeenTitans_S01E13",
-          "slotId": "ep_338",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E13.mkv"
-          }
-        },
-        {
-          "id": "ep_014",
-          "title": "TeenTitans_S02E01",
-          "slotId": "ep_339",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E01.mkv"
-          }
-        },
-        {
-          "id": "ep_015",
-          "title": "TeenTitans_S02E02",
-          "slotId": "ep_340",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E02.mkv"
-          }
-        },
-        {
-          "id": "ep_016",
-          "title": "TeenTitans_S02E03",
-          "slotId": "ep_341",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E03.mkv"
-          }
-        },
-        {
-          "id": "ep_017",
-          "title": "TeenTitans_S02E04",
-          "slotId": "ep_342",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E04.mkv"
-          }
-        },
-        {
-          "id": "ep_018",
-          "title": "TeenTitans_S02E05",
-          "slotId": "ep_343",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E05.mkv"
-          }
-        },
-        {
-          "id": "ep_019",
-          "title": "TeenTitans_S02E06",
-          "slotId": "ep_344",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E06.mkv"
-          }
-        },
-        {
-          "id": "ep_020",
-          "title": "TeenTitans_S02E07",
-          "slotId": "ep_345",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E07.mkv"
-          }
-        },
-        {
-          "id": "ep_021",
-          "title": "TeenTitans_S02E08",
-          "slotId": "ep_346",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E08.mkv"
-          }
-        },
-        {
-          "id": "ep_022",
-          "title": "TeenTitans_S02E09",
-          "slotId": "ep_347",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E09.mkv"
-          }
-        },
-        {
-          "id": "ep_023",
-          "title": "TeenTitans_S02E10",
-          "slotId": "ep_348",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E10.mkv"
-          }
-        },
-        {
-          "id": "ep_024",
-          "title": "TeenTitans_S02E11",
-          "slotId": "ep_349",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E11.mkv"
-          }
-        },
-        {
-          "id": "ep_025",
-          "title": "TeenTitans_S02E12",
-          "slotId": "ep_350",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E12.mkv"
-          }
-        },
-        {
-          "id": "ep_026",
-          "title": "TeenTitans_S02E13",
-          "slotId": "ep_351",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E13.mkv"
-          }
-        },
-        {
-          "id": "ep_027",
-          "title": "TeenTitans_S03E01",
-          "slotId": "ep_352",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E01.mkv"
-          }
-        },
-        {
-          "id": "ep_028",
-          "title": "TeenTitans_S03E02",
-          "slotId": "ep_353",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E02.mkv"
-          }
-        },
-        {
-          "id": "ep_029",
-          "title": "TeenTitans_S03E03",
-          "slotId": "ep_354",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E03.mkv"
-          }
-        },
-        {
-          "id": "ep_030",
-          "title": "TeenTitans_S03E04",
-          "slotId": "ep_355",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E04.mkv"
-          }
-        },
-        {
-          "id": "ep_031",
-          "title": "TeenTitans_S03E05",
-          "slotId": "ep_356",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E05.mkv"
-          }
-        },
-        {
-          "id": "ep_032",
-          "title": "TeenTitans_S03E06",
-          "slotId": "ep_357",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E06.mkv"
-          }
-        },
-        {
-          "id": "ep_033",
-          "title": "TeenTitans_S03E07",
-          "slotId": "ep_358",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E07.mkv"
-          }
-        },
-        {
-          "id": "ep_034",
-          "title": "TeenTitans_S03E08",
-          "slotId": "ep_359",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E08.mkv"
-          }
-        },
-        {
-          "id": "ep_035",
-          "title": "TeenTitans_S03E09",
-          "slotId": "ep_360",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E09.mkv"
-          }
-        },
-        {
-          "id": "ep_036",
-          "title": "TeenTitans_S03E10",
-          "slotId": "ep_361",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E10.mkv"
-          }
-        },
-        {
-          "id": "ep_037",
-          "title": "TeenTitans_S03E11",
-          "slotId": "ep_362",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E11.mkv"
-          }
-        },
-        {
-          "id": "ep_038",
-          "title": "TeenTitans_S03E12",
-          "slotId": "ep_363",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E12.mkv"
-          }
-        },
-        {
-          "id": "ep_039",
-          "title": "TeenTitans_S03E13",
-          "slotId": "ep_364",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E13.mkv"
-          }
-        },
-        {
-          "id": "ep_040",
-          "title": "TeenTitans_S04E01",
-          "slotId": "ep_365",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E01.mkv"
-          }
-        },
-        {
-          "id": "ep_041",
-          "title": "TeenTitans_S04E02",
-          "slotId": "ep_366",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E02.mkv"
-          }
-        },
-        {
-          "id": "ep_042",
-          "title": "TeenTitans_S04E03",
-          "slotId": "ep_367",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E03.mkv"
-          }
-        },
-        {
-          "id": "ep_043",
-          "title": "TeenTitans_S04E04",
-          "slotId": "ep_368",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E04.mkv"
-          }
-        },
-        {
-          "id": "ep_044",
-          "title": "TeenTitans_S04E05",
-          "slotId": "ep_369",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E05.mkv"
-          }
-        },
-        {
-          "id": "ep_045",
-          "title": "TeenTitans_S04E06",
-          "slotId": "ep_370",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E06.mkv"
-          }
-        },
-        {
-          "id": "ep_046",
-          "title": "TeenTitans_S04E07",
-          "slotId": "ep_371",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E07.mkv"
-          }
-        },
-        {
-          "id": "ep_047",
-          "title": "TeenTitans_S04E08",
-          "slotId": "ep_372",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E08.mkv"
-          }
-        },
-        {
-          "id": "ep_048",
-          "title": "TeenTitans_S04E09",
-          "slotId": "ep_373",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E09.mkv"
-          }
-        },
-        {
-          "id": "ep_049",
-          "title": "TeenTitans_S04E10",
-          "slotId": "ep_374",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E10.mkv"
-          }
-        },
-        {
-          "id": "ep_050",
-          "title": "TeenTitans_S04E11",
-          "slotId": "ep_375",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E11.mkv"
-          }
-        },
-        {
-          "id": "ep_051",
-          "title": "TeenTitans_S04E12",
-          "slotId": "ep_376",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E12.mkv"
-          }
-        },
-        {
-          "id": "ep_052",
-          "title": "TeenTitans_S04E13",
-          "slotId": "ep_377",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E13.mkv"
-          }
-        },
-        {
-          "id": "ep_053",
-          "title": "TeenTitans_S05E01",
-          "slotId": "ep_378",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E01.mkv"
-          }
-        },
-        {
-          "id": "ep_054",
-          "title": "TeenTitans_S05E02",
-          "slotId": "ep_379",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E02.mkv"
-          }
-        },
-        {
-          "id": "ep_055",
-          "title": "TeenTitans_S05E03",
-          "slotId": "ep_380",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E03.mkv"
-          }
-        },
-        {
-          "id": "ep_056",
-          "title": "TeenTitans_S05E04",
-          "slotId": "ep_381",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E04.mkv"
-          }
-        },
-        {
-          "id": "ep_057",
-          "title": "TeenTitans_S05E05",
-          "slotId": "ep_382",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E05.mkv"
-          }
-        },
-        {
-          "id": "ep_058",
-          "title": "TeenTitans_S05E06",
-          "slotId": "ep_383",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E06.mkv"
-          }
-        },
-        {
-          "id": "ep_059",
-          "title": "TeenTitans_S05E07",
-          "slotId": "ep_384",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E07.mkv"
-          }
-        },
-        {
-          "id": "ep_060",
-          "title": "TeenTitans_S05E08",
-          "slotId": "ep_385",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E08.mkv"
-          }
-        },
-        {
-          "id": "ep_061",
-          "title": "TeenTitans_S05E09",
-          "slotId": "ep_386",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E09.mkv"
-          }
-        },
-        {
-          "id": "ep_062",
-          "title": "TeenTitans_S05E10",
-          "slotId": "ep_387",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E10.mkv"
-          }
-        },
-        {
-          "id": "ep_063",
-          "title": "TeenTitans_S05E11",
-          "slotId": "ep_388",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E11.mkv"
-          }
-        },
-        {
-          "id": "ep_064",
-          "title": "TeenTitans_S05E12",
-          "slotId": "ep_389",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E12.mkv"
-          }
-        },
-        {
-          "id": "ep_065",
-          "title": "TeenTitans_S05E13",
-          "slotId": "ep_390",
-          "links": {
-            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E13.mkv"
-          }
-        }
-      ],
-      "enabled": true,
-      "atlas": "A",
-      "gridIndex": 95,
-      "section": "catalog",
-      "quality": "HD",
-      "addedAt": "2026-04-09T00:00:00.000Z",
-      "addedBy": "Admin"
-    },
-    {
-      "type": "series",
-      "title": "Breaking Bad T1",
-      "description": "La historia sigue a Walter White, un profesor de química de secundaria con problemas económicos y una vida frustrada. Todo cambia cuando le diagnostican cáncer terminal.\n\nAnte esto, decide asociarse con su exalumno Jesse Pinkman para fabricar y vender metanfetamina, usando sus conocimientos de química para generar dinero y asegurar el futuro de su familia",
-      "duration": "",
-      "rating": "TV-MA",
-      "quality": "HD",
-      "section": "catalog",
-      "year": 2008,
-      "releaseDate": "2026-04-09",
-      "genres": [],
-      "languages": [
-        "Spanish"
-      ],
-      "enabled": true,
-      "episodes": [
-        {
-          "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_391",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t1/BreakingBad_S01E01.mkv"
-          }
-        },
-        {
-          "id": "s01e02",
-          "title": "Capítulo 2",
-          "slotId": "ep_392",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t1/BreakingBad_S01E02.mkv"
-          }
-        },
-        {
-          "id": "s01e03",
-          "title": "Capítulo 3",
-          "slotId": "ep_393",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t1/BreakingBad_S01E03.mkv"
-          }
-        },
-        {
-          "id": "s01e04",
-          "title": "Capítulo 4",
-          "slotId": "ep_394",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t1/BreakingBad_S01E04.mkv"
-          }
-        },
-        {
-          "id": "s01e05",
-          "title": "Capítulo 5",
-          "slotId": "ep_395",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t1/BreakingBad_S01E05.mkv"
-          }
-        },
-        {
-          "id": "s01e06",
-          "title": "Capítulo 6",
-          "slotId": "ep_396",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t1/BreakingBad_S01E06.mkv"
-          }
-        },
-        {
-          "id": "s01e07",
-          "title": "Capítulo 7",
-          "slotId": "ep_397",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t1/BreakingBad_S01E07.mkv"
-          }
-        },
-        {
-          "id": "s01e08",
-          "title": "Capítulo 8",
-          "slotId": "ep_398",
-          "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t1/BreakingBad_S01E08.mkv"
-          }
-        }
-      ],
-      "id": "series_030",
-      "addedAt": "2026-04-09T07:12:57.595Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 96
     }
   ]
 }
