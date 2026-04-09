@@ -4587,6 +4587,93 @@
           }
         }
       ]
+    },
+    {
+      "type": "series",
+      "title": "Vigilante",
+      "description": "La historia sigue a Kim Ji-yong, un estudiante ejemplar de academia policial que, en secreto, lleva una doble vida como “Vigilante”. Por las noches, castiga criminales que han recibido condenas leves y que, según él, no han pagado realmente por sus crímenes. Su accionar genera polémica y atrae la atención de la policía, los medios y poderosos aliados y enemigos, desatando una lucha moral entre justicia y venganza.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2026-04-09",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_432",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/vigilante/vigilanteS01E01.mp4"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_433",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/vigilante/vigilanteS01E02.mp4"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_434",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/vigilante/vigilanteS01E03.mp4"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_435",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/vigilante/vigilanteS01E04.mp4"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_436",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/vigilante/vigilanteS01E05.mp4"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_437",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/vigilante/vigilanteS01E06.mp4"
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_438",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/vigilante/vigilanteS01E07.mp4"
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_439",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/vigilante/vigilanteS01E08.mp4"
+          }
+        }
+      ],
+      "id": "series_030",
+      "addedAt": "2026-04-09T14:49:36.765Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 94
     }
   ]
 }
