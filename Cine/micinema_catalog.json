@@ -1889,6 +1889,30 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 93
+    },
+    {
+      "type": "movie",
+      "title": "V de Venganza",
+      "description": "En una Inglaterra futurista gobernada por un régimen totalitario, un misterioso enmascarado conocido como V lucha contra la opresión del gobierno. Utilizando tácticas revolucionarias y simbólicas, inspira a la población a rebelarse. En el camino, rescata a una joven llamada Evey Hammond, quien se convierte en su aliada y testigo de su lucha por la libertad.",
+      "duration": "",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2026-04-09",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/vDeVenganza2006.mp4"
+      },
+      "id": "movie_066",
+      "addedAt": "2026-04-09T14:58:45.909Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 95
     }
   ],
   "series": [
