@@ -368,7 +368,7 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "12312"
+        "default": "https://micinemaxr.b-cdn.net/Movie/HanSolo.mp4"
       },
       "enabled": true,
       "id": "movie_011",
@@ -565,7 +565,7 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "12asda"
+        "default": "https://micinemaxr.b-cdn.net/Movie/Jhonwick3.mp4"
       },
       "enabled": true,
       "id": "movie_018",
@@ -1096,7 +1096,7 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "adsdad"
+        "default": "https://micinemaxr.b-cdn.net/Movie/RougeOne.mp4"
       },
       "enabled": true,
       "id": "movie_037",
@@ -1123,7 +1123,7 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/Runner2049.mp4"
       },
       "enabled": true,
       "id": "movie_038",
@@ -2081,6 +2081,126 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 102
+    },
+    {
+      "type": "movie",
+      "title": "El misterio de los mamuts",
+      "description": "En un mundo olvidado por el tiempo, donde la tierra temblaba bajo el peso de gigantes ancestrales, dos colosos del hielo se enfrentan en una batalla silenciosa… una mirada que lo cambiaría TODO.\n\nMientras los cielos se oscurecen y el destino del planeta pende de un hilo, surge la pregunta que ha perseguido a la humanidad durante siglos:\n¿por qué desaparecieron los mamuts?\n\nLo que comienza como un simple enfrentamiento… pronto revela una verdad devastadora. Orgullo. Poder. Una rivalidad tan intensa que desafía a la naturaleza misma. Cada paso sacude montañas. Cada mirada es una amenaza. Y en medio de ese duelo… el mundo empieza a romperse.\n\nTormentas, fuego, hielo… todo converge en un instante decisivo que sellará el destino de una especie entera.\n\nNo fue el frío.\nNo fue el hambre.\nFue algo mucho más profundo… mucho más absurdo… y totalmente inevitable.\n\nDos mamuts. Una decisión. Una extinción.",
+      "duration": "",
+      "rating": "G",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1920,
+      "releaseDate": "2026-04-09",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/Sabenporqueseextinguieronlosmamuts.mp4"
+      },
+      "id": "movie_074",
+      "addedAt": "2026-04-09T15:53:56.275Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 103
+    },
+    {
+      "type": "movie",
+      "title": "Operacion Overlods",
+      "description": "Durante la Segunda Guerra Mundial, un grupo de paracaidistas estadounidenses es enviado a una misión crucial antes del Día D: destruir una torre de comunicaciones nazi en un pequeño pueblo ocupado. Sin embargo, al infiltrarse, descubren que los nazis están realizando experimentos secretos y aterradores que convierten la misión en una lucha por sobrevivir contra horrores más allá de la guerra.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2018,
+      "releaseDate": "2026-04-09",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/operaci%C3%B3nOverlord2018.mp4"
+      },
+      "id": "movie_075",
+      "addedAt": "2026-04-09T16:01:07.482Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 104
+    },
+    {
+      "type": "movie",
+      "title": "El violinista en el tejado CD1",
+      "description": "La historia sigue a Tevye, un lechero judío que vive en una pequeña aldea en la Rusia zarista. Apegado a sus tradiciones, intenta mantener vivas sus costumbres mientras sus hijas crecen y comienzan a cuestionar las normas, especialmente en temas de amor y matrimonio. A medida que enfrenta cambios sociales y la persecución contra su comunidad, Tevye lucha por equilibrar la tradición con el cambio.",
+      "duration": "",
+      "rating": "G",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1971,
+      "releaseDate": "2026-04-09",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/elviolinistaeneltejadocd1.avi"
+      },
+      "id": "movie_076",
+      "addedAt": "2026-04-09T16:06:18.419Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 105
+    },
+    {
+      "type": "movie",
+      "title": "El violinista en el tejado CD2",
+      "description": "La historia sigue a Tevye, un lechero judío que vive en una pequeña aldea en la Rusia zarista. Apegado a sus tradiciones, intenta mantener vivas sus costumbres mientras sus hijas crecen y comienzan a cuestionar las normas, especialmente en temas de amor y matrimonio. A medida que enfrenta cambios sociales y la persecución contra su comunidad, Tevye lucha por equilibrar la tradición con el cambio.",
+      "duration": "",
+      "rating": "G",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1971,
+      "releaseDate": "2026-04-09",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/elviolinistaeneltejadocd2.avi"
+      },
+      "id": "movie_077",
+      "addedAt": "2026-04-09T16:07:13.239Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 106
+    },
+    {
+      "type": "movie",
+      "title": "Nadie",
+      "description": "La historia sigue a Hutch Mansell, un hombre aparentemente común y aburrido que lleva una vida rutinaria. Sin embargo, después de un robo en su casa, despierta un lado oculto de su pasado: resulta ser un exasesino altamente entrenado. Esto lo arrastra a un violento enfrentamiento con la mafia rusa, revelando que no es “nadie” como todos creían.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2026-04-09",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/nadie2021.mp4"
+      },
+      "id": "movie_078",
+      "addedAt": "2026-04-09T17:19:48.056Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 107
     }
   ],
   "series": [
