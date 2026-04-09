@@ -1937,6 +1937,30 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 96
+    },
+    {
+      "type": "movie",
+      "title": "Good Boy",
+      "description": "La historia sigue a Sigrid, una joven que conoce a un hombre rico llamado Christian a través de una app de citas. Todo parece perfecto… hasta que descubre que él vive con un hombre que se comporta literalmente como su mascota: camina en cuatro patas, come en el suelo y obedece órdenes. Lo que al inicio parece una extraña excentricidad se vuelve cada vez más perturbador, revelando una relación oscura y peligrosa.",
+      "duration": "",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2022,
+      "releaseDate": "2026-04-09",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/goodBoy2022.mp4"
+      },
+      "id": "movie_068",
+      "addedAt": "2026-04-09T15:18:50.134Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 97
     }
   ],
   "series": [
