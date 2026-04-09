@@ -678,93 +678,9 @@
     "targetId": "movie_065"
   },
   {
-    "timestamp": "2026-04-09T04:57:05.901Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_003"
-  },
-  {
-    "timestamp": "2026-04-09T05:00:04.488Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_004"
-  },
-  {
-    "timestamp": "2026-04-09T05:02:09.515Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_005"
-  },
-  {
-    "timestamp": "2026-04-09T05:03:45.358Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_006"
-  },
-  {
-    "timestamp": "2026-04-09T05:05:14.318Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_007"
-  },
-  {
-    "timestamp": "2026-04-09T05:07:01.100Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_008"
-  },
-  {
-    "timestamp": "2026-04-09T05:08:36.892Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_009"
-  },
-  {
-    "timestamp": "2026-04-09T05:09:50.446Z",
+    "timestamp": "2026-04-09T14:33:21.045Z",
     "user": "Admin",
     "action": "EDIT",
     "targetId": "series_029"
-  },
-  {
-    "timestamp": "2026-04-09T05:10:48.670Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_028"
-  },
-  {
-    "timestamp": "2026-04-09T05:12:36.927Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_025"
-  },
-  {
-    "timestamp": "2026-04-09T05:14:38.650Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_026"
-  },
-  {
-    "timestamp": "2026-04-09T05:15:58.344Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_027"
-  },
-  {
-    "timestamp": "2026-04-09T05:50:56.664Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_029"
-  },
-  {
-    "timestamp": "2026-04-09T05:58:43.682Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_029"
-  },
-  {
-    "timestamp": "2026-04-09T07:12:58.410Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_030"
   }
 ]
