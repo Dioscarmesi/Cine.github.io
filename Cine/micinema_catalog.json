@@ -1919,7 +1919,7 @@
       "title": "Hijos del los hombres",
       "description": "En un futuro distópico donde la humanidad ha perdido la capacidad de reproducirse, el mundo vive en caos y desesperación. Theo Faron, un exactivista desilusionado, recibe la misión de proteger a una joven llamada Kee, quien milagrosamente está embarazada. Juntos emprenden un peligroso viaje para llevarla a un lugar seguro, mientras son perseguidos por el gobierno y grupos rebeldes.",
       "duration": "",
-      "rating": "PG-13",
+      "rating": "R",
       "quality": "LQ",
       "section": "catalog",
       "year": 2006,
@@ -2057,6 +2057,30 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 101
+    },
+    {
+      "type": "movie",
+      "title": "El resplandor",
+      "description": "La historia sigue a Jack Torrance, un escritor que acepta trabajar como cuidador de invierno en el aislado hotel Overlook junto a su esposa y su hijo, Danny Torrance, quien posee habilidades psíquicas conocidas como “el resplandor”. A medida que el invierno avanza, la soledad y la influencia sobrenatural del hotel comienzan a afectar la mente de Jack, llevándolo hacia la locura y poniendo en peligro a su familia.",
+      "duration": "",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1980,
+      "releaseDate": "2026-04-09",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/elResplandor1980.mp4"
+      },
+      "id": "movie_073",
+      "addedAt": "2026-04-09T15:44:36.504Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 102
     }
   ],
   "series": [
