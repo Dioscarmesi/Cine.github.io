@@ -5625,6 +5625,552 @@
       "quality": "HD",
       "addedAt": "2026-04-09T00:00:00.000Z",
       "addedBy": "Admin"
+    },
+    {
+      "id": "series_teentitans",
+      "type": "series",
+      "title": "Los Jóvenes Titanes",
+      "description": "Las aventuras de Robin, Cyborg, Starfire, Raven y Beast Boy.",
+      "rating": "TV-Y7",
+      "year": 2003,
+      "releaseDate": "2003-07-19",
+      "genres": [
+        "Action",
+        "Animation",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "episodes": [
+        {
+          "id": "ep_001",
+          "title": "TeenTitans_S01E01",
+          "slotId": "ep_001",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E01.mkv"
+          }
+        },
+        {
+          "id": "ep_002",
+          "title": "TeenTitans_S01E02",
+          "slotId": "ep_002",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E02.mkv"
+          }
+        },
+        {
+          "id": "ep_003",
+          "title": "TeenTitans_S01E03",
+          "slotId": "ep_003",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E03.mkv"
+          }
+        },
+        {
+          "id": "ep_004",
+          "title": "TeenTitans_S01E04",
+          "slotId": "ep_004",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E04.mkv"
+          }
+        },
+        {
+          "id": "ep_005",
+          "title": "TeenTitans_S01E05",
+          "slotId": "ep_005",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E05.mkv"
+          }
+        },
+        {
+          "id": "ep_006",
+          "title": "TeenTitans_S01E06",
+          "slotId": "ep_006",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E06.mkv"
+          }
+        },
+        {
+          "id": "ep_007",
+          "title": "TeenTitans_S01E07",
+          "slotId": "ep_007",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E07.mkv"
+          }
+        },
+        {
+          "id": "ep_008",
+          "title": "TeenTitans_S01E08",
+          "slotId": "ep_008",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E08.mkv"
+          }
+        },
+        {
+          "id": "ep_009",
+          "title": "TeenTitans_S01E09",
+          "slotId": "ep_009",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E09.mkv"
+          }
+        },
+        {
+          "id": "ep_010",
+          "title": "TeenTitans_S01E10",
+          "slotId": "ep_010",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E10.mkv"
+          }
+        },
+        {
+          "id": "ep_011",
+          "title": "TeenTitans_S01E11",
+          "slotId": "ep_011",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E11.mkv"
+          }
+        },
+        {
+          "id": "ep_012",
+          "title": "TeenTitans_S01E12",
+          "slotId": "ep_012",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E12.mkv"
+          }
+        },
+        {
+          "id": "ep_013",
+          "title": "TeenTitans_S01E13",
+          "slotId": "ep_013",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t1/TeenTitans_S01E13.mkv"
+          }
+        },
+        {
+          "id": "ep_014",
+          "title": "TeenTitans_S02E01",
+          "slotId": "ep_014",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E01.mkv"
+          }
+        },
+        {
+          "id": "ep_015",
+          "title": "TeenTitans_S02E02",
+          "slotId": "ep_015",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E02.mkv"
+          }
+        },
+        {
+          "id": "ep_016",
+          "title": "TeenTitans_S02E03",
+          "slotId": "ep_016",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E03.mkv"
+          }
+        },
+        {
+          "id": "ep_017",
+          "title": "TeenTitans_S02E04",
+          "slotId": "ep_017",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E04.mkv"
+          }
+        },
+        {
+          "id": "ep_018",
+          "title": "TeenTitans_S02E05",
+          "slotId": "ep_018",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E05.mkv"
+          }
+        },
+        {
+          "id": "ep_019",
+          "title": "TeenTitans_S02E06",
+          "slotId": "ep_019",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E06.mkv"
+          }
+        },
+        {
+          "id": "ep_020",
+          "title": "TeenTitans_S02E07",
+          "slotId": "ep_020",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E07.mkv"
+          }
+        },
+        {
+          "id": "ep_021",
+          "title": "TeenTitans_S02E08",
+          "slotId": "ep_021",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E08.mkv"
+          }
+        },
+        {
+          "id": "ep_022",
+          "title": "TeenTitans_S02E09",
+          "slotId": "ep_022",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E09.mkv"
+          }
+        },
+        {
+          "id": "ep_023",
+          "title": "TeenTitans_S02E10",
+          "slotId": "ep_023",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E10.mkv"
+          }
+        },
+        {
+          "id": "ep_024",
+          "title": "TeenTitans_S02E11",
+          "slotId": "ep_024",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E11.mkv"
+          }
+        },
+        {
+          "id": "ep_025",
+          "title": "TeenTitans_S02E12",
+          "slotId": "ep_025",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E12.mkv"
+          }
+        },
+        {
+          "id": "ep_026",
+          "title": "TeenTitans_S02E13",
+          "slotId": "ep_026",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t2/TeenTitans_S02E13.mkv"
+          }
+        },
+        {
+          "id": "ep_027",
+          "title": "TeenTitans_S03E01",
+          "slotId": "ep_027",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E01.mkv"
+          }
+        },
+        {
+          "id": "ep_028",
+          "title": "TeenTitans_S03E02",
+          "slotId": "ep_028",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E02.mkv"
+          }
+        },
+        {
+          "id": "ep_029",
+          "title": "TeenTitans_S03E03",
+          "slotId": "ep_029",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E03.mkv"
+          }
+        },
+        {
+          "id": "ep_030",
+          "title": "TeenTitans_S03E04",
+          "slotId": "ep_030",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E04.mkv"
+          }
+        },
+        {
+          "id": "ep_031",
+          "title": "TeenTitans_S03E05",
+          "slotId": "ep_031",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E05.mkv"
+          }
+        },
+        {
+          "id": "ep_032",
+          "title": "TeenTitans_S03E06",
+          "slotId": "ep_032",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E06.mkv"
+          }
+        },
+        {
+          "id": "ep_033",
+          "title": "TeenTitans_S03E07",
+          "slotId": "ep_033",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E07.mkv"
+          }
+        },
+        {
+          "id": "ep_034",
+          "title": "TeenTitans_S03E08",
+          "slotId": "ep_034",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E08.mkv"
+          }
+        },
+        {
+          "id": "ep_035",
+          "title": "TeenTitans_S03E09",
+          "slotId": "ep_035",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E09.mkv"
+          }
+        },
+        {
+          "id": "ep_036",
+          "title": "TeenTitans_S03E10",
+          "slotId": "ep_036",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E10.mkv"
+          }
+        },
+        {
+          "id": "ep_037",
+          "title": "TeenTitans_S03E11",
+          "slotId": "ep_037",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E11.mkv"
+          }
+        },
+        {
+          "id": "ep_038",
+          "title": "TeenTitans_S03E12",
+          "slotId": "ep_038",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E12.mkv"
+          }
+        },
+        {
+          "id": "ep_039",
+          "title": "TeenTitans_S03E13",
+          "slotId": "ep_039",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t3/TeenTitans_S03E13.mkv"
+          }
+        },
+        {
+          "id": "ep_040",
+          "title": "TeenTitans_S04E01",
+          "slotId": "ep_040",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E01.mkv"
+          }
+        },
+        {
+          "id": "ep_041",
+          "title": "TeenTitans_S04E02",
+          "slotId": "ep_041",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E02.mkv"
+          }
+        },
+        {
+          "id": "ep_042",
+          "title": "TeenTitans_S04E03",
+          "slotId": "ep_042",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E03.mkv"
+          }
+        },
+        {
+          "id": "ep_043",
+          "title": "TeenTitans_S04E04",
+          "slotId": "ep_043",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E04.mkv"
+          }
+        },
+        {
+          "id": "ep_044",
+          "title": "TeenTitans_S04E05",
+          "slotId": "ep_044",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E05.mkv"
+          }
+        },
+        {
+          "id": "ep_045",
+          "title": "TeenTitans_S04E06",
+          "slotId": "ep_045",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E06.mkv"
+          }
+        },
+        {
+          "id": "ep_046",
+          "title": "TeenTitans_S04E07",
+          "slotId": "ep_046",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E07.mkv"
+          }
+        },
+        {
+          "id": "ep_047",
+          "title": "TeenTitans_S04E08",
+          "slotId": "ep_047",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E08.mkv"
+          }
+        },
+        {
+          "id": "ep_048",
+          "title": "TeenTitans_S04E09",
+          "slotId": "ep_048",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E09.mkv"
+          }
+        },
+        {
+          "id": "ep_049",
+          "title": "TeenTitans_S04E10",
+          "slotId": "ep_049",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E10.mkv"
+          }
+        },
+        {
+          "id": "ep_050",
+          "title": "TeenTitans_S04E11",
+          "slotId": "ep_050",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E11.mkv"
+          }
+        },
+        {
+          "id": "ep_051",
+          "title": "TeenTitans_S04E12",
+          "slotId": "ep_051",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E12.mkv"
+          }
+        },
+        {
+          "id": "ep_052",
+          "title": "TeenTitans_S04E13",
+          "slotId": "ep_052",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t4/TeenTitans_S04E13.mkv"
+          }
+        },
+        {
+          "id": "ep_053",
+          "title": "TeenTitans_S05E01",
+          "slotId": "ep_053",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E01.mkv"
+          }
+        },
+        {
+          "id": "ep_054",
+          "title": "TeenTitans_S05E02",
+          "slotId": "ep_054",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E02.mkv"
+          }
+        },
+        {
+          "id": "ep_055",
+          "title": "TeenTitans_S05E03",
+          "slotId": "ep_055",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E03.mkv"
+          }
+        },
+        {
+          "id": "ep_056",
+          "title": "TeenTitans_S05E04",
+          "slotId": "ep_056",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E04.mkv"
+          }
+        },
+        {
+          "id": "ep_057",
+          "title": "TeenTitans_S05E05",
+          "slotId": "ep_057",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E05.mkv"
+          }
+        },
+        {
+          "id": "ep_058",
+          "title": "TeenTitans_S05E06",
+          "slotId": "ep_058",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E06.mkv"
+          }
+        },
+        {
+          "id": "ep_059",
+          "title": "TeenTitans_S05E07",
+          "slotId": "ep_059",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E07.mkv"
+          }
+        },
+        {
+          "id": "ep_060",
+          "title": "TeenTitans_S05E08",
+          "slotId": "ep_060",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E08.mkv"
+          }
+        },
+        {
+          "id": "ep_061",
+          "title": "TeenTitans_S05E09",
+          "slotId": "ep_061",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E09.mkv"
+          }
+        },
+        {
+          "id": "ep_062",
+          "title": "TeenTitans_S05E10",
+          "slotId": "ep_062",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E10.mkv"
+          }
+        },
+        {
+          "id": "ep_063",
+          "title": "TeenTitans_S05E11",
+          "slotId": "ep_063",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E11.mkv"
+          }
+        },
+        {
+          "id": "ep_064",
+          "title": "TeenTitans_S05E12",
+          "slotId": "ep_064",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E12.mkv"
+          }
+        },
+        {
+          "id": "ep_065",
+          "title": "TeenTitans_S05E13",
+          "slotId": "ep_065",
+          "links": {
+            "Spanish": "https://micinemaxr.b-cdn.net/Series/TeenTitans/t5/TeenTitans_S05E13.mkv"
+          }
+        }
+      ],
+      "enabled": true,
+      "atlas": "A",
+      "gridIndex": 129,
+      "section": "catalog",
+      "quality": "HD",
+      "addedAt": "2026-04-09T00:00:00.000Z",
+      "addedBy": "Admin"
     }
   ]
 }
