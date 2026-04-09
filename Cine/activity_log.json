@@ -754,5 +754,71 @@
     "user": "Admin",
     "action": "EDIT",
     "targetId": "movie_067"
+  },
+  {
+    "timestamp": "2026-04-09T15:53:57.139Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_074"
+  },
+  {
+    "timestamp": "2026-04-09T16:01:08.316Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_075"
+  },
+  {
+    "timestamp": "2026-04-09T16:06:19.230Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_076"
+  },
+  {
+    "timestamp": "2026-04-09T16:07:14.014Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_077"
+  },
+  {
+    "timestamp": "2026-04-09T16:07:21.896Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_076"
+  },
+  {
+    "timestamp": "2026-04-09T16:07:33.393Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_074"
+  },
+  {
+    "timestamp": "2026-04-09T17:10:59.852Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_011"
+  },
+  {
+    "timestamp": "2026-04-09T17:12:02.233Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_018"
+  },
+  {
+    "timestamp": "2026-04-09T17:15:15.441Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_037"
+  },
+  {
+    "timestamp": "2026-04-09T17:15:51.006Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_038"
+  },
+  {
+    "timestamp": "2026-04-09T17:19:48.865Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_078"
   }
 ]
