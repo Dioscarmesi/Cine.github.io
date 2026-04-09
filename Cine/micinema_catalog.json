@@ -1961,6 +1961,102 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 97
+    },
+    {
+      "type": "movie",
+      "title": "El planeta de los simios: (R)evolución",
+      "description": "La historia sigue a Will Rodman, un científico que desarrolla una cura experimental para el Alzheimer. Al probarla en simios, uno de ellos, César, adquiere una inteligencia extraordinaria. A medida que César crece y toma conciencia de la opresión de su especie, lidera una rebelión que marcará el inicio de un nuevo orden donde humanos y simios entran en conflicto.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2011,
+      "releaseDate": "2026-04-09",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/ElPlanetaDeLosSimiosREvoluci%C3%B3n2011.mp4"
+      },
+      "id": "movie_069",
+      "addedAt": "2026-04-09T15:26:00.732Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 98
+    },
+    {
+      "type": "movie",
+      "title": "El planeta de los simios: Confrontación",
+      "description": "Años después del colapso de la civilización humana por un virus, los simios liderados por César han construido una sociedad en el bosque. Cuando un grupo de humanos sobrevivientes entra en su territorio buscando recursos, surge una frágil alianza que pronto se rompe por la desconfianza y la traición. Esto desencadena un conflicto inevitable que decidirá qué especie dominará la Tierra",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2014,
+      "releaseDate": "2026-04-09",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/ElPlanetaDeLosSimiosConfrontaci%C3%B3n2014.mp4"
+      },
+      "id": "movie_070",
+      "addedAt": "2026-04-09T15:29:48.655Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 99
+    },
+    {
+      "type": "movie",
+      "title": "El planeta de los simios: La guerra",
+      "description": "Tras los eventos anteriores, el conflicto entre humanos y simios alcanza su punto más crítico. César enfrenta pérdidas devastadoras y decide emprender un camino de venganza contra un implacable líder humano conocido como el Coronel. En su viaje, César lucha no solo contra sus enemigos, sino también contra su propia oscuridad, en una batalla que definirá el destino de ambas especie",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2026-04-09",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/ElPlanetaDeLosSimios3LaGuerra2017.mp4"
+      },
+      "id": "movie_071",
+      "addedAt": "2026-04-09T15:33:36.731Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 100
+    },
+    {
+      "type": "movie",
+      "title": "El planeta de los simios: Nuevo reino",
+      "description": "La historia se sitúa varias generaciones después del reinado de César. Los simios ahora son la especie dominante y los humanos han quedado reducidos a un estado primitivo. Un joven simio llamado Noa emprende un viaje cuando su aldea es destruida por un líder tiránico que busca construir su propio imperio. En su camino, cuestionará todo lo que sabe sobre el pasado y tomará decisiones que definirán el futuro tanto de simios como de humanos",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2024,
+      "releaseDate": "2026-04-09",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/ElPlanetaDeLosSimiosNuevoReino2024.mp4"
+      },
+      "id": "movie_072",
+      "addedAt": "2026-04-09T15:37:18.974Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 101
     }
   ],
   "series": [
