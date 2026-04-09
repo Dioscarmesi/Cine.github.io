@@ -1913,6 +1913,30 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 95
+    },
+    {
+      "type": "movie",
+      "title": "Hijos del los hombres",
+      "description": "En un futuro distópico donde la humanidad ha perdido la capacidad de reproducirse, el mundo vive en caos y desesperación. Theo Faron, un exactivista desilusionado, recibe la misión de proteger a una joven llamada Kee, quien milagrosamente está embarazada. Juntos emprenden un peligroso viaje para llevarla a un lugar seguro, mientras son perseguidos por el gobierno y grupos rebeldes.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2006,
+      "releaseDate": "2026-04-09",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/ni%C3%B1osDelHombre2006.mp4"
+      },
+      "id": "movie_067",
+      "addedAt": "2026-04-09T15:09:31.294Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 96
     }
   ],
   "series": [
