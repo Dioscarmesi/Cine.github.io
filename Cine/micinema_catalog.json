@@ -9457,6 +9457,189 @@
       "id": "series_051",
       "atlas": "A",
       "gridIndex": 127
+    },
+    {
+      "type": "series",
+      "title": "The Rookie",
+      "description": "La serie sigue a John Nolan, un hombre de mediana edad que, tras un evento que cambia su vida, decide cumplir su sueño de convertirse en policía en Los Ángeles. Como el novato más viejo del departamento, debe demostrar que tiene lo necesario para adaptarse a un trabajo peligroso mientras enfrenta desafíos personales y profesionales en cada caso.",
+      "duration": "",
+      "rating": "TV-14",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2018,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_868",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E01.mp4"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_869",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E02.mp4"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_870",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E03.mp4"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_871",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E04.mp4"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_872",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E05.mp4"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_873",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E06.mp4"
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_874",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E07.mp4"
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_875",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E08.mp4"
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_876",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E09.mp4"
+          }
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_877",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E10.mp4"
+          }
+        },
+        {
+          "id": "s01e11",
+          "title": "Capítulo 11",
+          "slotId": "ep_878",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E11.mp4"
+          }
+        },
+        {
+          "id": "s01e12",
+          "title": "Capítulo 12",
+          "slotId": "ep_879",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E12.mp4"
+          }
+        },
+        {
+          "id": "s01e13",
+          "title": "Capítulo 13",
+          "slotId": "ep_880",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E13.mp4"
+          }
+        },
+        {
+          "id": "s01e14",
+          "title": "Capítulo 14",
+          "slotId": "ep_881",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E14.mp4"
+          }
+        },
+        {
+          "id": "s01e15",
+          "title": "Capítulo 15",
+          "slotId": "ep_882",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E15.mp4"
+          }
+        },
+        {
+          "id": "s01e16",
+          "title": "Capítulo 16",
+          "slotId": "ep_883",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E16.mp4"
+          }
+        },
+        {
+          "id": "s01e17",
+          "title": "Capítulo 17",
+          "slotId": "ep_884",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E17.mp4"
+          }
+        },
+        {
+          "id": "s01e18",
+          "title": "Capítulo 18",
+          "slotId": "ep_885",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E18.mp4"
+          }
+        },
+        {
+          "id": "s01e19",
+          "title": "Capítulo 19",
+          "slotId": "ep_886",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E19.mp4"
+          }
+        },
+        {
+          "id": "s01e20",
+          "title": "Capítulo 20",
+          "slotId": "ep_887",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/The%20Rookie/tem%201/theRookie2018S01E20.mp4"
+          }
+        }
+      ],
+      "id": "series_052",
+      "addedAt": "2026-04-10T19:15:21.474Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 2
     }
   ]
 }
