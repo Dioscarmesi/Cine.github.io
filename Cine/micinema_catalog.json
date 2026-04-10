@@ -4986,6 +4986,626 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 94
+    },
+    {
+      "type": "series",
+      "title": "Breaking Bad T1",
+      "description": "La serie sigue a Walter White, un profesor de química que, tras ser diagnosticado con cáncer terminal, decide fabricar metanfetamina junto a su exalumno Jesse Pinkman para asegurar el futuro económico de su familia.\n\nCon el tiempo, pasa de ser un hombre común a convertirse en un peligroso criminal.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "None",
+      "section": "catalog",
+      "year": 2008,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_440",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_031",
+      "addedAt": "2026-04-10T02:51:53.420Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 108
+    },
+    {
+      "type": "series",
+      "title": "Breaking Bad T2",
+      "description": "Walter y Jesse expanden su negocio, pero el impacto emocional empieza a acumularse. La relación entre ambos se vuelve más compleja: Walter manipula a Jesse, mientras Jesse sufre culpa y trauma.\n\nLa temporada introduce a Saul Goodman (abogado criminal) y profundiza en el mundo del narcotráfico. También aparecen múltiples tramas paralelas que muestran cómo las decisiones de Walter afectan indirectamente a otros.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2009,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_441",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_032",
+      "addedAt": "2026-04-10T02:53:19.223Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 109
+    },
+    {
+      "type": "series",
+      "title": "Breaking Bad T3",
+      "description": "Walter entra en el negocio a gran escala al trabajar para Gustavo Fring, un narcotraficante extremadamente metódico. Ahora la producción es industrial y altamente organizada.\n\nJesse, por su parte, lucha con su identidad y moralidad, mientras intenta encontrar su lugar en este nuevo nivel del negocio.\n\nAl mismo tiempo, aparecen amenazas externas: los primos Salamanca, figuras violentas que buscan venganza.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "None",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_442",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_033",
+      "addedAt": "2026-04-10T02:54:07.187Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 110
+    },
+    {
+      "type": "series",
+      "title": "Breaking Bad T4",
+      "description": "La tensión entre Walter y Gus Fring llega a su punto máximo. Lo que comienza como una relación profesional se convierte en una guerra silenciosa donde ambos intentan eliminarse sin exponerse.\n\nWalter se vuelve cada vez más manipulador, incluso con Jesse, a quien utiliza estratégicamente. Jesse, mientras tanto, desarrolla una relación inesperada con Gus, generando un conflicto de lealtades.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2011,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_443",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_034",
+      "addedAt": "2026-04-10T02:55:45.859Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 111
+    },
+    {
+      "type": "series",
+      "title": "Breaking Bad T5",
+      "description": "Dividida en dos partes, esta temporada muestra el punto más alto y la caída definitiva de Walter White.\n\nParte 1:\n\nWalter construye su propio imperio de metanfetamina tras eliminar a sus enemigos. Ahora es completamente Heisenberg: confiado, dominante y sin límites morales.\n\nParte 2:\n\nTodo se desmorona. Hank descubre la verdad, lo que desencadena un conflicto directo. Jesse se convierte en víctima del sistema que ayudó a crear, y Walter pierde el control de todo: familia, dinero y poder.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2013,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_444",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_035",
+      "addedAt": "2026-04-10T02:56:35.887Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 112
+    },
+    {
+      "type": "series",
+      "title": "Hora De Aventura T1",
+      "description": "Viven en la Tierra de Ooo, un mundo postapocalíptico lleno de criaturas extrañas, magia y ruinas de una civilización antigua.",
+      "duration": "",
+      "rating": "TV-PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2010,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_445",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_036",
+      "addedAt": "2026-04-10T02:58:16.752Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 113
+    },
+    {
+      "type": "series",
+      "title": "Hora De Aventura T2",
+      "description": "Empieza a haber más cohesión narrativa. Finn comienza a mostrar inseguridades, especialmente en temas emocionales (amor, rechazo, madurez).\n\nSe profundiza en personajes como Princess Bubblegum, mostrando que no es solo una princesa típica, sino una científica con decisiones cuestionables.",
+      "duration": "",
+      "rating": "TV-PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2011,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_446",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_037",
+      "addedAt": "2026-04-10T03:00:49.702Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 114
+    },
+    {
+      "type": "series",
+      "title": "Hora De Aventura T3",
+      "description": "Aquí la serie cambia de dirección. El tono sigue siendo colorido, pero empiezan a aparecer historias con peso emocional y pasado trágico.\n\nEl personaje de Marceline the Vampire Queen gana relevancia, mostrando temas de abandono, soledad y relaciones complejas.\n\nTambién se empieza a insinuar que el mundo de Ooo es postapocalíptico.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2012,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_447",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_038",
+      "addedAt": "2026-04-10T03:01:38.558Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 115
+    },
+    {
+      "type": "series",
+      "title": "Hora De Aventura T4",
+      "description": "Se expande el lore de Ooo. La serie empieza a revelar que todo ocurre después de un evento catastrófico global.\n\nEl pasado del Ice King (Simon Petrikov) se vuelve central: pasa de ser un villano ridículo a un personaje trágico.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2012,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_448",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_039",
+      "addedAt": "2026-04-10T03:02:29.425Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 116
+    },
+    {
+      "type": "series",
+      "title": "Hora De Aventura T5",
+      "description": "Es la temporada más larga y una de las más importantes. Aquí todo se vuelve más serio: relaciones, decisiones y consecuencias.\n\nFinn enfrenta problemas reales de crecimiento: rechazo amoroso, frustración y sentido de identidad.\n\nMarceline y Bubblegum tienen una relación más profunda y compleja (historia compartida).",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2014,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_449",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_040",
+      "addedAt": "2026-04-10T03:03:08.749Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 117
+    },
+    {
+      "type": "series",
+      "title": "Hora De Aventura T6",
+      "description": "Probablemente la temporada más filosófica. Finn atraviesa una crisis de identidad: cuestiona quién es, su propósito y su lugar en el mundo.\n\nLa serie se vuelve más abstracta y simbólica. Aparecen conceptos como reencarnación, destino y sentido de la vida.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2014,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_450",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_041",
+      "addedAt": "2026-04-10T03:05:34.210Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 118
+    },
+    {
+      "type": "series",
+      "title": "Hora De Aventura T7",
+      "description": "La serie vuelve a un equilibrio entre historia y emoción. Se desarrollan arcos más definidos, especialmente en personajes secundarios.\n\nSe profundiza en la historia de Marceline y su pasado con Simon.",
+      "duration": "",
+      "rating": "TV-PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2015,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_451",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_042",
+      "addedAt": "2026-04-10T03:07:10.767Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 119
+    },
+    {
+      "type": "series",
+      "title": "Hora De Aventura T8",
+      "description": "Aquí se revelan los secretos más importantes del universo de la serie, especialmente sobre los humanos y el pasado de la Tierra.\n\nFinn descubre más sobre su origen y el destino de su especie.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_452",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_043",
+      "addedAt": "2026-04-10T03:09:09.608Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 120
+    },
+    {
+      "type": "series",
+      "title": "Hora De Aventura T9",
+      "description": "El conflicto escala a nivel mundial. Las amenazas ya no son personales, sino que afectan todo Ooo.\n\nSe preparan los eventos del final con tensiones políticas y mágicas.",
+      "duration": "",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2018,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_453",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_044",
+      "addedAt": "2026-04-10T03:10:00.726Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 121
+    },
+    {
+      "type": "series",
+      "title": "Gumball T1",
+      "description": "Introduce el mundo de Elmore y a la familia Watterson: Gumball, Darwin, Anais, Nicole y Richard.\nLos episodios son más simples y episódicos, centrados en situaciones cotidianas que escalan de forma absurda.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2011,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_454",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_045",
+      "addedAt": "2026-04-10T03:13:43.744Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 122
+    },
+    {
+      "type": "series",
+      "title": "Gumball T2",
+      "description": "La serie empieza a desarrollar mejor a sus personajes secundarios (como Penny, Carrie, Tobias, etc.) y mejora el ritmo del humor.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2013,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_455",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_046",
+      "addedAt": "2026-04-10T03:14:50.061Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 123
+    },
+    {
+      "type": "series",
+      "title": "Gumball T4",
+      "description": "Considerada por muchos como una de las mejores temporadas. Equilibra perfectamente humor absurdo con mensajes más maduros.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "None",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_456",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_047",
+      "addedAt": "2026-04-10T03:15:57.996Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 124
+    },
+    {
+      "type": "series",
+      "title": "Gumball T6",
+      "description": "Cierra la serie con una narrativa más conectada y un tono más oscuro en ciertos momentos.",
+      "duration": "",
+      "rating": "TV-PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2018,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_457",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_048",
+      "addedAt": "2026-04-10T03:17:16.179Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 125
+    },
+    {
+      "type": "series",
+      "title": "Goblin Slayer",
+      "description": "La historia sigue a un aventurero conocido solo como “Goblin Slayer”, cuya vida gira exclusivamente en exterminar goblins.\nTodo comienza cuando una joven sacerdotisa se une a un grupo novato que es brutalmente atacado por goblins, y él aparece para salvarla.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_458",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_049",
+      "addedAt": "2026-04-10T03:19:12.875Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 126
+    },
+    {
+      "type": "series",
+      "title": "INVINCIBLE T1",
+      "description": "Sigue a Mark Grayson, un adolescente normal cuyo padre es el superhéroe más poderoso del planeta: Omni-Man.\n\nCuando Mark desarrolla poderes, comienza su entrenamiento como héroe bajo el nombre “Invincible”.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_459",
+          "links": {
+            "language_Spanish": ""
+          }
+        }
+      ],
+      "id": "series_050",
+      "addedAt": "2026-04-10T03:21:11.790Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 127
     }
   ]
 }
