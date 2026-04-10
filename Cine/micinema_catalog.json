@@ -9640,6 +9640,109 @@
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 2
+    },
+    {
+      "type": "series",
+      "title": "Cyberpunk: Edgerunners",
+      "description": "La serie sigue a David Martínez, un joven que vive en Night City, una ciudad futurista dominada por la tecnología y la corrupción. Tras una tragedia personal, decide sobrevivir convirtiéndose en un “edgerunner”, un mercenario fuera de la ley. En el proceso, se adentra en un mundo peligroso de implantes cibernéticos, violencia y crimen, mientras intenta mantener su humanidad.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2022,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_888",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Cyberpunk/cyber%20punk/cyberpunkEdgerunners2022S01E01.mp4"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_889",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Cyberpunk/cyber%20punk/cyberpunkEdgerunners2022S01E02.mp4"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_890",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Cyberpunk/cyber%20punk/cyberpunkEdgerunners2022S01E03.mp4"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_891",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Cyberpunk/cyber%20punk/cyberpunkEdgerunners2022S01E04.mp4"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_892",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Cyberpunk/cyber%20punk/cyberpunkEdgerunners2022S01E05.mp4"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_893",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Cyberpunk/cyber%20punk/cyberpunkEdgerunners2022S01E06.mp4"
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_894",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Cyberpunk/cyber%20punk/cyberpunkEdgerunners2022S01E07.mp4"
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_895",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Cyberpunk/cyber%20punk/cyberpunkEdgerunners2022S01E08.mp4"
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_896",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Cyberpunk/cyber%20punk/cyberpunkEdgerunners2022S01E09.mp4"
+          }
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_897",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Cyberpunk/cyber%20punk/cyberpunkEdgerunners2022S01E10.mp4"
+          }
+        }
+      ],
+      "id": "series_053",
+      "addedAt": "2026-04-10T19:31:43.761Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 3
     }
   ]
 }
