@@ -4993,22 +4993,70 @@
       "description": "La serie sigue a Walter White, un profesor de química que, tras ser diagnosticado con cáncer terminal, decide fabricar metanfetamina junto a su exalumno Jesse Pinkman para asegurar el futuro económico de su familia.\n\nCon el tiempo, pasa de ser un hombre común a convertirse en un peligroso criminal.",
       "duration": "",
       "rating": "TV-MA",
-      "quality": "None",
+      "quality": "HD",
       "section": "catalog",
       "year": 2008,
       "releaseDate": "2026-04-10",
       "genres": [],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "episodes": [
         {
           "id": "s01e01",
-          "title": "Capítulo 1",
+          "title": "Episodio 1",
           "slotId": "ep_440",
           "links": {
-            "language_Spanish": ""
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t1/BreakingBad_S01E01.mkv"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Episodio 2",
+          "slotId": "ep_441",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t1/BreakingBad_S01E02.mkv"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Episodio 3",
+          "slotId": "ep_442",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t1/BreakingBad_S01E03.mkv"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Episodio 4",
+          "slotId": "ep_443",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t1/BreakingBad_S01E04.mkv"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Episodio 5",
+          "slotId": "ep_444",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t1/BreakingBad_S01E05.mkv"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Episodio 6",
+          "slotId": "ep_445",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t1/BreakingBad_S01E06.mkv"
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Episodio 7",
+          "slotId": "ep_446",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t1/BreakingBad_S01E07.mkv"
           }
         }
       ],
@@ -5030,16 +5078,112 @@
       "releaseDate": "2026-04-10",
       "genres": [],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "episodes": [
         {
-          "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_441",
+          "id": "s02e01",
+          "title": "Episodio 1",
+          "slotId": "ep_447",
           "links": {
-            "language_Spanish": ""
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t2/BreakingBad_S02E01.mkv"
+          }
+        },
+        {
+          "id": "s02e02",
+          "title": "Episodio 2",
+          "slotId": "ep_448",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t2/BreakingBad_S02E02.mkv"
+          }
+        },
+        {
+          "id": "s02e03",
+          "title": "Episodio 3",
+          "slotId": "ep_449",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t2/BreakingBad_S02E03.mkv"
+          }
+        },
+        {
+          "id": "s02e04",
+          "title": "Episodio 4",
+          "slotId": "ep_450",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t2/BreakingBad_S02E04.mkv"
+          }
+        },
+        {
+          "id": "s02e05",
+          "title": "Episodio 5",
+          "slotId": "ep_451",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t2/BreakingBad_S02E05.mkv"
+          }
+        },
+        {
+          "id": "s02e06",
+          "title": "Episodio 6",
+          "slotId": "ep_452",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t2/BreakingBad_S02E06.mkv"
+          }
+        },
+        {
+          "id": "s02e07",
+          "title": "Episodio 7",
+          "slotId": "ep_453",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t2/BreakingBad_S02E07.mkv"
+          }
+        },
+        {
+          "id": "s02e08",
+          "title": "Episodio 8",
+          "slotId": "ep_454",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t2/BreakingBad_S02E08.mkv"
+          }
+        },
+        {
+          "id": "s02e09",
+          "title": "Episodio 9",
+          "slotId": "ep_455",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t2/BreakingBad_S02E09.mkv"
+          }
+        },
+        {
+          "id": "s02e10",
+          "title": "Episodio 10",
+          "slotId": "ep_456",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t2/BreakingBad_S02E10.mkv"
+          }
+        },
+        {
+          "id": "s02e11",
+          "title": "Episodio 11",
+          "slotId": "ep_457",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t2/BreakingBad_S02E11.mkv"
+          }
+        },
+        {
+          "id": "s02e12",
+          "title": "Episodio 12",
+          "slotId": "ep_458",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t2/BreakingBad_S02E12.mkv"
+          }
+        },
+        {
+          "id": "s02e13",
+          "title": "Episodio 13",
+          "slotId": "ep_459",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t2/BreakingBad_S02E13.mkv"
           }
         }
       ],
@@ -5055,22 +5199,118 @@
       "description": "Walter entra en el negocio a gran escala al trabajar para Gustavo Fring, un narcotraficante extremadamente metódico. Ahora la producción es industrial y altamente organizada.\n\nJesse, por su parte, lucha con su identidad y moralidad, mientras intenta encontrar su lugar en este nuevo nivel del negocio.\n\nAl mismo tiempo, aparecen amenazas externas: los primos Salamanca, figuras violentas que buscan venganza.",
       "duration": "",
       "rating": "PG-13",
-      "quality": "None",
+      "quality": "HD",
       "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-04-10",
       "genres": [],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "episodes": [
         {
-          "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_442",
+          "id": "s03e01",
+          "title": "Episodio 1",
+          "slotId": "ep_460",
           "links": {
-            "language_Spanish": ""
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t3/BreakingBad_S03E01.mkv"
+          }
+        },
+        {
+          "id": "s03e02",
+          "title": "Episodio 2",
+          "slotId": "ep_461",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t3/BreakingBad_S03E02.mkv"
+          }
+        },
+        {
+          "id": "s03e03",
+          "title": "Episodio 3",
+          "slotId": "ep_462",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t3/BreakingBad_S03E03.mkv"
+          }
+        },
+        {
+          "id": "s03e04",
+          "title": "Episodio 4",
+          "slotId": "ep_463",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t3/BreakingBad_S03E04.mkv"
+          }
+        },
+        {
+          "id": "s03e05",
+          "title": "Episodio 5",
+          "slotId": "ep_464",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t3/BreakingBad_S03E05.mkv"
+          }
+        },
+        {
+          "id": "s03e06",
+          "title": "Episodio 6",
+          "slotId": "ep_465",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t3/BreakingBad_S03E06.mkv"
+          }
+        },
+        {
+          "id": "s03e07",
+          "title": "Episodio 7",
+          "slotId": "ep_466",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t3/BreakingBad_S03E07.mkv"
+          }
+        },
+        {
+          "id": "s03e08",
+          "title": "Episodio 8",
+          "slotId": "ep_467",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t3/BreakingBad_S03E08.mkv"
+          }
+        },
+        {
+          "id": "s03e09",
+          "title": "Episodio 9",
+          "slotId": "ep_468",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t3/BreakingBad_S03E09.mkv"
+          }
+        },
+        {
+          "id": "s03e10",
+          "title": "Episodio 10",
+          "slotId": "ep_469",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t3/BreakingBad_S03E10.mkv"
+          }
+        },
+        {
+          "id": "s03e11",
+          "title": "Episodio 11",
+          "slotId": "ep_470",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t3/BreakingBad_S03E11.mkv"
+          }
+        },
+        {
+          "id": "s03e12",
+          "title": "Episodio 12",
+          "slotId": "ep_471",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t3/BreakingBad_S03E12.mkv"
+          }
+        },
+        {
+          "id": "s03e13",
+          "title": "Episodio 13",
+          "slotId": "ep_472",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t3/BreakingBad_S03E13.mkv"
           }
         }
       ],
@@ -5092,16 +5332,112 @@
       "releaseDate": "2026-04-10",
       "genres": [],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "episodes": [
         {
-          "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_443",
+          "id": "s04e01",
+          "title": "Episodio 1",
+          "slotId": "ep_473",
           "links": {
-            "language_Spanish": ""
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t4/BreakingBad_S04E01.mkv"
+          }
+        },
+        {
+          "id": "s04e02",
+          "title": "Episodio 2",
+          "slotId": "ep_474",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t4/BreakingBad_S04E02.mkv"
+          }
+        },
+        {
+          "id": "s04e03",
+          "title": "Episodio 3",
+          "slotId": "ep_475",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t4/BreakingBad_S04E03.mkv"
+          }
+        },
+        {
+          "id": "s04e04",
+          "title": "Episodio 4",
+          "slotId": "ep_476",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t4/BreakingBad_S04E04.mkv"
+          }
+        },
+        {
+          "id": "s04e05",
+          "title": "Episodio 5",
+          "slotId": "ep_477",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t4/BreakingBad_S04E05.mkv"
+          }
+        },
+        {
+          "id": "s04e06",
+          "title": "Episodio 6",
+          "slotId": "ep_478",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t4/BreakingBad_S04E06.mkv"
+          }
+        },
+        {
+          "id": "s04e07",
+          "title": "Episodio 7",
+          "slotId": "ep_479",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t4/BreakingBad_S04E07.mkv"
+          }
+        },
+        {
+          "id": "s04e08",
+          "title": "Episodio 8",
+          "slotId": "ep_480",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t4/BreakingBad_S04E08.mkv"
+          }
+        },
+        {
+          "id": "s04e09",
+          "title": "Episodio 9",
+          "slotId": "ep_481",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t4/BreakingBad_S04E09.mkv"
+          }
+        },
+        {
+          "id": "s04e10",
+          "title": "Episodio 10",
+          "slotId": "ep_482",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t4/BreakingBad_S04E10.mkv"
+          }
+        },
+        {
+          "id": "s04e11",
+          "title": "Episodio 11",
+          "slotId": "ep_483",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t4/BreakingBad_S04E11.mkv"
+          }
+        },
+        {
+          "id": "s04e12",
+          "title": "Episodio 12",
+          "slotId": "ep_484",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t4/BreakingBad_S04E12.mkv"
+          }
+        },
+        {
+          "id": "s04e13",
+          "title": "Episodio 13",
+          "slotId": "ep_485",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t4/BreakingBad_S04E13.mkv"
           }
         }
       ],
@@ -5123,16 +5459,136 @@
       "releaseDate": "2026-04-10",
       "genres": [],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "episodes": [
         {
-          "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_444",
+          "id": "s05e01",
+          "title": "Episodio 1",
+          "slotId": "ep_486",
           "links": {
-            "language_Spanish": ""
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t5/BreakingBad_S05E01.mkv"
+          }
+        },
+        {
+          "id": "s05e02",
+          "title": "Episodio 2",
+          "slotId": "ep_487",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t5/BreakingBad_S05E02.mkv"
+          }
+        },
+        {
+          "id": "s05e03",
+          "title": "Episodio 3",
+          "slotId": "ep_488",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t5/BreakingBad_S05E03.mkv"
+          }
+        },
+        {
+          "id": "s05e04",
+          "title": "Episodio 4",
+          "slotId": "ep_489",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t5/BreakingBad_S05E04.mkv"
+          }
+        },
+        {
+          "id": "s05e05",
+          "title": "Episodio 5",
+          "slotId": "ep_490",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t5/BreakingBad_S05E05.mkv"
+          }
+        },
+        {
+          "id": "s05e06",
+          "title": "Episodio 6",
+          "slotId": "ep_491",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t5/BreakingBad_S05E06.mkv"
+          }
+        },
+        {
+          "id": "s05e07",
+          "title": "Episodio 7",
+          "slotId": "ep_492",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t5/BreakingBad_S05E07.mkv"
+          }
+        },
+        {
+          "id": "s05e08",
+          "title": "Episodio 8",
+          "slotId": "ep_493",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t5/BreakingBad_S05E08.mkv"
+          }
+        },
+        {
+          "id": "s05e09",
+          "title": "Episodio 9",
+          "slotId": "ep_494",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t5/BreakingBad_S05E09.mkv"
+          }
+        },
+        {
+          "id": "s05e10",
+          "title": "Episodio 10",
+          "slotId": "ep_495",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t5/BreakingBad_S05E10.mkv"
+          }
+        },
+        {
+          "id": "s05e11",
+          "title": "Episodio 11",
+          "slotId": "ep_496",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t5/BreakingBad_S05E11.mkv"
+          }
+        },
+        {
+          "id": "s05e12",
+          "title": "Episodio 12",
+          "slotId": "ep_497",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t5/BreakingBad_S05E12.mkv"
+          }
+        },
+        {
+          "id": "s05e13",
+          "title": "Episodio 13",
+          "slotId": "ep_498",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t5/BreakingBad_S05E13.mkv"
+          }
+        },
+        {
+          "id": "s05e14",
+          "title": "Episodio 14",
+          "slotId": "ep_499",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t5/BreakingBad_S05E14.mkv"
+          }
+        },
+        {
+          "id": "s05e15",
+          "title": "Episodio 15",
+          "slotId": "ep_500",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t5/BreakingBad_S05E15.mkv"
+          }
+        },
+        {
+          "id": "s05e16",
+          "title": "Episodio 16",
+          "slotId": "ep_501",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/BreakingBad/t5/BreakingBad_S05E16.mkv"
           }
         }
       ],
@@ -5433,16 +5889,336 @@
       "releaseDate": "2026-04-10",
       "genres": [],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "episodes": [
         {
           "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_454",
+          "title": "Episodio 1",
+          "slotId": "ep_502",
           "links": {
-            "language_Spanish": ""
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E01.mkv"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Episodio 2",
+          "slotId": "ep_503",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E02.mp4"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Episodio 3",
+          "slotId": "ep_504",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E03.mp4"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Episodio 4",
+          "slotId": "ep_505",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E04.mp4"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Episodio 5",
+          "slotId": "ep_506",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E05.mp4"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Episodio 6",
+          "slotId": "ep_507",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E06.mp4"
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Episodio 7",
+          "slotId": "ep_508",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E07.mp4"
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Episodio 8",
+          "slotId": "ep_509",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E08.mp4"
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Episodio 9",
+          "slotId": "ep_510",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E09.mp4"
+          }
+        },
+        {
+          "id": "s01e10",
+          "title": "Episodio 10",
+          "slotId": "ep_511",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E10.mp4"
+          }
+        },
+        {
+          "id": "s01e11",
+          "title": "Episodio 11",
+          "slotId": "ep_512",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E11.mp4"
+          }
+        },
+        {
+          "id": "s01e12",
+          "title": "Episodio 12",
+          "slotId": "ep_513",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E12.mp4"
+          }
+        },
+        {
+          "id": "s01e13",
+          "title": "Episodio 13",
+          "slotId": "ep_514",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E13.mp4"
+          }
+        },
+        {
+          "id": "s01e14",
+          "title": "Episodio 14",
+          "slotId": "ep_515",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E14.mp4"
+          }
+        },
+        {
+          "id": "s01e15",
+          "title": "Episodio 15",
+          "slotId": "ep_516",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E15.mp4"
+          }
+        },
+        {
+          "id": "s01e16",
+          "title": "Episodio 16",
+          "slotId": "ep_517",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E16.mp4"
+          }
+        },
+        {
+          "id": "s01e17",
+          "title": "Episodio 17",
+          "slotId": "ep_518",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E17.mp4"
+          }
+        },
+        {
+          "id": "s01e18",
+          "title": "Episodio 18",
+          "slotId": "ep_519",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E18.mp4"
+          }
+        },
+        {
+          "id": "s01e19",
+          "title": "Episodio 19",
+          "slotId": "ep_520",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E19.mp4"
+          }
+        },
+        {
+          "id": "s01e20",
+          "title": "Episodio 20",
+          "slotId": "ep_521",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E20.mp4"
+          }
+        },
+        {
+          "id": "s01e21",
+          "title": "Episodio 21",
+          "slotId": "ep_522",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E21.mp4"
+          }
+        },
+        {
+          "id": "s01e22",
+          "title": "Episodio 22",
+          "slotId": "ep_523",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E22.mp4"
+          }
+        },
+        {
+          "id": "s01e23",
+          "title": "Episodio 23",
+          "slotId": "ep_524",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E23.mp4"
+          }
+        },
+        {
+          "id": "s01e24",
+          "title": "Episodio 24",
+          "slotId": "ep_525",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E24.mp4"
+          }
+        },
+        {
+          "id": "s01e25",
+          "title": "Episodio 25",
+          "slotId": "ep_526",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E25.mp4"
+          }
+        },
+        {
+          "id": "s01e26",
+          "title": "Episodio 26",
+          "slotId": "ep_527",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E26.mp4"
+          }
+        },
+        {
+          "id": "s01e27",
+          "title": "Episodio 27",
+          "slotId": "ep_528",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E27.mp4"
+          }
+        },
+        {
+          "id": "s01e28",
+          "title": "Episodio 28",
+          "slotId": "ep_529",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E28.mp4"
+          }
+        },
+        {
+          "id": "s01e29",
+          "title": "Episodio 29",
+          "slotId": "ep_530",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E29.mp4"
+          }
+        },
+        {
+          "id": "s01e30",
+          "title": "Episodio 30",
+          "slotId": "ep_531",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E30.mkv"
+          }
+        },
+        {
+          "id": "s01e31",
+          "title": "Episodio 31",
+          "slotId": "ep_532",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E31.mp4"
+          }
+        },
+        {
+          "id": "s01e32",
+          "title": "Episodio 32",
+          "slotId": "ep_533",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E32.mp4"
+          }
+        },
+        {
+          "id": "s01e33",
+          "title": "Episodio 33",
+          "slotId": "ep_534",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E33.mp4"
+          }
+        },
+        {
+          "id": "s01e34",
+          "title": "Episodio 34",
+          "slotId": "ep_535",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E34.mp4"
+          }
+        },
+        {
+          "id": "s01e35",
+          "title": "Episodio 35",
+          "slotId": "ep_536",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E35.mp4"
+          }
+        },
+        {
+          "id": "s01e36",
+          "title": "Episodio 36",
+          "slotId": "ep_537",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E36.mp4"
+          }
+        },
+        {
+          "id": "s01e37",
+          "title": "Episodio 37",
+          "slotId": "ep_538",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E37.mp4"
+          }
+        },
+        {
+          "id": "s01e38",
+          "title": "Episodio 38",
+          "slotId": "ep_539",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E38.mp4"
+          }
+        },
+        {
+          "id": "s01e39",
+          "title": "Episodio 39",
+          "slotId": "ep_540",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E39.mp4"
+          }
+        },
+        {
+          "id": "s01e40",
+          "title": "Episodio 40",
+          "slotId": "ep_541",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E40.mp4"
+          }
+        },
+        {
+          "id": "s01e41",
+          "title": "Episodio 41",
+          "slotId": "ep_542",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E41.mp4"
           }
         }
       ],
@@ -5464,16 +6240,168 @@
       "releaseDate": "2026-04-10",
       "genres": [],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "episodes": [
         {
-          "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_455",
+          "id": "s02e01",
+          "title": "Episodio 1",
+          "slotId": "ep_543",
           "links": {
-            "language_Spanish": ""
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E01.mkv"
+          }
+        },
+        {
+          "id": "s02e02",
+          "title": "Episodio 2",
+          "slotId": "ep_544",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E02.mkv"
+          }
+        },
+        {
+          "id": "s02e03",
+          "title": "Episodio 3",
+          "slotId": "ep_545",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E03.mkv"
+          }
+        },
+        {
+          "id": "s02e04",
+          "title": "Episodio 4",
+          "slotId": "ep_546",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E04.mp4"
+          }
+        },
+        {
+          "id": "s02e05",
+          "title": "Episodio 5",
+          "slotId": "ep_547",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E05.mkv"
+          }
+        },
+        {
+          "id": "s02e06",
+          "title": "Episodio 6",
+          "slotId": "ep_548",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E06.mp4"
+          }
+        },
+        {
+          "id": "s02e07",
+          "title": "Episodio 7",
+          "slotId": "ep_549",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E07.mkv"
+          }
+        },
+        {
+          "id": "s02e08",
+          "title": "Episodio 8",
+          "slotId": "ep_550",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E08.mp4"
+          }
+        },
+        {
+          "id": "s02e09",
+          "title": "Episodio 9",
+          "slotId": "ep_551",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E09.mkv"
+          }
+        },
+        {
+          "id": "s02e10",
+          "title": "Episodio 10",
+          "slotId": "ep_552",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E10.mkv"
+          }
+        },
+        {
+          "id": "s02e11",
+          "title": "Episodio 11",
+          "slotId": "ep_553",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E11.mkv"
+          }
+        },
+        {
+          "id": "s02e12",
+          "title": "Episodio 12",
+          "slotId": "ep_554",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E12.mkv"
+          }
+        },
+        {
+          "id": "s02e13",
+          "title": "Episodio 13",
+          "slotId": "ep_555",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E13.mkv"
+          }
+        },
+        {
+          "id": "s02e14",
+          "title": "Episodio 14",
+          "slotId": "ep_556",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E14.mp4"
+          }
+        },
+        {
+          "id": "s02e15",
+          "title": "Episodio 15",
+          "slotId": "ep_557",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E15.mkv"
+          }
+        },
+        {
+          "id": "s02e16",
+          "title": "Episodio 16",
+          "slotId": "ep_558",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E16.mp4"
+          }
+        },
+        {
+          "id": "s02e17",
+          "title": "Episodio 17",
+          "slotId": "ep_559",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E17.mp4"
+          }
+        },
+        {
+          "id": "s02e18",
+          "title": "Episodio 18",
+          "slotId": "ep_560",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E18.mp4"
+          }
+        },
+        {
+          "id": "s02e19",
+          "title": "Episodio 19",
+          "slotId": "ep_561",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E19.mp4"
+          }
+        },
+        {
+          "id": "s02e20",
+          "title": "Episodio 20",
+          "slotId": "ep_562",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E20.mp4"
           }
         }
       ],
@@ -5489,22 +6417,174 @@
       "description": "Considerada por muchos como una de las mejores temporadas. Equilibra perfectamente humor absurdo con mensajes más maduros.",
       "duration": "",
       "rating": "PG-13",
-      "quality": "None",
+      "quality": "HD",
       "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-04-10",
       "genres": [],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "episodes": [
         {
-          "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_456",
+          "id": "s04e01",
+          "title": "Episodio 1",
+          "slotId": "ep_563",
           "links": {
-            "language_Spanish": ""
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E01.mp4"
+          }
+        },
+        {
+          "id": "s04e02",
+          "title": "Episodio 2",
+          "slotId": "ep_564",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E02.mp4"
+          }
+        },
+        {
+          "id": "s04e03",
+          "title": "Episodio 3",
+          "slotId": "ep_565",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E03.mp4"
+          }
+        },
+        {
+          "id": "s04e04",
+          "title": "Episodio 4",
+          "slotId": "ep_566",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E04.mp4"
+          }
+        },
+        {
+          "id": "s04e05",
+          "title": "Episodio 5",
+          "slotId": "ep_567",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E05.mp4"
+          }
+        },
+        {
+          "id": "s04e06",
+          "title": "Episodio 6",
+          "slotId": "ep_568",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E06.mp4"
+          }
+        },
+        {
+          "id": "s04e07",
+          "title": "Episodio 7",
+          "slotId": "ep_569",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E07.mp4"
+          }
+        },
+        {
+          "id": "s04e08",
+          "title": "Episodio 8",
+          "slotId": "ep_570",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E08.mp4"
+          }
+        },
+        {
+          "id": "s04e09",
+          "title": "Episodio 9",
+          "slotId": "ep_571",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E09.mp4"
+          }
+        },
+        {
+          "id": "s04e10",
+          "title": "Episodio 10",
+          "slotId": "ep_572",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E10.mp4"
+          }
+        },
+        {
+          "id": "s04e11",
+          "title": "Episodio 11",
+          "slotId": "ep_573",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E11.mp4"
+          }
+        },
+        {
+          "id": "s04e12",
+          "title": "Episodio 12",
+          "slotId": "ep_574",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E12.mp4"
+          }
+        },
+        {
+          "id": "s04e13",
+          "title": "Episodio 13",
+          "slotId": "ep_575",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E13.mp4"
+          }
+        },
+        {
+          "id": "s04e14",
+          "title": "Episodio 14",
+          "slotId": "ep_576",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E14.mp4"
+          }
+        },
+        {
+          "id": "s04e15",
+          "title": "Episodio 15",
+          "slotId": "ep_577",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E15.mp4"
+          }
+        },
+        {
+          "id": "s04e16",
+          "title": "Episodio 16",
+          "slotId": "ep_578",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E16.mp4"
+          }
+        },
+        {
+          "id": "s04e17",
+          "title": "Episodio 17",
+          "slotId": "ep_579",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E17.mp4"
+          }
+        },
+        {
+          "id": "s04e18",
+          "title": "Episodio 18",
+          "slotId": "ep_580",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E18.mp4"
+          }
+        },
+        {
+          "id": "s04e19",
+          "title": "Episodio 19",
+          "slotId": "ep_581",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E19.mp4"
+          }
+        },
+        {
+          "id": "s04e20",
+          "title": "Episodio 20",
+          "slotId": "ep_582",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E20.mp4"
           }
         }
       ],
@@ -5526,16 +6606,184 @@
       "releaseDate": "2026-04-10",
       "genres": [],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "episodes": [
         {
-          "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_457",
+          "id": "s06e01",
+          "title": "Episodio 1",
+          "slotId": "ep_583",
           "links": {
-            "language_Spanish": ""
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E01.mp4"
+          }
+        },
+        {
+          "id": "s06e02",
+          "title": "Episodio 2",
+          "slotId": "ep_584",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E02.mp4"
+          }
+        },
+        {
+          "id": "s06e03",
+          "title": "Episodio 3",
+          "slotId": "ep_585",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E03.mp4"
+          }
+        },
+        {
+          "id": "s06e04",
+          "title": "Episodio 4",
+          "slotId": "ep_586",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E04.mp4"
+          }
+        },
+        {
+          "id": "s06e05",
+          "title": "Episodio 5",
+          "slotId": "ep_587",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E05.mp4"
+          }
+        },
+        {
+          "id": "s06e06",
+          "title": "Episodio 6",
+          "slotId": "ep_588",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E06.mp4"
+          }
+        },
+        {
+          "id": "s06e07",
+          "title": "Episodio 7",
+          "slotId": "ep_589",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E07.mp4"
+          }
+        },
+        {
+          "id": "s06e08",
+          "title": "Episodio 8",
+          "slotId": "ep_590",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E08.mp4"
+          }
+        },
+        {
+          "id": "s06e09",
+          "title": "Episodio 9",
+          "slotId": "ep_591",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E09.mp4"
+          }
+        },
+        {
+          "id": "s06e10",
+          "title": "Episodio 10",
+          "slotId": "ep_592",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E10.mp4"
+          }
+        },
+        {
+          "id": "s06e11",
+          "title": "Episodio 11",
+          "slotId": "ep_593",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E11.mp4"
+          }
+        },
+        {
+          "id": "s06e12",
+          "title": "Episodio 12",
+          "slotId": "ep_594",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E12.mp4"
+          }
+        },
+        {
+          "id": "s06e13",
+          "title": "Episodio 13",
+          "slotId": "ep_595",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E13.mp4"
+          }
+        },
+        {
+          "id": "s06e14",
+          "title": "Episodio 14",
+          "slotId": "ep_596",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E14.mp4"
+          }
+        },
+        {
+          "id": "s06e15",
+          "title": "Episodio 15",
+          "slotId": "ep_597",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E15.mp4"
+          }
+        },
+        {
+          "id": "s06e16",
+          "title": "Episodio 16",
+          "slotId": "ep_598",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E16.mp4"
+          }
+        },
+        {
+          "id": "s06e17",
+          "title": "Episodio 17",
+          "slotId": "ep_599",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E17.mp4"
+          }
+        },
+        {
+          "id": "s06e18",
+          "title": "Episodio 18",
+          "slotId": "ep_600",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E18.mp4"
+          }
+        },
+        {
+          "id": "s06e19",
+          "title": "Episodio 19",
+          "slotId": "ep_601",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E19.mp4"
+          }
+        },
+        {
+          "id": "s06e20",
+          "title": "Episodio 20",
+          "slotId": "ep_602",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E20.mp4"
+          }
+        },
+        {
+          "id": "s06e21",
+          "title": "Episodio 21",
+          "slotId": "ep_603",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E21.mp4"
+          }
+        },
+        {
+          "id": "s06e22",
+          "title": "Episodio 22",
+          "slotId": "ep_604",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E22.mp4"
           }
         }
       ],
@@ -5557,16 +6805,112 @@
       "releaseDate": "2026-04-10",
       "genres": [],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "episodes": [
         {
           "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_458",
+          "title": "Episodio 1",
+          "slotId": "ep_605",
           "links": {
-            "language_Spanish": ""
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E01.mp4"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Episodio 2",
+          "slotId": "ep_606",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E02.mp4"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Episodio 3",
+          "slotId": "ep_607",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E03.mp4"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Episodio 4",
+          "slotId": "ep_608",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E04.mp4"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Episodio 5",
+          "slotId": "ep_609",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E05.mp4"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Episodio 6",
+          "slotId": "ep_610",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E06.mp4"
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Episodio 7",
+          "slotId": "ep_611",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E07.mp4"
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Episodio 8",
+          "slotId": "ep_612",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E08.mp4"
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Episodio 9",
+          "slotId": "ep_613",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E09.mp4"
+          }
+        },
+        {
+          "id": "s01e10",
+          "title": "Episodio 10",
+          "slotId": "ep_614",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E10.mp4"
+          }
+        },
+        {
+          "id": "s01e11",
+          "title": "Episodio 11",
+          "slotId": "ep_615",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E11.mp4"
+          }
+        },
+        {
+          "id": "s01e12",
+          "title": "Episodio 12",
+          "slotId": "ep_616",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E12.mp4"
+          }
+        },
+        {
+          "id": "s01e13",
+          "title": "Episodio 13",
+          "slotId": "ep_617",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E13.mp4"
           }
         }
       ],
@@ -5604,6 +6948,86 @@
       "id": "series_050",
       "addedAt": "2026-04-10T03:21:11.790Z",
       "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 127
+    },
+    {
+      "type": "series",
+      "title": "Invencible T10",
+      "description": "Temporada 10 de Invencible. Agregada automáticamente.",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "languages": [
+        "language_Spanish"
+      ],
+      "episodes": [
+        {
+          "id": "s10e01",
+          "title": "Episodio 1",
+          "slotId": "ep_618",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/invencible/T1/invencible_S10E01.mp4"
+          }
+        },
+        {
+          "id": "s10e02",
+          "title": "Episodio 2",
+          "slotId": "ep_619",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/invencible/T1/invencible_S10E02.mp4"
+          }
+        },
+        {
+          "id": "s10e03",
+          "title": "Episodio 3",
+          "slotId": "ep_620",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/invencible/T1/invencible_S10E03.mp4"
+          }
+        },
+        {
+          "id": "s10e04",
+          "title": "Episodio 4",
+          "slotId": "ep_621",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/invencible/T1/invencible_S10E04.mp4"
+          }
+        },
+        {
+          "id": "s10e05",
+          "title": "Episodio 5",
+          "slotId": "ep_622",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/invencible/T1/invencible_S10E05.mp4"
+          }
+        },
+        {
+          "id": "s10e06",
+          "title": "Episodio 6",
+          "slotId": "ep_623",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/invencible/T1/invencible_S10E06.mp4"
+          }
+        },
+        {
+          "id": "s10e07",
+          "title": "Episodio 7",
+          "slotId": "ep_624",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/invencible/T1/invencible_S10E07.mp4"
+          }
+        },
+        {
+          "id": "s10e08",
+          "title": "Episodio 8",
+          "slotId": "ep_625",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/invencible/T1/invencible_S10E08.mp4"
+          }
+        }
+      ],
+      "id": "series_051",
       "atlas": "A",
       "gridIndex": 127
     }
