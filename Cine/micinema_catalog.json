@@ -2305,6 +2305,78 @@
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 1
+    },
+    {
+      "type": "movie",
+      "title": "Sin novedad en el frente",
+      "description": "La historia sigue a Paul Bäumer, un joven alemán que se alista con entusiasmo en el ejército durante la Primera Guerra Mundial. Sin embargo, al llegar al frente, enfrenta la brutal realidad de la guerra: el miedo, la muerte y la pérdida de la inocencia. A través de su experiencia, la película muestra el horror y la inutilidad",
+      "duration": "",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2022,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/sinNovedadEnElFrente.mp4"
+      },
+      "id": "movie_080",
+      "addedAt": "2026-04-10T19:59:03.558Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 4
+    },
+    {
+      "type": "movie",
+      "title": "Una pareja explosiva",
+      "description": "Un detective de Hong Kong, Lee, viaja a Los Ángeles para ayudar a rescatar a la hija de un diplomático chino secuestrada. Allí se ve obligado a trabajar con el parlanchín policía James Carter, formando una divertida y caótica dupla.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1998,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/unaParejaExplosiva1998.mp4"
+      },
+      "id": "movie_081",
+      "addedAt": "2026-04-10T20:01:13.902Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 5
+    },
+    {
+      "type": "movie",
+      "title": "Nadie 2",
+      "description": "La secuela continuará la historia de Hutch Mansell, el aparentemente tranquilo padre de familia con un pasado como asesino profesional. Tras los eventos de la primera película, Hutch intentará llevar una vida normal, pero su pasado volverá a alcanzarlo, llevándolo otra vez a un mundo de violencia y enemigos peligrosos.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/nadie22025.mp4"
+      },
+      "id": "movie_082",
+      "addedAt": "2026-04-10T20:05:43.335Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 6
     }
   ],
   "series": [
