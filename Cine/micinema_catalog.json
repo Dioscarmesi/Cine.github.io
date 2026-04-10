@@ -1496,7 +1496,7 @@
       "duration": "1h 48m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2025,
       "releaseDate": "2025-11-26",
       "genres": [
@@ -1508,8 +1508,9 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "11",
-        "language_Spanish": "11"
+        "default": "https://micinemaxr.b-cdn.net/Movie/Zootopia2.mp4",
+        "language_Spanish": "11",
+        "language_language_Spanish": "https://micinemaxr.b-cdn.net/Movie/Zootopia2.mp4"
       },
       "enabled": false,
       "id": "movie_050",
@@ -1567,8 +1568,9 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "asas",
-        "language_Spanish": "asas"
+        "default": "https://micinemaxr.b-cdn.net/Movie/GoatLaCabraQueCambi%C3%B3ElJuego.mkv",
+        "language_Spanish": "asas",
+        "language_language_Spanish": "https://micinemaxr.b-cdn.net/Movie/GoatLaCabraQueCambi%C3%B3ElJuego.mkv"
       },
       "enabled": true,
       "id": "movie_052",
