@@ -1048,5 +1048,329 @@
     "user": "Admin",
     "action": "EDIT",
     "targetId": "movie_084"
+  },
+  {
+    "timestamp": "2026-04-10T20:55:44.429Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_003"
+  },
+  {
+    "timestamp": "2026-04-10T20:57:47.476Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_004"
+  },
+  {
+    "timestamp": "2026-04-10T20:59:49.600Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_005"
+  },
+  {
+    "timestamp": "2026-04-10T21:01:44.730Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_006"
+  },
+  {
+    "timestamp": "2026-04-10T21:03:25.363Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_007"
+  },
+  {
+    "timestamp": "2026-04-10T21:05:12.430Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_008"
+  },
+  {
+    "timestamp": "2026-04-10T21:06:03.744Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_001"
+  },
+  {
+    "timestamp": "2026-04-10T21:06:22.084Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_002"
+  },
+  {
+    "timestamp": "2026-04-10T21:09:08.190Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_010"
+  },
+  {
+    "timestamp": "2026-04-10T21:10:26.128Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_013"
+  },
+  {
+    "timestamp": "2026-04-10T21:11:46.927Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_011"
+  },
+  {
+    "timestamp": "2026-04-10T21:11:52.474Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_011"
+  },
+  {
+    "timestamp": "2026-04-10T21:12:48.809Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_012"
+  },
+  {
+    "timestamp": "2026-04-10T21:14:15.956Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_014"
+  },
+  {
+    "timestamp": "2026-04-10T21:15:17.708Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_015"
+  },
+  {
+    "timestamp": "2026-04-10T21:15:22.601Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_014"
+  },
+  {
+    "timestamp": "2026-04-10T21:15:26.401Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_015"
+  },
+  {
+    "timestamp": "2026-04-10T21:20:18.877Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_016"
+  },
+  {
+    "timestamp": "2026-04-10T21:21:35.408Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_018"
+  },
+  {
+    "timestamp": "2026-04-10T21:22:42.646Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_019"
+  },
+  {
+    "timestamp": "2026-04-10T21:24:27.732Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_020"
+  },
+  {
+    "timestamp": "2026-04-10T21:25:56.454Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_022"
+  },
+  {
+    "timestamp": "2026-04-10T21:28:14.327Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_023"
+  },
+  {
+    "timestamp": "2026-04-10T21:29:24.479Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_024"
+  },
+  {
+    "timestamp": "2026-04-10T21:31:27.192Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_025"
+  },
+  {
+    "timestamp": "2026-04-10T21:33:15.510Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_026"
+  },
+  {
+    "timestamp": "2026-04-10T21:35:06.311Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_027"
+  },
+  {
+    "timestamp": "2026-04-10T21:37:33.918Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_028"
+  },
+  {
+    "timestamp": "2026-04-10T21:38:02.809Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_029"
+  },
+  {
+    "timestamp": "2026-04-10T21:38:23.431Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_030"
+  },
+  {
+    "timestamp": "2026-04-10T21:42:06.924Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_031"
+  },
+  {
+    "timestamp": "2026-04-10T21:42:11.443Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_032"
+  },
+  {
+    "timestamp": "2026-04-10T21:42:29.921Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_033"
+  },
+  {
+    "timestamp": "2026-04-10T21:42:37.620Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_032"
+  },
+  {
+    "timestamp": "2026-04-10T21:42:43.192Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_031"
+  },
+  {
+    "timestamp": "2026-04-10T21:42:49.165Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_029"
+  },
+  {
+    "timestamp": "2026-04-10T21:42:58.101Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_034"
+  },
+  {
+    "timestamp": "2026-04-10T21:43:18.287Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_035"
+  },
+  {
+    "timestamp": "2026-04-10T21:44:05.611Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_036"
+  },
+  {
+    "timestamp": "2026-04-10T21:44:16.397Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_037"
+  },
+  {
+    "timestamp": "2026-04-10T21:44:27.263Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_038"
+  },
+  {
+    "timestamp": "2026-04-10T21:45:15.510Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_040"
+  },
+  {
+    "timestamp": "2026-04-10T21:45:28.453Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_041"
+  },
+  {
+    "timestamp": "2026-04-10T21:45:40.401Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_040"
+  },
+  {
+    "timestamp": "2026-04-10T21:45:48.969Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_042"
+  },
+  {
+    "timestamp": "2026-04-10T21:45:54.953Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_043"
+  },
+  {
+    "timestamp": "2026-04-10T21:46:04.927Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_044"
+  },
+  {
+    "timestamp": "2026-04-10T21:46:23.111Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_045"
+  },
+  {
+    "timestamp": "2026-04-10T21:46:35.546Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_046"
+  },
+  {
+    "timestamp": "2026-04-10T21:46:43.030Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_047"
+  },
+  {
+    "timestamp": "2026-04-10T21:46:51.600Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_048"
+  },
+  {
+    "timestamp": "2026-04-10T21:47:15.619Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_051"
+  },
+  {
+    "timestamp": "2026-04-10T21:47:45.639Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_037"
+  },
+  {
+    "timestamp": "2026-04-10T21:51:57.802Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_048"
   }
 ]
