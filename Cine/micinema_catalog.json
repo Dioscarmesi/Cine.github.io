@@ -95,7 +95,8 @@
       ],
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/Alita.mp4",
-        "language_English": "as"
+        "language_English": "as",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/Alita.mp4"
       },
       "enabled": true,
       "id": "movie_001",
@@ -649,7 +650,8 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/LigaDeLaJusticia.mp4",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/LigaDeLaJusticia.mp4"
       },
       "enabled": true,
       "id": "movie_021",
@@ -679,7 +681,7 @@
       "links": {
         "default": "sdfsf"
       },
-      "enabled": true,
+      "enabled": false,
       "id": "movie_022",
       "addedAt": "2026-04-01T04:46:32.910Z",
       "addedBy": "Admin",
@@ -733,7 +735,8 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/Piratasdelcaribe.mp4",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/Piratasdelcaribe.mp4"
       },
       "enabled": true,
       "id": "movie_024",
@@ -761,7 +764,8 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/PiratesOfTheCaribbeanAtWorldSEnd.mp4",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/PiratesOfTheCaribbeanAtWorldSEnd.mp4"
       },
       "enabled": true,
       "id": "movie_025",
@@ -984,7 +988,8 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/R%C3%A1pidoYFurioso.mkv",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/R%C3%A1pidoYFurioso.mkv"
       },
       "enabled": true,
       "id": "movie_033",
@@ -1012,7 +1017,8 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/RapidoFurioso04.avi",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/RapidoFurioso04.avi"
       },
       "enabled": true,
       "id": "movie_034",
@@ -1179,7 +1185,8 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "asdasd"
+        "default": "https://micinemaxr.b-cdn.net/Movie/SorprendenteHombreAra%C3%B1a.mkv",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/SorprendenteHombreAra%C3%B1a.mkv"
       },
       "enabled": true,
       "id": "movie_040",
@@ -1321,7 +1328,7 @@
       "links": {
         "default": "asdasd"
       },
-      "enabled": true,
+      "enabled": false,
       "id": "movie_045",
       "addedAt": "2026-04-01T09:24:50.170Z",
       "addedBy": "Admin",
@@ -1349,7 +1356,7 @@
       "links": {
         "default": "asdasd"
       },
-      "enabled": true,
+      "enabled": false,
       "id": "movie_046",
       "addedAt": "2026-04-01T09:24:51.143Z",
       "addedBy": "Admin",
@@ -1433,7 +1440,7 @@
       "links": {
         "default": "1qawdq"
       },
-      "enabled": true,
+      "enabled": false,
       "id": "movie_049",
       "addedAt": "2026-04-02T00:04:53.164Z",
       "addedBy": "Admin",
@@ -1461,7 +1468,7 @@
       "links": {
         "default": "11"
       },
-      "enabled": true,
+      "enabled": false,
       "id": "movie_050",
       "addedAt": "2026-04-02T00:46:14.628Z",
       "addedBy": "Admin",
@@ -1976,7 +1983,7 @@
       "languages": [
         "Spanish"
       ],
-      "enabled": true,
+      "enabled": false,
       "links": {
         "default": "https://micinemaxr.b-cdn.net/Movie/ElPlanetaDeLosSimiosREvoluci%C3%B3n2011.mp4"
       },
@@ -5610,16 +5617,216 @@
       "releaseDate": "2026-04-10",
       "genres": [],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "episodes": [
         {
           "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_445",
+          "title": "Episodio 1",
+          "slotId": "ep_502",
           "links": {
-            "language_Spanish": ""
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E01.mp4"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Episodio 2",
+          "slotId": "ep_503",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E02.mp4"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Episodio 3",
+          "slotId": "ep_504",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E03.mp4"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Episodio 4",
+          "slotId": "ep_505",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E04.mp4"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Episodio 5",
+          "slotId": "ep_506",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E05.mp4"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Episodio 6",
+          "slotId": "ep_507",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E06.mp4"
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Episodio 7",
+          "slotId": "ep_508",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E07.mp4"
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Episodio 8",
+          "slotId": "ep_509",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E08.mp4"
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Episodio 9",
+          "slotId": "ep_510",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E09.mp4"
+          }
+        },
+        {
+          "id": "s01e10",
+          "title": "Episodio 10",
+          "slotId": "ep_511",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E10.mp4"
+          }
+        },
+        {
+          "id": "s01e11",
+          "title": "Episodio 11",
+          "slotId": "ep_512",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E11.mp4"
+          }
+        },
+        {
+          "id": "s01e12",
+          "title": "Episodio 12",
+          "slotId": "ep_513",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E12.mp4"
+          }
+        },
+        {
+          "id": "s01e13",
+          "title": "Episodio 13",
+          "slotId": "ep_514",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E13.mp4"
+          }
+        },
+        {
+          "id": "s01e14",
+          "title": "Episodio 14",
+          "slotId": "ep_515",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E14.mp4"
+          }
+        },
+        {
+          "id": "s01e15",
+          "title": "Episodio 15",
+          "slotId": "ep_516",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E15.mp4"
+          }
+        },
+        {
+          "id": "s01e16",
+          "title": "Episodio 16",
+          "slotId": "ep_517",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E16.mp4"
+          }
+        },
+        {
+          "id": "s01e17",
+          "title": "Episodio 17",
+          "slotId": "ep_518",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E17.mp4"
+          }
+        },
+        {
+          "id": "s01e18",
+          "title": "Episodio 18",
+          "slotId": "ep_519",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E18.mp4"
+          }
+        },
+        {
+          "id": "s01e19",
+          "title": "Episodio 19",
+          "slotId": "ep_520",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E19.mp4"
+          }
+        },
+        {
+          "id": "s01e20",
+          "title": "Episodio 20",
+          "slotId": "ep_521",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E20.mp4"
+          }
+        },
+        {
+          "id": "s01e21",
+          "title": "Episodio 21",
+          "slotId": "ep_522",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E21.mp4"
+          }
+        },
+        {
+          "id": "s01e22",
+          "title": "Episodio 22",
+          "slotId": "ep_523",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E22.mp4"
+          }
+        },
+        {
+          "id": "s01e23",
+          "title": "Episodio 23",
+          "slotId": "ep_524",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E23.mp4"
+          }
+        },
+        {
+          "id": "s01e24",
+          "title": "Episodio 24",
+          "slotId": "ep_525",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E24.mp4"
+          }
+        },
+        {
+          "id": "s01e25",
+          "title": "Episodio 25",
+          "slotId": "ep_526",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E25.mp4"
+          }
+        },
+        {
+          "id": "s01e26",
+          "title": "Episodio 26",
+          "slotId": "ep_527",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t1/HoraDeAventura_S01E26.mp4"
           }
         }
       ],
@@ -5641,16 +5848,216 @@
       "releaseDate": "2026-04-10",
       "genres": [],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "episodes": [
         {
-          "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_446",
+          "id": "s02e01",
+          "title": "Episodio 1",
+          "slotId": "ep_528",
           "links": {
-            "language_Spanish": ""
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E01.mp4"
+          }
+        },
+        {
+          "id": "s02e02",
+          "title": "Episodio 2",
+          "slotId": "ep_529",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E02.mp4"
+          }
+        },
+        {
+          "id": "s02e03",
+          "title": "Episodio 3",
+          "slotId": "ep_530",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E03.mp4"
+          }
+        },
+        {
+          "id": "s02e04",
+          "title": "Episodio 4",
+          "slotId": "ep_531",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E04.mp4"
+          }
+        },
+        {
+          "id": "s02e05",
+          "title": "Episodio 5",
+          "slotId": "ep_532",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E05.mp4"
+          }
+        },
+        {
+          "id": "s02e06",
+          "title": "Episodio 6",
+          "slotId": "ep_533",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E06.mp4"
+          }
+        },
+        {
+          "id": "s02e07",
+          "title": "Episodio 7",
+          "slotId": "ep_534",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E07.mp4"
+          }
+        },
+        {
+          "id": "s02e08",
+          "title": "Episodio 8",
+          "slotId": "ep_535",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E08.mp4"
+          }
+        },
+        {
+          "id": "s02e09",
+          "title": "Episodio 9",
+          "slotId": "ep_536",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E09.mp4"
+          }
+        },
+        {
+          "id": "s02e10",
+          "title": "Episodio 10",
+          "slotId": "ep_537",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E10.mp4"
+          }
+        },
+        {
+          "id": "s02e11",
+          "title": "Episodio 11",
+          "slotId": "ep_538",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E11.mp4"
+          }
+        },
+        {
+          "id": "s02e12",
+          "title": "Episodio 12",
+          "slotId": "ep_539",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E12.mp4"
+          }
+        },
+        {
+          "id": "s02e13",
+          "title": "Episodio 13",
+          "slotId": "ep_540",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E13.mp4"
+          }
+        },
+        {
+          "id": "s02e14",
+          "title": "Episodio 14",
+          "slotId": "ep_541",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E14.mp4"
+          }
+        },
+        {
+          "id": "s02e15",
+          "title": "Episodio 15",
+          "slotId": "ep_542",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E15.mp4"
+          }
+        },
+        {
+          "id": "s02e16",
+          "title": "Episodio 16",
+          "slotId": "ep_543",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E16.mp4"
+          }
+        },
+        {
+          "id": "s02e17",
+          "title": "Episodio 17",
+          "slotId": "ep_544",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E17.mp4"
+          }
+        },
+        {
+          "id": "s02e18",
+          "title": "Episodio 18",
+          "slotId": "ep_545",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E18.mp4"
+          }
+        },
+        {
+          "id": "s02e19",
+          "title": "Episodio 19",
+          "slotId": "ep_546",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E19.mp4"
+          }
+        },
+        {
+          "id": "s02e20",
+          "title": "Episodio 20",
+          "slotId": "ep_547",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E20.mp4"
+          }
+        },
+        {
+          "id": "s02e21",
+          "title": "Episodio 21",
+          "slotId": "ep_548",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E21.mp4"
+          }
+        },
+        {
+          "id": "s02e22",
+          "title": "Episodio 22",
+          "slotId": "ep_549",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E22.mp4"
+          }
+        },
+        {
+          "id": "s02e23",
+          "title": "Episodio 23",
+          "slotId": "ep_550",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E23.mp4"
+          }
+        },
+        {
+          "id": "s02e24",
+          "title": "Episodio 24",
+          "slotId": "ep_551",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E24.mp4"
+          }
+        },
+        {
+          "id": "s02e25",
+          "title": "Episodio 25",
+          "slotId": "ep_552",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E25.mp4"
+          }
+        },
+        {
+          "id": "s02e26",
+          "title": "Episodio 26",
+          "slotId": "ep_553",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t2/HoraDeAventura_S02E26.mp4"
           }
         }
       ],
@@ -5672,16 +6079,216 @@
       "releaseDate": "2026-04-10",
       "genres": [],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "episodes": [
         {
-          "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_447",
+          "id": "s03e01",
+          "title": "Episodio 1",
+          "slotId": "ep_554",
           "links": {
-            "language_Spanish": ""
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E01.mp4"
+          }
+        },
+        {
+          "id": "s03e02",
+          "title": "Episodio 2",
+          "slotId": "ep_555",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E02.mp4"
+          }
+        },
+        {
+          "id": "s03e03",
+          "title": "Episodio 3",
+          "slotId": "ep_556",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E03.mp4"
+          }
+        },
+        {
+          "id": "s03e04",
+          "title": "Episodio 4",
+          "slotId": "ep_557",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E04.mp4"
+          }
+        },
+        {
+          "id": "s03e05",
+          "title": "Episodio 5",
+          "slotId": "ep_558",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E05.mp4"
+          }
+        },
+        {
+          "id": "s03e06",
+          "title": "Episodio 6",
+          "slotId": "ep_559",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E06.mp4"
+          }
+        },
+        {
+          "id": "s03e07",
+          "title": "Episodio 7",
+          "slotId": "ep_560",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E07.mp4"
+          }
+        },
+        {
+          "id": "s03e08",
+          "title": "Episodio 8",
+          "slotId": "ep_561",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E08.mp4"
+          }
+        },
+        {
+          "id": "s03e09",
+          "title": "Episodio 9",
+          "slotId": "ep_562",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E09.mp4"
+          }
+        },
+        {
+          "id": "s03e10",
+          "title": "Episodio 10",
+          "slotId": "ep_563",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E10.mp4"
+          }
+        },
+        {
+          "id": "s03e11",
+          "title": "Episodio 11",
+          "slotId": "ep_564",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E11.mp4"
+          }
+        },
+        {
+          "id": "s03e12",
+          "title": "Episodio 12",
+          "slotId": "ep_565",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E12.mp4"
+          }
+        },
+        {
+          "id": "s03e13",
+          "title": "Episodio 13",
+          "slotId": "ep_566",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E13.mp4"
+          }
+        },
+        {
+          "id": "s03e14",
+          "title": "Episodio 14",
+          "slotId": "ep_567",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E14.mp4"
+          }
+        },
+        {
+          "id": "s03e15",
+          "title": "Episodio 15",
+          "slotId": "ep_568",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E15.mp4"
+          }
+        },
+        {
+          "id": "s03e16",
+          "title": "Episodio 16",
+          "slotId": "ep_569",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E16.mp4"
+          }
+        },
+        {
+          "id": "s03e17",
+          "title": "Episodio 17",
+          "slotId": "ep_570",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E17.mp4"
+          }
+        },
+        {
+          "id": "s03e18",
+          "title": "Episodio 18",
+          "slotId": "ep_571",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E18.mp4"
+          }
+        },
+        {
+          "id": "s03e19",
+          "title": "Episodio 19",
+          "slotId": "ep_572",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E19.mp4"
+          }
+        },
+        {
+          "id": "s03e20",
+          "title": "Episodio 20",
+          "slotId": "ep_573",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E20.mp4"
+          }
+        },
+        {
+          "id": "s03e21",
+          "title": "Episodio 21",
+          "slotId": "ep_574",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E21.mp4"
+          }
+        },
+        {
+          "id": "s03e22",
+          "title": "Episodio 22",
+          "slotId": "ep_575",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E22.mp4"
+          }
+        },
+        {
+          "id": "s03e23",
+          "title": "Episodio 23",
+          "slotId": "ep_576",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E23.mp4"
+          }
+        },
+        {
+          "id": "s03e24",
+          "title": "Episodio 24",
+          "slotId": "ep_577",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E24.mp4"
+          }
+        },
+        {
+          "id": "s03e25",
+          "title": "Episodio 25",
+          "slotId": "ep_578",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E25.mp4"
+          }
+        },
+        {
+          "id": "s03e26",
+          "title": "Episodio 26",
+          "slotId": "ep_579",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t3/HoraDeAventura_S03E26.mp4"
           }
         }
       ],
@@ -5710,7 +6317,7 @@
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_448",
+          "slotId": "ep_580",
           "links": {
             "language_Spanish": ""
           }
@@ -5734,16 +6341,424 @@
       "releaseDate": "2026-04-10",
       "genres": [],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "episodes": [
         {
-          "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_449",
+          "id": "s05e01",
+          "title": "Episodio 1",
+          "slotId": "ep_581",
           "links": {
-            "language_Spanish": ""
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E01.mp4"
+          }
+        },
+        {
+          "id": "s05e02",
+          "title": "Episodio 2",
+          "slotId": "ep_582",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E02.mp4"
+          }
+        },
+        {
+          "id": "s05e03",
+          "title": "Episodio 3",
+          "slotId": "ep_583",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E03.mp4"
+          }
+        },
+        {
+          "id": "s05e04",
+          "title": "Episodio 4",
+          "slotId": "ep_584",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E04.mp4"
+          }
+        },
+        {
+          "id": "s05e05",
+          "title": "Episodio 5",
+          "slotId": "ep_585",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E05.mp4"
+          }
+        },
+        {
+          "id": "s05e06",
+          "title": "Episodio 6",
+          "slotId": "ep_586",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E06.mp4"
+          }
+        },
+        {
+          "id": "s05e07",
+          "title": "Episodio 7",
+          "slotId": "ep_587",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E07.mp4"
+          }
+        },
+        {
+          "id": "s05e08",
+          "title": "Episodio 8",
+          "slotId": "ep_588",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E08.mp4"
+          }
+        },
+        {
+          "id": "s05e09",
+          "title": "Episodio 9",
+          "slotId": "ep_589",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E09.mp4"
+          }
+        },
+        {
+          "id": "s05e10",
+          "title": "Episodio 10",
+          "slotId": "ep_590",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E10.mp4"
+          }
+        },
+        {
+          "id": "s05e11",
+          "title": "Episodio 11",
+          "slotId": "ep_591",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E11.mp4"
+          }
+        },
+        {
+          "id": "s05e12",
+          "title": "Episodio 12",
+          "slotId": "ep_592",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E12.mp4"
+          }
+        },
+        {
+          "id": "s05e13",
+          "title": "Episodio 13",
+          "slotId": "ep_593",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E13.mp4"
+          }
+        },
+        {
+          "id": "s05e14",
+          "title": "Episodio 14",
+          "slotId": "ep_594",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E14.mp4"
+          }
+        },
+        {
+          "id": "s05e15",
+          "title": "Episodio 15",
+          "slotId": "ep_595",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E15.mp4"
+          }
+        },
+        {
+          "id": "s05e16",
+          "title": "Episodio 16",
+          "slotId": "ep_596",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E16.mp4"
+          }
+        },
+        {
+          "id": "s05e17",
+          "title": "Episodio 17",
+          "slotId": "ep_597",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E17.mp4"
+          }
+        },
+        {
+          "id": "s05e18",
+          "title": "Episodio 18",
+          "slotId": "ep_598",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E18.mp4"
+          }
+        },
+        {
+          "id": "s05e19",
+          "title": "Episodio 19",
+          "slotId": "ep_599",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E19.mp4"
+          }
+        },
+        {
+          "id": "s05e20",
+          "title": "Episodio 20",
+          "slotId": "ep_600",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E20.mp4"
+          }
+        },
+        {
+          "id": "s05e21",
+          "title": "Episodio 21",
+          "slotId": "ep_601",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E21.mp4"
+          }
+        },
+        {
+          "id": "s05e22",
+          "title": "Episodio 22",
+          "slotId": "ep_602",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E22.mp4"
+          }
+        },
+        {
+          "id": "s05e23",
+          "title": "Episodio 23",
+          "slotId": "ep_603",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E23.mp4"
+          }
+        },
+        {
+          "id": "s05e24",
+          "title": "Episodio 24",
+          "slotId": "ep_604",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E24.mp4"
+          }
+        },
+        {
+          "id": "s05e25",
+          "title": "Episodio 25",
+          "slotId": "ep_605",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E25.mp4"
+          }
+        },
+        {
+          "id": "s05e26",
+          "title": "Episodio 26",
+          "slotId": "ep_606",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E26.mp4"
+          }
+        },
+        {
+          "id": "s05e27",
+          "title": "Episodio 27",
+          "slotId": "ep_607",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E27.mp4"
+          }
+        },
+        {
+          "id": "s05e28",
+          "title": "Episodio 28",
+          "slotId": "ep_608",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E28.mp4"
+          }
+        },
+        {
+          "id": "s05e29",
+          "title": "Episodio 29",
+          "slotId": "ep_609",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E29.mp4"
+          }
+        },
+        {
+          "id": "s05e30",
+          "title": "Episodio 30",
+          "slotId": "ep_610",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E30.mp4"
+          }
+        },
+        {
+          "id": "s05e31",
+          "title": "Episodio 31",
+          "slotId": "ep_611",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E31.mp4"
+          }
+        },
+        {
+          "id": "s05e32",
+          "title": "Episodio 32",
+          "slotId": "ep_612",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E32.mp4"
+          }
+        },
+        {
+          "id": "s05e33",
+          "title": "Episodio 33",
+          "slotId": "ep_613",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E33.mp4"
+          }
+        },
+        {
+          "id": "s05e34",
+          "title": "Episodio 34",
+          "slotId": "ep_614",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E34.mp4"
+          }
+        },
+        {
+          "id": "s05e35",
+          "title": "Episodio 35",
+          "slotId": "ep_615",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E35.mp4"
+          }
+        },
+        {
+          "id": "s05e36",
+          "title": "Episodio 36",
+          "slotId": "ep_616",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E36.mp4"
+          }
+        },
+        {
+          "id": "s05e37",
+          "title": "Episodio 37",
+          "slotId": "ep_617",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E37.mp4"
+          }
+        },
+        {
+          "id": "s05e38",
+          "title": "Episodio 38",
+          "slotId": "ep_618",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E38.mp4"
+          }
+        },
+        {
+          "id": "s05e39",
+          "title": "Episodio 39",
+          "slotId": "ep_619",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E39.mp4"
+          }
+        },
+        {
+          "id": "s05e40",
+          "title": "Episodio 40",
+          "slotId": "ep_620",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E40.mp4"
+          }
+        },
+        {
+          "id": "s05e41",
+          "title": "Episodio 41",
+          "slotId": "ep_621",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E41.mp4"
+          }
+        },
+        {
+          "id": "s05e42",
+          "title": "Episodio 42",
+          "slotId": "ep_622",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E42.mp4"
+          }
+        },
+        {
+          "id": "s05e43",
+          "title": "Episodio 43",
+          "slotId": "ep_623",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E43.mp4"
+          }
+        },
+        {
+          "id": "s05e44",
+          "title": "Episodio 44",
+          "slotId": "ep_624",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E44.mp4"
+          }
+        },
+        {
+          "id": "s05e45",
+          "title": "Episodio 45",
+          "slotId": "ep_625",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E45.mp4"
+          }
+        },
+        {
+          "id": "s05e46",
+          "title": "Episodio 46",
+          "slotId": "ep_626",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E46.mp4"
+          }
+        },
+        {
+          "id": "s05e47",
+          "title": "Episodio 47",
+          "slotId": "ep_627",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E47.mp4"
+          }
+        },
+        {
+          "id": "s05e48",
+          "title": "Episodio 48",
+          "slotId": "ep_628",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E48.mp4"
+          }
+        },
+        {
+          "id": "s05e49",
+          "title": "Episodio 49",
+          "slotId": "ep_629",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E49.mp4"
+          }
+        },
+        {
+          "id": "s05e50",
+          "title": "Episodio 50",
+          "slotId": "ep_630",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E50.mp4"
+          }
+        },
+        {
+          "id": "s05e51",
+          "title": "Episodio 51",
+          "slotId": "ep_631",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E51.mp4"
+          }
+        },
+        {
+          "id": "s05e52",
+          "title": "Episodio 52",
+          "slotId": "ep_632",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t5/HoraDeAventura_S05E52.mp4"
           }
         }
       ],
@@ -5765,16 +6780,352 @@
       "releaseDate": "2026-04-10",
       "genres": [],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "episodes": [
         {
-          "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_450",
+          "id": "s06e01",
+          "title": "Episodio 1",
+          "slotId": "ep_633",
           "links": {
-            "language_Spanish": ""
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E01.mp4"
+          }
+        },
+        {
+          "id": "s06e02",
+          "title": "Episodio 2",
+          "slotId": "ep_634",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E02.mp4"
+          }
+        },
+        {
+          "id": "s06e03",
+          "title": "Episodio 3",
+          "slotId": "ep_635",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E03.mp4"
+          }
+        },
+        {
+          "id": "s06e04",
+          "title": "Episodio 4",
+          "slotId": "ep_636",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E04.mp4"
+          }
+        },
+        {
+          "id": "s06e05",
+          "title": "Episodio 5",
+          "slotId": "ep_637",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E05.mp4"
+          }
+        },
+        {
+          "id": "s06e06",
+          "title": "Episodio 6",
+          "slotId": "ep_638",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E06.mp4"
+          }
+        },
+        {
+          "id": "s06e07",
+          "title": "Episodio 7",
+          "slotId": "ep_639",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E07.mp4"
+          }
+        },
+        {
+          "id": "s06e08",
+          "title": "Episodio 8",
+          "slotId": "ep_640",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E08.mp4"
+          }
+        },
+        {
+          "id": "s06e09",
+          "title": "Episodio 9",
+          "slotId": "ep_641",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E09.mp4"
+          }
+        },
+        {
+          "id": "s06e10",
+          "title": "Episodio 10",
+          "slotId": "ep_642",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E10.mp4"
+          }
+        },
+        {
+          "id": "s06e11",
+          "title": "Episodio 11",
+          "slotId": "ep_643",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E11.mp4"
+          }
+        },
+        {
+          "id": "s06e12",
+          "title": "Episodio 12",
+          "slotId": "ep_644",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E12.mp4"
+          }
+        },
+        {
+          "id": "s06e13",
+          "title": "Episodio 13",
+          "slotId": "ep_645",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E13.mp4"
+          }
+        },
+        {
+          "id": "s06e14",
+          "title": "Episodio 14",
+          "slotId": "ep_646",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E14.mp4"
+          }
+        },
+        {
+          "id": "s06e15",
+          "title": "Episodio 15",
+          "slotId": "ep_647",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E15.mp4"
+          }
+        },
+        {
+          "id": "s06e16",
+          "title": "Episodio 16",
+          "slotId": "ep_648",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E16.mp4"
+          }
+        },
+        {
+          "id": "s06e17",
+          "title": "Episodio 17",
+          "slotId": "ep_649",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E17.mp4"
+          }
+        },
+        {
+          "id": "s06e18",
+          "title": "Episodio 18",
+          "slotId": "ep_650",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E18.mp4"
+          }
+        },
+        {
+          "id": "s06e19",
+          "title": "Episodio 19",
+          "slotId": "ep_651",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E19.mp4"
+          }
+        },
+        {
+          "id": "s06e20",
+          "title": "Episodio 20",
+          "slotId": "ep_652",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E20.mp4"
+          }
+        },
+        {
+          "id": "s06e21",
+          "title": "Episodio 21",
+          "slotId": "ep_653",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E21.mp4"
+          }
+        },
+        {
+          "id": "s06e22",
+          "title": "Episodio 22",
+          "slotId": "ep_654",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E22.mp4"
+          }
+        },
+        {
+          "id": "s06e23",
+          "title": "Episodio 23",
+          "slotId": "ep_655",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E23.mp4"
+          }
+        },
+        {
+          "id": "s06e24",
+          "title": "Episodio 24",
+          "slotId": "ep_656",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E24.mp4"
+          }
+        },
+        {
+          "id": "s06e25",
+          "title": "Episodio 25",
+          "slotId": "ep_657",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E25.mp4"
+          }
+        },
+        {
+          "id": "s06e26",
+          "title": "Episodio 26",
+          "slotId": "ep_658",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E26.mp4"
+          }
+        },
+        {
+          "id": "s06e27",
+          "title": "Episodio 27",
+          "slotId": "ep_659",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E27.mp4"
+          }
+        },
+        {
+          "id": "s06e28",
+          "title": "Episodio 28",
+          "slotId": "ep_660",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E28.mp4"
+          }
+        },
+        {
+          "id": "s06e29",
+          "title": "Episodio 29",
+          "slotId": "ep_661",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E29.mp4"
+          }
+        },
+        {
+          "id": "s06e30",
+          "title": "Episodio 30",
+          "slotId": "ep_662",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E30.mp4"
+          }
+        },
+        {
+          "id": "s06e31",
+          "title": "Episodio 31",
+          "slotId": "ep_663",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E31.mp4"
+          }
+        },
+        {
+          "id": "s06e32",
+          "title": "Episodio 32",
+          "slotId": "ep_664",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E32.mp4"
+          }
+        },
+        {
+          "id": "s06e33",
+          "title": "Episodio 33",
+          "slotId": "ep_665",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E33.mp4"
+          }
+        },
+        {
+          "id": "s06e34",
+          "title": "Episodio 34",
+          "slotId": "ep_666",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E34.mp4"
+          }
+        },
+        {
+          "id": "s06e35",
+          "title": "Episodio 35",
+          "slotId": "ep_667",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E35.mp4"
+          }
+        },
+        {
+          "id": "s06e36",
+          "title": "Episodio 36",
+          "slotId": "ep_668",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E36.mp4"
+          }
+        },
+        {
+          "id": "s06e37",
+          "title": "Episodio 37",
+          "slotId": "ep_669",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E37.mp4"
+          }
+        },
+        {
+          "id": "s06e38",
+          "title": "Episodio 38",
+          "slotId": "ep_670",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E38.mp4"
+          }
+        },
+        {
+          "id": "s06e39",
+          "title": "Episodio 39",
+          "slotId": "ep_671",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E39.mp4"
+          }
+        },
+        {
+          "id": "s06e40",
+          "title": "Episodio 40",
+          "slotId": "ep_672",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E40.mp4"
+          }
+        },
+        {
+          "id": "s06e41",
+          "title": "Episodio 41",
+          "slotId": "ep_673",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E41.mp4"
+          }
+        },
+        {
+          "id": "s06e42",
+          "title": "Episodio 42",
+          "slotId": "ep_674",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E42.mp4"
+          }
+        },
+        {
+          "id": "s06e43",
+          "title": "Episodio 43",
+          "slotId": "ep_675",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t6/HoraDeAventura_S06E43.mp4"
           }
         }
       ],
@@ -5796,16 +7147,216 @@
       "releaseDate": "2026-04-10",
       "genres": [],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "episodes": [
         {
-          "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_451",
+          "id": "s07e01",
+          "title": "Episodio 1",
+          "slotId": "ep_676",
           "links": {
-            "language_Spanish": ""
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E01.mp4"
+          }
+        },
+        {
+          "id": "s07e02",
+          "title": "Episodio 2",
+          "slotId": "ep_677",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E02.mp4"
+          }
+        },
+        {
+          "id": "s07e03",
+          "title": "Episodio 3",
+          "slotId": "ep_678",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E03.mp4"
+          }
+        },
+        {
+          "id": "s07e04",
+          "title": "Episodio 4",
+          "slotId": "ep_679",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E04.mp4"
+          }
+        },
+        {
+          "id": "s07e05",
+          "title": "Episodio 5",
+          "slotId": "ep_680",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E05.mp4"
+          }
+        },
+        {
+          "id": "s07e06",
+          "title": "Episodio 6",
+          "slotId": "ep_681",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E06.mp4"
+          }
+        },
+        {
+          "id": "s07e07",
+          "title": "Episodio 7",
+          "slotId": "ep_682",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E07.mp4"
+          }
+        },
+        {
+          "id": "s07e08",
+          "title": "Episodio 8",
+          "slotId": "ep_683",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E08.mp4"
+          }
+        },
+        {
+          "id": "s07e09",
+          "title": "Episodio 9",
+          "slotId": "ep_684",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E09.mp4"
+          }
+        },
+        {
+          "id": "s07e10",
+          "title": "Episodio 10",
+          "slotId": "ep_685",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E10.mp4"
+          }
+        },
+        {
+          "id": "s07e11",
+          "title": "Episodio 11",
+          "slotId": "ep_686",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E11.mp4"
+          }
+        },
+        {
+          "id": "s07e12",
+          "title": "Episodio 12",
+          "slotId": "ep_687",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E12.mp4"
+          }
+        },
+        {
+          "id": "s07e13",
+          "title": "Episodio 13",
+          "slotId": "ep_688",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E13.mp4"
+          }
+        },
+        {
+          "id": "s07e14",
+          "title": "Episodio 14",
+          "slotId": "ep_689",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E14.mp4"
+          }
+        },
+        {
+          "id": "s07e15",
+          "title": "Episodio 15",
+          "slotId": "ep_690",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E15.mp4"
+          }
+        },
+        {
+          "id": "s07e16",
+          "title": "Episodio 16",
+          "slotId": "ep_691",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E16.mp4"
+          }
+        },
+        {
+          "id": "s07e17",
+          "title": "Episodio 17",
+          "slotId": "ep_692",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E17.mp4"
+          }
+        },
+        {
+          "id": "s07e18",
+          "title": "Episodio 18",
+          "slotId": "ep_693",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E18.mp4"
+          }
+        },
+        {
+          "id": "s07e19",
+          "title": "Episodio 19",
+          "slotId": "ep_694",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E19.mp4"
+          }
+        },
+        {
+          "id": "s07e20",
+          "title": "Episodio 20",
+          "slotId": "ep_695",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E20.mp4"
+          }
+        },
+        {
+          "id": "s07e21",
+          "title": "Episodio 21",
+          "slotId": "ep_696",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E21.mp4"
+          }
+        },
+        {
+          "id": "s07e22",
+          "title": "Episodio 22",
+          "slotId": "ep_697",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E22.mp4"
+          }
+        },
+        {
+          "id": "s07e23",
+          "title": "Episodio 23",
+          "slotId": "ep_698",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E23.mp4"
+          }
+        },
+        {
+          "id": "s07e24",
+          "title": "Episodio 24",
+          "slotId": "ep_699",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E24.mp4"
+          }
+        },
+        {
+          "id": "s07e25",
+          "title": "Episodio 25",
+          "slotId": "ep_700",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E25.mp4"
+          }
+        },
+        {
+          "id": "s07e26",
+          "title": "Episodio 26",
+          "slotId": "ep_701",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t7/HoraDeAventura_S07E26.mp4"
           }
         }
       ],
@@ -5827,16 +7378,224 @@
       "releaseDate": "2026-04-10",
       "genres": [],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "episodes": [
         {
-          "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_452",
+          "id": "s08e01",
+          "title": "Episodio 1",
+          "slotId": "ep_702",
           "links": {
-            "language_Spanish": ""
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E01.mp4"
+          }
+        },
+        {
+          "id": "s08e02",
+          "title": "Episodio 2",
+          "slotId": "ep_703",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E02.mp4"
+          }
+        },
+        {
+          "id": "s08e03",
+          "title": "Episodio 3",
+          "slotId": "ep_704",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E03.mp4"
+          }
+        },
+        {
+          "id": "s08e04",
+          "title": "Episodio 4",
+          "slotId": "ep_705",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E04.mp4"
+          }
+        },
+        {
+          "id": "s08e05",
+          "title": "Episodio 5",
+          "slotId": "ep_706",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E05.mp4"
+          }
+        },
+        {
+          "id": "s08e06",
+          "title": "Episodio 6",
+          "slotId": "ep_707",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E06.mp4"
+          }
+        },
+        {
+          "id": "s08e07",
+          "title": "Episodio 7",
+          "slotId": "ep_708",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E07.mp4"
+          }
+        },
+        {
+          "id": "s08e08",
+          "title": "Episodio 8",
+          "slotId": "ep_709",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E08.mp4"
+          }
+        },
+        {
+          "id": "s08e09",
+          "title": "Episodio 9",
+          "slotId": "ep_710",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E09.mp4"
+          }
+        },
+        {
+          "id": "s08e10",
+          "title": "Episodio 10",
+          "slotId": "ep_711",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E10.mp4"
+          }
+        },
+        {
+          "id": "s08e11",
+          "title": "Episodio 11",
+          "slotId": "ep_712",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E11.mp4"
+          }
+        },
+        {
+          "id": "s08e12",
+          "title": "Episodio 12",
+          "slotId": "ep_713",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E12.mp4"
+          }
+        },
+        {
+          "id": "s08e13",
+          "title": "Episodio 13",
+          "slotId": "ep_714",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E13.mp4"
+          }
+        },
+        {
+          "id": "s08e14",
+          "title": "Episodio 14",
+          "slotId": "ep_715",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E14.mp4"
+          }
+        },
+        {
+          "id": "s08e15",
+          "title": "Episodio 15",
+          "slotId": "ep_716",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E15.mp4"
+          }
+        },
+        {
+          "id": "s08e16",
+          "title": "Episodio 16",
+          "slotId": "ep_717",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E16.mp4"
+          }
+        },
+        {
+          "id": "s08e17",
+          "title": "Episodio 17",
+          "slotId": "ep_718",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E17.mp4"
+          }
+        },
+        {
+          "id": "s08e18",
+          "title": "Episodio 18",
+          "slotId": "ep_719",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E18.mp4"
+          }
+        },
+        {
+          "id": "s08e19",
+          "title": "Episodio 19",
+          "slotId": "ep_720",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E19.mp4"
+          }
+        },
+        {
+          "id": "s08e20",
+          "title": "Episodio 20",
+          "slotId": "ep_721",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E20.mp4"
+          }
+        },
+        {
+          "id": "s08e21",
+          "title": "Episodio 21",
+          "slotId": "ep_722",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E21.mp4"
+          }
+        },
+        {
+          "id": "s08e22",
+          "title": "Episodio 22",
+          "slotId": "ep_723",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E22.mp4"
+          }
+        },
+        {
+          "id": "s08e23",
+          "title": "Episodio 23",
+          "slotId": "ep_724",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E23.mp4"
+          }
+        },
+        {
+          "id": "s08e24",
+          "title": "Episodio 24",
+          "slotId": "ep_725",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E24.mp4"
+          }
+        },
+        {
+          "id": "s08e25",
+          "title": "Episodio 25",
+          "slotId": "ep_726",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E25.mp4"
+          }
+        },
+        {
+          "id": "s08e26",
+          "title": "Episodio 26",
+          "slotId": "ep_727",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E26.mp4"
+          }
+        },
+        {
+          "id": "s08e27",
+          "title": "Episodio 27",
+          "slotId": "ep_728",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t8/HoraDeAventura_S08E27.mp4"
           }
         }
       ],
@@ -5858,16 +7617,120 @@
       "releaseDate": "2026-04-10",
       "genres": [],
       "languages": [
-        "Spanish"
+        "language_Spanish"
       ],
       "enabled": true,
       "episodes": [
         {
-          "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_453",
+          "id": "s09e01",
+          "title": "Episodio 1",
+          "slotId": "ep_729",
           "links": {
-            "language_Spanish": ""
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t9/HoraDeAventura_S09E01.mp4"
+          }
+        },
+        {
+          "id": "s09e02",
+          "title": "Episodio 2",
+          "slotId": "ep_730",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t9/HoraDeAventura_S09E02.mp4"
+          }
+        },
+        {
+          "id": "s09e03",
+          "title": "Episodio 3",
+          "slotId": "ep_731",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t9/HoraDeAventura_S09E03.mp4"
+          }
+        },
+        {
+          "id": "s09e04",
+          "title": "Episodio 4",
+          "slotId": "ep_732",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t9/HoraDeAventura_S09E04.mp4"
+          }
+        },
+        {
+          "id": "s09e05",
+          "title": "Episodio 5",
+          "slotId": "ep_733",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t9/HoraDeAventura_S09E05.mp4"
+          }
+        },
+        {
+          "id": "s09e06",
+          "title": "Episodio 6",
+          "slotId": "ep_734",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t9/HoraDeAventura_S09E06.mp4"
+          }
+        },
+        {
+          "id": "s09e07",
+          "title": "Episodio 7",
+          "slotId": "ep_735",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t9/HoraDeAventura_S09E07.mp4"
+          }
+        },
+        {
+          "id": "s09e08",
+          "title": "Episodio 8",
+          "slotId": "ep_736",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t9/HoraDeAventura_S09E08.mp4"
+          }
+        },
+        {
+          "id": "s09e09",
+          "title": "Episodio 9",
+          "slotId": "ep_737",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t9/HoraDeAventura_S09E09.mp4"
+          }
+        },
+        {
+          "id": "s09e10",
+          "title": "Episodio 10",
+          "slotId": "ep_738",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t9/HoraDeAventura_S09E10.mp4"
+          }
+        },
+        {
+          "id": "s09e11",
+          "title": "Episodio 11",
+          "slotId": "ep_739",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t9/HoraDeAventura_S09E11.mp4"
+          }
+        },
+        {
+          "id": "s09e12",
+          "title": "Episodio 12",
+          "slotId": "ep_740",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t9/HoraDeAventura_S09E12.mp4"
+          }
+        },
+        {
+          "id": "s09e13",
+          "title": "Episodio 13",
+          "slotId": "ep_741",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t9/HoraDeAventura_S09E13.mp4"
+          }
+        },
+        {
+          "id": "s09e14",
+          "title": "Episodio 14",
+          "slotId": "ep_742",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/HoraDeAventura/t9/HoraDeAventura_S09E14.mp4"
           }
         }
       ],
@@ -5896,7 +7759,7 @@
         {
           "id": "s01e01",
           "title": "Episodio 1",
-          "slotId": "ep_502",
+          "slotId": "ep_743",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E01.mkv"
           }
@@ -5904,7 +7767,7 @@
         {
           "id": "s01e02",
           "title": "Episodio 2",
-          "slotId": "ep_503",
+          "slotId": "ep_744",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E02.mp4"
           }
@@ -5912,7 +7775,7 @@
         {
           "id": "s01e03",
           "title": "Episodio 3",
-          "slotId": "ep_504",
+          "slotId": "ep_745",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E03.mp4"
           }
@@ -5920,7 +7783,7 @@
         {
           "id": "s01e04",
           "title": "Episodio 4",
-          "slotId": "ep_505",
+          "slotId": "ep_746",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E04.mp4"
           }
@@ -5928,7 +7791,7 @@
         {
           "id": "s01e05",
           "title": "Episodio 5",
-          "slotId": "ep_506",
+          "slotId": "ep_747",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E05.mp4"
           }
@@ -5936,7 +7799,7 @@
         {
           "id": "s01e06",
           "title": "Episodio 6",
-          "slotId": "ep_507",
+          "slotId": "ep_748",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E06.mp4"
           }
@@ -5944,7 +7807,7 @@
         {
           "id": "s01e07",
           "title": "Episodio 7",
-          "slotId": "ep_508",
+          "slotId": "ep_749",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E07.mp4"
           }
@@ -5952,7 +7815,7 @@
         {
           "id": "s01e08",
           "title": "Episodio 8",
-          "slotId": "ep_509",
+          "slotId": "ep_750",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E08.mp4"
           }
@@ -5960,7 +7823,7 @@
         {
           "id": "s01e09",
           "title": "Episodio 9",
-          "slotId": "ep_510",
+          "slotId": "ep_751",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E09.mp4"
           }
@@ -5968,7 +7831,7 @@
         {
           "id": "s01e10",
           "title": "Episodio 10",
-          "slotId": "ep_511",
+          "slotId": "ep_752",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E10.mp4"
           }
@@ -5976,7 +7839,7 @@
         {
           "id": "s01e11",
           "title": "Episodio 11",
-          "slotId": "ep_512",
+          "slotId": "ep_753",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E11.mp4"
           }
@@ -5984,7 +7847,7 @@
         {
           "id": "s01e12",
           "title": "Episodio 12",
-          "slotId": "ep_513",
+          "slotId": "ep_754",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E12.mp4"
           }
@@ -5992,7 +7855,7 @@
         {
           "id": "s01e13",
           "title": "Episodio 13",
-          "slotId": "ep_514",
+          "slotId": "ep_755",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E13.mp4"
           }
@@ -6000,7 +7863,7 @@
         {
           "id": "s01e14",
           "title": "Episodio 14",
-          "slotId": "ep_515",
+          "slotId": "ep_756",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E14.mp4"
           }
@@ -6008,7 +7871,7 @@
         {
           "id": "s01e15",
           "title": "Episodio 15",
-          "slotId": "ep_516",
+          "slotId": "ep_757",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E15.mp4"
           }
@@ -6016,7 +7879,7 @@
         {
           "id": "s01e16",
           "title": "Episodio 16",
-          "slotId": "ep_517",
+          "slotId": "ep_758",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E16.mp4"
           }
@@ -6024,7 +7887,7 @@
         {
           "id": "s01e17",
           "title": "Episodio 17",
-          "slotId": "ep_518",
+          "slotId": "ep_759",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E17.mp4"
           }
@@ -6032,7 +7895,7 @@
         {
           "id": "s01e18",
           "title": "Episodio 18",
-          "slotId": "ep_519",
+          "slotId": "ep_760",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E18.mp4"
           }
@@ -6040,7 +7903,7 @@
         {
           "id": "s01e19",
           "title": "Episodio 19",
-          "slotId": "ep_520",
+          "slotId": "ep_761",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E19.mp4"
           }
@@ -6048,7 +7911,7 @@
         {
           "id": "s01e20",
           "title": "Episodio 20",
-          "slotId": "ep_521",
+          "slotId": "ep_762",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E20.mp4"
           }
@@ -6056,7 +7919,7 @@
         {
           "id": "s01e21",
           "title": "Episodio 21",
-          "slotId": "ep_522",
+          "slotId": "ep_763",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E21.mp4"
           }
@@ -6064,7 +7927,7 @@
         {
           "id": "s01e22",
           "title": "Episodio 22",
-          "slotId": "ep_523",
+          "slotId": "ep_764",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E22.mp4"
           }
@@ -6072,7 +7935,7 @@
         {
           "id": "s01e23",
           "title": "Episodio 23",
-          "slotId": "ep_524",
+          "slotId": "ep_765",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E23.mp4"
           }
@@ -6080,7 +7943,7 @@
         {
           "id": "s01e24",
           "title": "Episodio 24",
-          "slotId": "ep_525",
+          "slotId": "ep_766",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E24.mp4"
           }
@@ -6088,7 +7951,7 @@
         {
           "id": "s01e25",
           "title": "Episodio 25",
-          "slotId": "ep_526",
+          "slotId": "ep_767",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E25.mp4"
           }
@@ -6096,7 +7959,7 @@
         {
           "id": "s01e26",
           "title": "Episodio 26",
-          "slotId": "ep_527",
+          "slotId": "ep_768",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E26.mp4"
           }
@@ -6104,7 +7967,7 @@
         {
           "id": "s01e27",
           "title": "Episodio 27",
-          "slotId": "ep_528",
+          "slotId": "ep_769",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E27.mp4"
           }
@@ -6112,7 +7975,7 @@
         {
           "id": "s01e28",
           "title": "Episodio 28",
-          "slotId": "ep_529",
+          "slotId": "ep_770",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E28.mp4"
           }
@@ -6120,7 +7983,7 @@
         {
           "id": "s01e29",
           "title": "Episodio 29",
-          "slotId": "ep_530",
+          "slotId": "ep_771",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E29.mp4"
           }
@@ -6128,7 +7991,7 @@
         {
           "id": "s01e30",
           "title": "Episodio 30",
-          "slotId": "ep_531",
+          "slotId": "ep_772",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E30.mkv"
           }
@@ -6136,7 +7999,7 @@
         {
           "id": "s01e31",
           "title": "Episodio 31",
-          "slotId": "ep_532",
+          "slotId": "ep_773",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E31.mp4"
           }
@@ -6144,7 +8007,7 @@
         {
           "id": "s01e32",
           "title": "Episodio 32",
-          "slotId": "ep_533",
+          "slotId": "ep_774",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E32.mp4"
           }
@@ -6152,7 +8015,7 @@
         {
           "id": "s01e33",
           "title": "Episodio 33",
-          "slotId": "ep_534",
+          "slotId": "ep_775",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E33.mp4"
           }
@@ -6160,7 +8023,7 @@
         {
           "id": "s01e34",
           "title": "Episodio 34",
-          "slotId": "ep_535",
+          "slotId": "ep_776",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E34.mp4"
           }
@@ -6168,7 +8031,7 @@
         {
           "id": "s01e35",
           "title": "Episodio 35",
-          "slotId": "ep_536",
+          "slotId": "ep_777",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E35.mp4"
           }
@@ -6176,7 +8039,7 @@
         {
           "id": "s01e36",
           "title": "Episodio 36",
-          "slotId": "ep_537",
+          "slotId": "ep_778",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E36.mp4"
           }
@@ -6184,7 +8047,7 @@
         {
           "id": "s01e37",
           "title": "Episodio 37",
-          "slotId": "ep_538",
+          "slotId": "ep_779",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E37.mp4"
           }
@@ -6192,7 +8055,7 @@
         {
           "id": "s01e38",
           "title": "Episodio 38",
-          "slotId": "ep_539",
+          "slotId": "ep_780",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E38.mp4"
           }
@@ -6200,7 +8063,7 @@
         {
           "id": "s01e39",
           "title": "Episodio 39",
-          "slotId": "ep_540",
+          "slotId": "ep_781",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E39.mp4"
           }
@@ -6208,7 +8071,7 @@
         {
           "id": "s01e40",
           "title": "Episodio 40",
-          "slotId": "ep_541",
+          "slotId": "ep_782",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E40.mp4"
           }
@@ -6216,7 +8079,7 @@
         {
           "id": "s01e41",
           "title": "Episodio 41",
-          "slotId": "ep_542",
+          "slotId": "ep_783",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t1/Gumball_S01E41.mp4"
           }
@@ -6247,7 +8110,7 @@
         {
           "id": "s02e01",
           "title": "Episodio 1",
-          "slotId": "ep_543",
+          "slotId": "ep_784",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E01.mkv"
           }
@@ -6255,7 +8118,7 @@
         {
           "id": "s02e02",
           "title": "Episodio 2",
-          "slotId": "ep_544",
+          "slotId": "ep_785",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E02.mkv"
           }
@@ -6263,7 +8126,7 @@
         {
           "id": "s02e03",
           "title": "Episodio 3",
-          "slotId": "ep_545",
+          "slotId": "ep_786",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E03.mkv"
           }
@@ -6271,7 +8134,7 @@
         {
           "id": "s02e04",
           "title": "Episodio 4",
-          "slotId": "ep_546",
+          "slotId": "ep_787",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E04.mp4"
           }
@@ -6279,7 +8142,7 @@
         {
           "id": "s02e05",
           "title": "Episodio 5",
-          "slotId": "ep_547",
+          "slotId": "ep_788",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E05.mkv"
           }
@@ -6287,7 +8150,7 @@
         {
           "id": "s02e06",
           "title": "Episodio 6",
-          "slotId": "ep_548",
+          "slotId": "ep_789",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E06.mp4"
           }
@@ -6295,7 +8158,7 @@
         {
           "id": "s02e07",
           "title": "Episodio 7",
-          "slotId": "ep_549",
+          "slotId": "ep_790",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E07.mkv"
           }
@@ -6303,7 +8166,7 @@
         {
           "id": "s02e08",
           "title": "Episodio 8",
-          "slotId": "ep_550",
+          "slotId": "ep_791",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E08.mp4"
           }
@@ -6311,7 +8174,7 @@
         {
           "id": "s02e09",
           "title": "Episodio 9",
-          "slotId": "ep_551",
+          "slotId": "ep_792",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E09.mkv"
           }
@@ -6319,7 +8182,7 @@
         {
           "id": "s02e10",
           "title": "Episodio 10",
-          "slotId": "ep_552",
+          "slotId": "ep_793",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E10.mkv"
           }
@@ -6327,7 +8190,7 @@
         {
           "id": "s02e11",
           "title": "Episodio 11",
-          "slotId": "ep_553",
+          "slotId": "ep_794",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E11.mkv"
           }
@@ -6335,7 +8198,7 @@
         {
           "id": "s02e12",
           "title": "Episodio 12",
-          "slotId": "ep_554",
+          "slotId": "ep_795",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E12.mkv"
           }
@@ -6343,7 +8206,7 @@
         {
           "id": "s02e13",
           "title": "Episodio 13",
-          "slotId": "ep_555",
+          "slotId": "ep_796",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E13.mkv"
           }
@@ -6351,7 +8214,7 @@
         {
           "id": "s02e14",
           "title": "Episodio 14",
-          "slotId": "ep_556",
+          "slotId": "ep_797",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E14.mp4"
           }
@@ -6359,7 +8222,7 @@
         {
           "id": "s02e15",
           "title": "Episodio 15",
-          "slotId": "ep_557",
+          "slotId": "ep_798",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E15.mkv"
           }
@@ -6367,7 +8230,7 @@
         {
           "id": "s02e16",
           "title": "Episodio 16",
-          "slotId": "ep_558",
+          "slotId": "ep_799",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E16.mp4"
           }
@@ -6375,7 +8238,7 @@
         {
           "id": "s02e17",
           "title": "Episodio 17",
-          "slotId": "ep_559",
+          "slotId": "ep_800",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E17.mp4"
           }
@@ -6383,7 +8246,7 @@
         {
           "id": "s02e18",
           "title": "Episodio 18",
-          "slotId": "ep_560",
+          "slotId": "ep_801",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E18.mp4"
           }
@@ -6391,7 +8254,7 @@
         {
           "id": "s02e19",
           "title": "Episodio 19",
-          "slotId": "ep_561",
+          "slotId": "ep_802",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E19.mp4"
           }
@@ -6399,7 +8262,7 @@
         {
           "id": "s02e20",
           "title": "Episodio 20",
-          "slotId": "ep_562",
+          "slotId": "ep_803",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t2/Gumball_S02E20.mp4"
           }
@@ -6430,7 +8293,7 @@
         {
           "id": "s04e01",
           "title": "Episodio 1",
-          "slotId": "ep_563",
+          "slotId": "ep_804",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E01.mp4"
           }
@@ -6438,7 +8301,7 @@
         {
           "id": "s04e02",
           "title": "Episodio 2",
-          "slotId": "ep_564",
+          "slotId": "ep_805",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E02.mp4"
           }
@@ -6446,7 +8309,7 @@
         {
           "id": "s04e03",
           "title": "Episodio 3",
-          "slotId": "ep_565",
+          "slotId": "ep_806",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E03.mp4"
           }
@@ -6454,7 +8317,7 @@
         {
           "id": "s04e04",
           "title": "Episodio 4",
-          "slotId": "ep_566",
+          "slotId": "ep_807",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E04.mp4"
           }
@@ -6462,7 +8325,7 @@
         {
           "id": "s04e05",
           "title": "Episodio 5",
-          "slotId": "ep_567",
+          "slotId": "ep_808",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E05.mp4"
           }
@@ -6470,7 +8333,7 @@
         {
           "id": "s04e06",
           "title": "Episodio 6",
-          "slotId": "ep_568",
+          "slotId": "ep_809",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E06.mp4"
           }
@@ -6478,7 +8341,7 @@
         {
           "id": "s04e07",
           "title": "Episodio 7",
-          "slotId": "ep_569",
+          "slotId": "ep_810",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E07.mp4"
           }
@@ -6486,7 +8349,7 @@
         {
           "id": "s04e08",
           "title": "Episodio 8",
-          "slotId": "ep_570",
+          "slotId": "ep_811",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E08.mp4"
           }
@@ -6494,7 +8357,7 @@
         {
           "id": "s04e09",
           "title": "Episodio 9",
-          "slotId": "ep_571",
+          "slotId": "ep_812",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E09.mp4"
           }
@@ -6502,7 +8365,7 @@
         {
           "id": "s04e10",
           "title": "Episodio 10",
-          "slotId": "ep_572",
+          "slotId": "ep_813",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E10.mp4"
           }
@@ -6510,7 +8373,7 @@
         {
           "id": "s04e11",
           "title": "Episodio 11",
-          "slotId": "ep_573",
+          "slotId": "ep_814",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E11.mp4"
           }
@@ -6518,7 +8381,7 @@
         {
           "id": "s04e12",
           "title": "Episodio 12",
-          "slotId": "ep_574",
+          "slotId": "ep_815",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E12.mp4"
           }
@@ -6526,7 +8389,7 @@
         {
           "id": "s04e13",
           "title": "Episodio 13",
-          "slotId": "ep_575",
+          "slotId": "ep_816",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E13.mp4"
           }
@@ -6534,7 +8397,7 @@
         {
           "id": "s04e14",
           "title": "Episodio 14",
-          "slotId": "ep_576",
+          "slotId": "ep_817",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E14.mp4"
           }
@@ -6542,7 +8405,7 @@
         {
           "id": "s04e15",
           "title": "Episodio 15",
-          "slotId": "ep_577",
+          "slotId": "ep_818",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E15.mp4"
           }
@@ -6550,7 +8413,7 @@
         {
           "id": "s04e16",
           "title": "Episodio 16",
-          "slotId": "ep_578",
+          "slotId": "ep_819",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E16.mp4"
           }
@@ -6558,7 +8421,7 @@
         {
           "id": "s04e17",
           "title": "Episodio 17",
-          "slotId": "ep_579",
+          "slotId": "ep_820",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E17.mp4"
           }
@@ -6566,7 +8429,7 @@
         {
           "id": "s04e18",
           "title": "Episodio 18",
-          "slotId": "ep_580",
+          "slotId": "ep_821",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E18.mp4"
           }
@@ -6574,7 +8437,7 @@
         {
           "id": "s04e19",
           "title": "Episodio 19",
-          "slotId": "ep_581",
+          "slotId": "ep_822",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E19.mp4"
           }
@@ -6582,7 +8445,7 @@
         {
           "id": "s04e20",
           "title": "Episodio 20",
-          "slotId": "ep_582",
+          "slotId": "ep_823",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t4/Gumball_S04E20.mp4"
           }
@@ -6613,7 +8476,7 @@
         {
           "id": "s06e01",
           "title": "Episodio 1",
-          "slotId": "ep_583",
+          "slotId": "ep_824",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E01.mp4"
           }
@@ -6621,7 +8484,7 @@
         {
           "id": "s06e02",
           "title": "Episodio 2",
-          "slotId": "ep_584",
+          "slotId": "ep_825",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E02.mp4"
           }
@@ -6629,7 +8492,7 @@
         {
           "id": "s06e03",
           "title": "Episodio 3",
-          "slotId": "ep_585",
+          "slotId": "ep_826",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E03.mp4"
           }
@@ -6637,7 +8500,7 @@
         {
           "id": "s06e04",
           "title": "Episodio 4",
-          "slotId": "ep_586",
+          "slotId": "ep_827",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E04.mp4"
           }
@@ -6645,7 +8508,7 @@
         {
           "id": "s06e05",
           "title": "Episodio 5",
-          "slotId": "ep_587",
+          "slotId": "ep_828",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E05.mp4"
           }
@@ -6653,7 +8516,7 @@
         {
           "id": "s06e06",
           "title": "Episodio 6",
-          "slotId": "ep_588",
+          "slotId": "ep_829",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E06.mp4"
           }
@@ -6661,7 +8524,7 @@
         {
           "id": "s06e07",
           "title": "Episodio 7",
-          "slotId": "ep_589",
+          "slotId": "ep_830",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E07.mp4"
           }
@@ -6669,7 +8532,7 @@
         {
           "id": "s06e08",
           "title": "Episodio 8",
-          "slotId": "ep_590",
+          "slotId": "ep_831",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E08.mp4"
           }
@@ -6677,7 +8540,7 @@
         {
           "id": "s06e09",
           "title": "Episodio 9",
-          "slotId": "ep_591",
+          "slotId": "ep_832",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E09.mp4"
           }
@@ -6685,7 +8548,7 @@
         {
           "id": "s06e10",
           "title": "Episodio 10",
-          "slotId": "ep_592",
+          "slotId": "ep_833",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E10.mp4"
           }
@@ -6693,7 +8556,7 @@
         {
           "id": "s06e11",
           "title": "Episodio 11",
-          "slotId": "ep_593",
+          "slotId": "ep_834",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E11.mp4"
           }
@@ -6701,7 +8564,7 @@
         {
           "id": "s06e12",
           "title": "Episodio 12",
-          "slotId": "ep_594",
+          "slotId": "ep_835",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E12.mp4"
           }
@@ -6709,7 +8572,7 @@
         {
           "id": "s06e13",
           "title": "Episodio 13",
-          "slotId": "ep_595",
+          "slotId": "ep_836",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E13.mp4"
           }
@@ -6717,7 +8580,7 @@
         {
           "id": "s06e14",
           "title": "Episodio 14",
-          "slotId": "ep_596",
+          "slotId": "ep_837",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E14.mp4"
           }
@@ -6725,7 +8588,7 @@
         {
           "id": "s06e15",
           "title": "Episodio 15",
-          "slotId": "ep_597",
+          "slotId": "ep_838",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E15.mp4"
           }
@@ -6733,7 +8596,7 @@
         {
           "id": "s06e16",
           "title": "Episodio 16",
-          "slotId": "ep_598",
+          "slotId": "ep_839",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E16.mp4"
           }
@@ -6741,7 +8604,7 @@
         {
           "id": "s06e17",
           "title": "Episodio 17",
-          "slotId": "ep_599",
+          "slotId": "ep_840",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E17.mp4"
           }
@@ -6749,7 +8612,7 @@
         {
           "id": "s06e18",
           "title": "Episodio 18",
-          "slotId": "ep_600",
+          "slotId": "ep_841",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E18.mp4"
           }
@@ -6757,7 +8620,7 @@
         {
           "id": "s06e19",
           "title": "Episodio 19",
-          "slotId": "ep_601",
+          "slotId": "ep_842",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E19.mp4"
           }
@@ -6765,7 +8628,7 @@
         {
           "id": "s06e20",
           "title": "Episodio 20",
-          "slotId": "ep_602",
+          "slotId": "ep_843",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E20.mp4"
           }
@@ -6773,7 +8636,7 @@
         {
           "id": "s06e21",
           "title": "Episodio 21",
-          "slotId": "ep_603",
+          "slotId": "ep_844",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E21.mp4"
           }
@@ -6781,7 +8644,7 @@
         {
           "id": "s06e22",
           "title": "Episodio 22",
-          "slotId": "ep_604",
+          "slotId": "ep_845",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/Gumball/t6/Gumball_S06E22.mp4"
           }
@@ -6812,7 +8675,7 @@
         {
           "id": "s01e01",
           "title": "Episodio 1",
-          "slotId": "ep_605",
+          "slotId": "ep_846",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E01.mp4"
           }
@@ -6820,7 +8683,7 @@
         {
           "id": "s01e02",
           "title": "Episodio 2",
-          "slotId": "ep_606",
+          "slotId": "ep_847",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E02.mp4"
           }
@@ -6828,7 +8691,7 @@
         {
           "id": "s01e03",
           "title": "Episodio 3",
-          "slotId": "ep_607",
+          "slotId": "ep_848",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E03.mp4"
           }
@@ -6836,7 +8699,7 @@
         {
           "id": "s01e04",
           "title": "Episodio 4",
-          "slotId": "ep_608",
+          "slotId": "ep_849",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E04.mp4"
           }
@@ -6844,7 +8707,7 @@
         {
           "id": "s01e05",
           "title": "Episodio 5",
-          "slotId": "ep_609",
+          "slotId": "ep_850",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E05.mp4"
           }
@@ -6852,7 +8715,7 @@
         {
           "id": "s01e06",
           "title": "Episodio 6",
-          "slotId": "ep_610",
+          "slotId": "ep_851",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E06.mp4"
           }
@@ -6860,7 +8723,7 @@
         {
           "id": "s01e07",
           "title": "Episodio 7",
-          "slotId": "ep_611",
+          "slotId": "ep_852",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E07.mp4"
           }
@@ -6868,7 +8731,7 @@
         {
           "id": "s01e08",
           "title": "Episodio 8",
-          "slotId": "ep_612",
+          "slotId": "ep_853",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E08.mp4"
           }
@@ -6876,7 +8739,7 @@
         {
           "id": "s01e09",
           "title": "Episodio 9",
-          "slotId": "ep_613",
+          "slotId": "ep_854",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E09.mp4"
           }
@@ -6884,7 +8747,7 @@
         {
           "id": "s01e10",
           "title": "Episodio 10",
-          "slotId": "ep_614",
+          "slotId": "ep_855",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E10.mp4"
           }
@@ -6892,7 +8755,7 @@
         {
           "id": "s01e11",
           "title": "Episodio 11",
-          "slotId": "ep_615",
+          "slotId": "ep_856",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E11.mp4"
           }
@@ -6900,7 +8763,7 @@
         {
           "id": "s01e12",
           "title": "Episodio 12",
-          "slotId": "ep_616",
+          "slotId": "ep_857",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E12.mp4"
           }
@@ -6908,7 +8771,7 @@
         {
           "id": "s01e13",
           "title": "Episodio 13",
-          "slotId": "ep_617",
+          "slotId": "ep_858",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/GoblinSlayer/t1/GoblinSlayer_S01E13.mp4"
           }
@@ -6939,7 +8802,7 @@
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_459",
+          "slotId": "ep_859",
           "links": {
             "language_Spanish": ""
           }
@@ -6965,7 +8828,7 @@
         {
           "id": "s10e01",
           "title": "Episodio 1",
-          "slotId": "ep_618",
+          "slotId": "ep_860",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/invencible/T1/invencible_S10E01.mp4"
           }
@@ -6973,7 +8836,7 @@
         {
           "id": "s10e02",
           "title": "Episodio 2",
-          "slotId": "ep_619",
+          "slotId": "ep_861",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/invencible/T1/invencible_S10E02.mp4"
           }
@@ -6981,7 +8844,7 @@
         {
           "id": "s10e03",
           "title": "Episodio 3",
-          "slotId": "ep_620",
+          "slotId": "ep_862",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/invencible/T1/invencible_S10E03.mp4"
           }
@@ -6989,7 +8852,7 @@
         {
           "id": "s10e04",
           "title": "Episodio 4",
-          "slotId": "ep_621",
+          "slotId": "ep_863",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/invencible/T1/invencible_S10E04.mp4"
           }
@@ -6997,7 +8860,7 @@
         {
           "id": "s10e05",
           "title": "Episodio 5",
-          "slotId": "ep_622",
+          "slotId": "ep_864",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/invencible/T1/invencible_S10E05.mp4"
           }
@@ -7005,7 +8868,7 @@
         {
           "id": "s10e06",
           "title": "Episodio 6",
-          "slotId": "ep_623",
+          "slotId": "ep_865",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/invencible/T1/invencible_S10E06.mp4"
           }
@@ -7013,7 +8876,7 @@
         {
           "id": "s10e07",
           "title": "Episodio 7",
-          "slotId": "ep_624",
+          "slotId": "ep_866",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/invencible/T1/invencible_S10E07.mp4"
           }
@@ -7021,7 +8884,7 @@
         {
           "id": "s10e08",
           "title": "Episodio 8",
-          "slotId": "ep_625",
+          "slotId": "ep_867",
           "links": {
             "language_Spanish": "https://micinemaxr.b-cdn.net/Series/invencible/T1/invencible_S10E08.mp4"
           }
