@@ -2377,6 +2377,102 @@
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 6
+    },
+    {
+      "type": "movie",
+      "title": "Contraataque",
+      "description": "La historia sigue al capitán Guerrero y su escuadrón de fuerzas especiales mexicanas. Tras rescatar a unos rehenes, se convierten en objetivo de un poderoso cártel y caen en una emboscada. A partir de ahí, deben luchar por sobrevivir mientras intentan escapar y contraatacar, enfrentándose a sicarios en una batalla intensa por la vida.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/contraataque2025.mp4"
+      },
+      "id": "movie_083",
+      "addedAt": "2026-04-10T20:11:05.929Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 7
+    },
+    {
+      "type": "movie",
+      "title": "Corazones de acero",
+      "description": "Ambientada en los últimos días de la Segunda Guerra Mundial, la película sigue a un experimentado sargento que lidera un tanque llamado “Fury” junto a su tripulación en territorio enemigo. Acompañados por un joven soldado sin experiencia, deberán enfrentar misiones extremadamente peligrosas mientras avanzan en la Alemania nazi, luchando por sobrevivir en condiciones brutal",
+      "duration": "",
+      "rating": "R",
+      "quality": "None",
+      "section": "catalog",
+      "year": 2014,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/corazonesDeHierro2014.mp4"
+      },
+      "id": "movie_084",
+      "addedAt": "2026-04-10T20:13:50.173Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 8
+    },
+    {
+      "type": "movie",
+      "title": "El pacto",
+      "description": "Durante la guerra en Afganistán, el sargento John Kinley forma equipo con un intérprete local llamado Ahmed. Tras una emboscada, Ahmed arriesga su vida para salvarlo y llevarlo a un lugar seguro. Tiempo después, al enterarse de que su amigo y su familia quedaron abandonados, Kinley regresa a la zona de guerra para cumplir su promesa y rescatarlos.",
+      "duration": "",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/elPacto2023.mp4"
+      },
+      "id": "movie_085",
+      "addedAt": "2026-04-10T20:16:03.293Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 9
+    },
+    {
+      "type": "movie",
+      "title": "Sisu",
+      "description": "Ambientada en los últimos días de la Segunda Guerra Mundial, la historia sigue a un solitario buscador de oro y exsoldado que descubre un gran tesoro en Laponia. Cuando un grupo de nazis intenta robárselo, desatan la furia de un hombre aparentemente invencible, quien hará todo lo posible por recuperar lo que es suyo, desatando una brutal venganza.\n\n🎬 Género:",
+      "duration": "",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2026-04-10",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/sisu2022.mp4"
+      },
+      "id": "movie_086",
+      "addedAt": "2026-04-10T20:17:51.756Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 10
     }
   ],
   "series": [
